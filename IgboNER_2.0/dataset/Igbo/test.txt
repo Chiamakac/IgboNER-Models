@@ -1,0 +1,96 @@
+omoyele B-PER
+sowore I-PER
+
+o O
+buru O
+na O
+itinye O
+nkea O
+notutu O
+ikpe O
+igwu O
+wayo O
+ito O
+mmadu O
+itu O
+ogwunigwe O
+na O
+enweghi O
+ihe O
+ndi O
+naenyere O
+ohaneze O
+aka O
+kedu O
+etu O
+i O
+si O
+che O
+na O
+oke O
+ogaranya O
+nke O
+monaco B-LOC
+
+nke O
+hutara O
+ezigbo O
+ohere O
+azumahia O
+na O
+naijiria B-LOC
+
+di O
+nederede O
+rugaara O
+aka O
+na O
+mmegide O
+omoyele B-PER
+sowore I-PER
+
+akunauba O
+orji O
+kalu O
+aburula O
+nke O
+efcc B-ORG
+
+site O
+nokwu O
+nke O
+onu O
+naekwuru O
+ulooru O
+ahu O
+wilson B-PER
+uwujaren I-PER
+
+nabali O
+nke O
+ise O
+n'onwa O
+disemba B-DATE
+n'afo I-DATE
+2019 I-DATE
+
+n'ulo B-ORG
+ikpe I-ORG
+ukwu I-ORG
+nke I-ORG
+ikoyi I-ORG
+
+di O
+na O
+lagos B-LOC
+
+site O
+nokwu O
+nke O
+onu O
+naekwuru O
+ulooru O
+ahu O
+wilson B-PER
+uwujaren I-PER
+
