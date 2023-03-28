@@ -1,0 +1,587 @@
+{
+   "emp1": {
+      "id": "id",
+      "tokens": "tokens",
+      "ner_tags": "ner_tags"
+   },
+   "emp2": {
+      "id": "1.",
+      "tokens": "mu",
+      "ner_tags": "O"
+   },
+   "emp3": {
+      "id": "2.",
+      "tokens": "onwe",
+      "ner_tags": "O"
+   },
+   "emp4": {
+      "id": "3.",
+      "tokens": "m",
+      "ner_tags": "O"
+   },
+   "emp5": {
+      "id": "4.",
+      "tokens": "nwere",
+      "ner_tags": "O"
+   },
+   "emp6": {
+      "id": "5.",
+      "tokens": "ebumnobi",
+      "ner_tags": "O"
+   },
+   "emp7": {
+      "id": "6.",
+      "tokens": "nye",
+      "ner_tags": "O"
+   },
+   "emp8": {
+      "id": "7.",
+      "tokens": "naijiria",
+      "ner_tags": "B-LOC"
+   },
+   "emp9": {
+      "id": "9.",
+      "tokens": "na",
+      "ner_tags": "O"
+   },
+   "emp10": {
+      "id": "10.",
+      "tokens": "gunye",
+      "ner_tags": "O"
+   },
+   "emp11": {
+      "id": "11.",
+      "tokens": "ndi",
+      "ner_tags": "O"
+   },
+   "emp12": {
+      "id": "12.",
+      "tokens": "amaala",
+      "ner_tags": "O"
+   },
+   "emp13": {
+      "id": "13.",
+      "tokens": "ozo",
+      "ner_tags": "O"
+   },
+   "emp14": {
+      "id": "14.",
+      "tokens": "dika",
+      "ner_tags": "O"
+   },
+   "emp15": {
+      "id": "15.",
+      "tokens": "omoyele",
+      "ner_tags": "B-PER"
+   },
+   "emp16": {
+      "id": "16.",
+      "tokens": "sowore",
+      "ner_tags": "I-PER"
+   },
+   "emp17": {
+      "id": "18.",
+      "tokens": "o",
+      "ner_tags": "O"
+   },
+   "emp18": {
+      "id": "19.",
+      "tokens": "buru",
+      "ner_tags": "O"
+   },
+   "emp19": {
+      "id": "20.",
+      "tokens": "na",
+      "ner_tags": "O"
+   },
+   "emp20": {
+      "id": "21.",
+      "tokens": "ngaghari",
+      "ner_tags": "O"
+   },
+   "emp21": {
+      "id": "22.",
+      "tokens": "iwe",
+      "ner_tags": "O"
+   },
+   "emp22": {
+      "id": "23.",
+      "tokens": "na",
+      "ner_tags": "O"
+   },
+   "emp23": {
+      "id": "24.",
+      "tokens": "ikpo",
+      "ner_tags": "O"
+   },
+   "emp24": {
+      "id": "25.",
+      "tokens": "ngaghari",
+      "ner_tags": "O"
+   },
+   "emp25": {
+      "id": "26.",
+      "tokens": "iwe",
+      "ner_tags": "O"
+   },
+   "emp26": {
+      "id": "27.",
+      "tokens": "njeghari",
+      "ner_tags": "O"
+   },
+   "emp27": {
+      "id": "28.",
+      "tokens": "ugbua",
+      "ner_tags": "O"
+   },
+   "emp28": {
+      "id": "29.",
+      "tokens": "bu",
+      "ner_tags": "O"
+   },
+   "emp29": {
+      "id": "30.",
+      "tokens": "ida",
+      "ner_tags": "O"
+   },
+   "emp30": {
+      "id": "31.",
+      "tokens": "iwu",
+      "ner_tags": "O"
+   },
+   "emp31": {
+      "id": "32.",
+      "tokens": "ndi",
+      "ner_tags": "O"
+   },
+   "emp32": {
+      "id": "33.",
+      "tokens": "uloikpe",
+      "ner_tags": "O"
+   },
+   "emp33": {
+      "id": "34.",
+      "tokens": "kwesirila",
+      "ner_tags": "O"
+   },
+   "emp34": {
+      "id": "35.",
+      "tokens": "ima",
+      "ner_tags": "O"
+   },
+   "emp35": {
+      "id": "36.",
+      "tokens": "omoyele",
+      "ner_tags": "B-PER"
+   },
+   "emp36": {
+      "id": "37.",
+      "tokens": "sowore",
+      "ner_tags": "I-PER"
+   },
+   "emp37": {
+      "id": "39.",
+      "tokens": "ikpe",
+      "ner_tags": "O"
+   },
+   "emp38": {
+      "id": "40.",
+      "tokens": "ka",
+      "ner_tags": "O"
+   },
+   "emp39": {
+      "id": "41.",
+      "tokens": "ha",
+      "ner_tags": "O"
+   },
+   "emp40": {
+      "id": "42.",
+      "tokens": "jidesiri",
+      "ner_tags": "O"
+   },
+   "emp41": {
+      "id": "43.",
+      "tokens": "ya",
+      "ner_tags": "O"
+   },
+   "emp42": {
+      "id": "44.",
+      "tokens": "ihe",
+      "ner_tags": "O"
+   },
+   "emp43": {
+      "id": "45.",
+      "tokens": "kariri",
+      "ner_tags": "B-DATE"
+   },
+   "emp44": {
+      "id": "46.",
+      "tokens": "abali",
+      "ner_tags": "I-DATE"
+   },
+   "emp45": {
+      "id": "47.",
+      "tokens": "otu",
+      "ner_tags": "I-DATE"
+   },
+   "emp46": {
+      "id": "48.",
+      "tokens": "nari",
+      "ner_tags": "I-DATE"
+   },
+   "emp47": {
+      "id": "49.",
+      "tokens": "na",
+      "ner_tags": "I-DATE"
+   },
+   "emp48": {
+      "id": "50.",
+      "tokens": "iri",
+      "ner_tags": "I-DATE"
+   },
+   "emp49": {
+      "id": "51.",
+      "tokens": "abuo",
+      "ner_tags": "I-DATE"
+   },
+   "emp50": {
+      "id": "53.",
+      "tokens": "i",
+      "ner_tags": "O"
+   },
+   "emp51": {
+      "id": "54.",
+      "tokens": "hula",
+      "ner_tags": "O"
+   },
+   "emp52": {
+      "id": "55.",
+      "tokens": "ana",
+      "ner_tags": "O"
+   },
+   "emp53": {
+      "id": "56.",
+      "tokens": "m",
+      "ner_tags": "O"
+   },
+   "emp54": {
+      "id": "57.",
+      "tokens": "ede",
+      "ner_tags": "O"
+   },
+   "emp55": {
+      "id": "58.",
+      "tokens": "ihe",
+      "ner_tags": "O"
+   },
+   "emp56": {
+      "id": "59.",
+      "tokens": "ederede",
+      "ner_tags": "O"
+   },
+   "emp57": {
+      "id": "60.",
+      "tokens": "a",
+      "ner_tags": "O"
+   },
+   "emp58": {
+      "id": "61.",
+      "tokens": "maka",
+      "ner_tags": "O"
+   },
+   "emp59": {
+      "id": "62.",
+      "tokens": "na",
+      "ner_tags": "O"
+   },
+   "emp60": {
+      "id": "63.",
+      "tokens": "mmadu",
+      "ner_tags": "O"
+   },
+   "emp61": {
+      "id": "64.",
+      "tokens": "gwara",
+      "ner_tags": "O"
+   },
+   "emp62": {
+      "id": "65.",
+      "tokens": "m",
+      "ner_tags": "O"
+   },
+   "emp63": {
+      "id": "66.",
+      "tokens": "ka",
+      "ner_tags": "O"
+   },
+   "emp64": {
+      "id": "67.",
+      "tokens": "wepu",
+      "ner_tags": "O"
+   },
+   "emp65": {
+      "id": "68.",
+      "tokens": "onu",
+      "ner_tags": "O"
+   },
+   "emp66": {
+      "id": "69.",
+      "tokens": "nokwu",
+      "ner_tags": "O"
+   },
+   "emp67": {
+      "id": "70.",
+      "tokens": "sowore",
+      "ner_tags": "B-PER"
+   },
+   "emp68": {
+      "id": "72.",
+      "tokens": "o",
+      "ner_tags": "O"
+   },
+   "emp69": {
+      "id": "73.",
+      "tokens": "buru",
+      "ner_tags": "O"
+   },
+   "emp70": {
+      "id": "74.",
+      "tokens": "na",
+      "ner_tags": "O"
+   },
+   "emp71": {
+      "id": "75.",
+      "tokens": "ala",
+      "ner_tags": "O"
+   },
+   "emp72": {
+      "id": "76.",
+      "tokens": "gi",
+      "ner_tags": "O"
+   },
+   "emp73": {
+      "id": "77.",
+      "tokens": "buru",
+      "ner_tags": "O"
+   },
+   "emp74": {
+      "id": "78.",
+      "tokens": "banana",
+      "ner_tags": "O"
+   },
+   "emp75": {
+      "id": "79.",
+      "tokens": "republic",
+      "ner_tags": "O"
+   },
+   "emp76": {
+      "id": "80.",
+      "tokens": "ebe",
+      "ner_tags": "O"
+   },
+   "emp77": {
+      "id": "81.",
+      "tokens": "ana",
+      "ner_tags": "O"
+   },
+   "emp78": {
+      "id": "82.",
+      "tokens": "atoro",
+      "ner_tags": "O"
+   },
+   "emp79": {
+      "id": "83.",
+      "tokens": "ndi",
+      "ner_tags": "O"
+   },
+   "emp80": {
+      "id": "84.",
+      "tokens": "mmadu",
+      "ner_tags": "O"
+   },
+   "emp81": {
+      "id": "85.",
+      "tokens": "nulo",
+      "ner_tags": "O"
+   },
+   "emp82": {
+      "id": "86.",
+      "tokens": "ikpe",
+      "ner_tags": "O"
+   },
+   "emp83": {
+      "id": "87.",
+      "tokens": "n'etiti",
+      "ner_tags": "B-DATE"
+   },
+   "emp84": {
+      "id": "88.",
+      "tokens": "ehihie",
+      "ner_tags": "I-DATE"
+   },
+   "emp85": {
+      "id": "90.",
+      "tokens": "azumahia",
+      "ner_tags": "O"
+   },
+   "emp86": {
+      "id": "91.",
+      "tokens": "obula",
+      "ner_tags": "O"
+   },
+   "emp87": {
+      "id": "92.",
+      "tokens": "ma",
+      "ner_tags": "O"
+   },
+   "emp88": {
+      "id": "93.",
+      "tokens": "ihe",
+      "ner_tags": "O"
+   },
+   "emp89": {
+      "id": "94.",
+      "tokens": "ha",
+      "ner_tags": "O"
+   },
+   "emp90": {
+      "id": "95.",
+      "tokens": "naeme",
+      "ner_tags": "O"
+   },
+   "emp91": {
+      "id": "96.",
+      "tokens": "naenwe",
+      "ner_tags": "O"
+   },
+   "emp92": {
+      "id": "97.",
+      "tokens": "mkpesa",
+      "ner_tags": "O"
+   },
+   "emp93": {
+      "id": "98.",
+      "tokens": "kwa",
+      "ner_tags": "B-DATE"
+   },
+   "emp94": {
+      "id": "99.",
+      "tokens": "afo",
+      "ner_tags": "I-DATE"
+   },
+   "emp95": {
+      "id": "101.",
+      "tokens": "na",
+      "ner_tags": "O"
+   },
+   "emp96": {
+      "id": "102.",
+      "tokens": "ngwusi",
+      "ner_tags": "B-DATE"
+   },
+   "emp97": {
+      "id": "103.",
+      "tokens": "afo",
+      "ner_tags": "I-DATE"
+   },
+   "emp98": {
+      "id": "104.",
+      "tokens": "obula",
+      "ner_tags": "I-DATE"
+   },
+   "emp99": {
+      "id": "106.",
+      "tokens": "omumaatu",
+      "ner_tags": "O"
+   },
+   "emp100": {
+      "id": "107.",
+      "tokens": "site",
+      "ner_tags": "O"
+   },
+   "emp101": {
+      "id": "108.",
+      "tokens": "na",
+      "ner_tags": "O"
+   },
+   "emp102": {
+      "id": "109.",
+      "tokens": "njo",
+      "ner_tags": "O"
+   },
+   "emp103": {
+      "id": "110.",
+      "tokens": "nlekota",
+      "ner_tags": "O"
+   },
+   "emp104": {
+      "id": "111.",
+      "tokens": "nke",
+      "ner_tags": "O"
+   },
+   "emp105": {
+      "id": "112.",
+      "tokens": "ahuike",
+      "ner_tags": "O"
+   },
+   "emp106": {
+      "id": "113.",
+      "tokens": "nala",
+      "ner_tags": "O"
+   },
+   "emp107": {
+      "id": "114.",
+      "tokens": "anyi",
+      "ner_tags": "O"
+   },
+   "emp108": {
+      "id": "115.",
+      "tokens": "taa",
+      "ner_tags": "B-DATE"
+   },
+   "emp109": {
+      "id": "117.",
+      "tokens": "dika",
+      "ner_tags": "O"
+   },
+   "emp110": {
+      "id": "118.",
+      "tokens": "odara",
+      "ner_tags": "O"
+   },
+   "emp111": {
+      "id": "119.",
+      "tokens": "iwu",
+      "ner_tags": "O"
+   },
+   "emp112": {
+      "id": "120.",
+      "tokens": "ejeghi",
+      "ner_tags": "O"
+   },
+   "emp113": {
+      "id": "121.",
+      "tokens": "nga",
+      "ner_tags": "O"
+   },
+   "emp114": {
+      "id": "122.",
+      "tokens": "buurula",
+      "ner_tags": "O"
+   },
+   "emp115": {
+      "id": "123.",
+      "tokens": "omenala",
+      "ner_tags": "O"
+   },
+   "emp116": {
+      "id": "124.",
+      "tokens": "nafo",
+      "ner_tags": "O"
+   },
+   "emp117": {
+      "id": "125.",
+      "tokens": "1984",
+      "ner_tags": "B-DATE"
+   }
+}
