@@ -1,29 +1,29 @@
-id token ner_tags
-1. ka O
-2. oku O
-3. gbara O
-4. n O
-5. ubochi O
-6. tuzdee B-DATE
-7. 
-8. n O
-9. oku O
-10. onu B-DATE
-11. ututu I-DATE
-12. 
-13. gbapiara O
-14. ebe O
-15. ndebe O
-16. ozu O
-17. nke O
-18. ngalaba B-ORG
-19. anatomi I-ORG
-20. nke I-ORG
-21. mahadum I-ORG
-22. obafemi I-ORG
-23. awolowo I-ORG
-24. 
-25. ile O
-26. ife O
-27. osun B-LOC
-28. steeti I-LOC
+id	token	ner_tags
+1	ka	O
+2	oku	O
+3	gbara	O
+4	n	O
+5	ubochi	O
+6	tuzdee	B-DATE
+7		
+8	n	O
+9	oku	O
+10	onu	B-DATE
+11	ututu	I-DATE
+12		
+13	gbapiara	O
+14	ebe	O
+15	ndebe	O
+16	ozu	O
+17	nke	O
+18	ngalaba	B-ORG
+19	anatomi	I-ORG
+20	nke	I-ORG
+21	mahadum	I-ORG
+22	obafemi	I-ORG
+23	awolowo	I-ORG
+24		
+25	ile	O
+26	ife	O
+27	osun	B-LOC
+28	steeti	I-LOC
