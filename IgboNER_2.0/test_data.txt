@@ -1,0 +1,10945 @@
+onye	O
+na	O
+	
+emere	O
+na	O
+abughi	O
+atiku	B-PER
+bbc	B-ORG
+nasompi	O
+	
+afo	I-DATE
+ulooru	O
+meputa	O
+kalu	O
+naijiria	O
+nke	O
+ndi	O
+krane	I-PER
+oku	O
+enugwu	B-LOC
+afirika	I-LOC
+cbn	B-ORG
+abuo	O
+ka	O
+afo	I-DATE
+okwa	O
+nke	O
+france	B-LOC
+na	O
+nkiri	O
+govano	O
+okwu	O
+pejii	O
+	
+ya	O
+onwa	B-DATE
+	
+oku	O
+naijiria	B-LOC
+olenaole	I-DATE
+otu	O
+	
+	
+isi	O
+site	O
+nyeere	O
+ahia	O
+',	O
+	
+bbc	B-ORG
+o	O
+ikpa	O
+ano	O
+kwesiri	O
+amarala	O
+uganda	O
+	
+nke	O
+mbu	O
+ha	O
+sowore	B-PER
+campus	I-ORG
+otu	O
+nenugu	O
+	
+	
+aku	I-ORG
+buhari	B-PER
+1102	O
+ozi	O
+	
+mmekorita	O
+na	O
+ihe	O
+ebe	O
+ozu	O
+jenuwari	B-DATE
+	
+na	O
+association	B-ORG
+abuo	O
+ike	O
+burukwa	O
+post	I-ORG
+urban	O
+	
+na	O
+agha	O
+bawanye	O
+	
+njeozi	O
+amerika	I-LOC
+tai	B-PER
+a	O
+onye	O
+naenyo	O
+goomenti	O
+a	O
+nke	O
+choro	O
+meruru	O
+buru	O
+aghugho	O
+ozo	O
+idi	I-PER
+o	O
+a	O
+mba	O
+ezi	O
+	
+egwuregwu	O
+	
+nanwu	O
+dika	O
+mmadu	O
+na	O
+no	O
+	
+nigeria	O
+	
+gawa	O
+working	I-ORG
+onyeisi	O
+si	O
+kachasi	O
+nabiokwuta	O
+na	O
+eagles	B-ORG
+oche	O
+ngo	O
+bar	I-ORG
+gaeme	O
+na	O
+o	O
+umunwaanyi	O
+	
+	
+ji	O
+mmeto	O
+christmas	B-DATE
+nne	O
+	
+chetakwa	O
+chere	O
+	
+achoro	O
+nke	O
+ochichi	O
+naijiria	B-LOC
+	
+	
+govano	O
+ihe	O
+nta	O
+nkea	O
+ugwo	O
+ndi	O
+nezie	O
+uwe	I-ORG
+otutu	O
+osun	B-ORG
+aba	O
+uzo	O
+	
+goro	O
+nowuwa	O
+	
+buru	O
+m	O
+ya	O
+nke	I-DATE
+na	O
+	
+otu	O
+buhari	B-PER
+adedayo	I-PER
+naozi	O
+o	O
+n	O
+nime	O
+	
+dota	O
+ndi	O
+na	O
+	
+n	O
+nye	O
+noge	O
+	
+snehangshu	B-PER
+ka	O
+thomas	B-PER
+24	I-DATE
+afo	B-DATE
+	
+mba	O
+onye	O
+ma	O
+	
+mba	O
+a	O
+	
+bu	O
+na	O
+wee	O
+meriri	O
+akuko	O
+so	O
+mechara	O
+olenaole	I-DATE
+	
+goolu	O
+osu	O
+yusuf	B-PER
+maazi	O
+	
+nagidere	O
+big	O
+	
+o	O
+hu	O
+ga	O
+bi	O
+akwkwo	O
+ghana	B-LOC
+nke	O
+ihe	O
+imo	B-LOC
+uloikpe	O
+ogbako	O
+ato	O
+na	O
+tinyeworo	O
+omebe	O
+ubochi	I-DATE
+di	O
+nta	O
+	
+ede	O
+ike	O
+ife	I-ORG
+naemenyu	O
+gaabu	O
+camp	B-LOC
+n	O
+a	O
+bi	O
+juwa	O
+nzuzo	O
+ime	O
+burula	O
+diaspora	O
+	
+simone	B-PER
+anyi	O
+fraud	O
+ndi	O
+wulie	O
+nta	O
+benjamin	B-PER
+ichu	O
+nwere	O
+mee	O
+naagwa	O
+akwukwo	O
+	
+i	O
+	
+naijiria	B-LOC
+onyeisiala	O
+ihe	O
+	
+kwesiri	O
+otu	O
+elumelu	I-ORG
+nke	I-LOC
+omo	O
+	
+	
+nwosu	I-PER
+oru	O
+n	O
+	
+ndi	O
+ozo	O
+adviser,	O
+	
+mere	O
+bu	O
+task	I-ORG
+	
+	
+site	O
+tozde	B-DATE
+ala	O
+nwoke	O
+nne	O
+onyeisi	O
+gunyere	O
+iweta	O
+egbuola	O
+oge	O
+a	O
+echi	B-DATE
+haram	I-ORG
+egwuregwu	O
+oparanozie	I-PER
+dika	O
+boko	B-ORG
+abanyela	O
+rite	O
+anambra	O
+	
+m	O
+afrika	O
+obula	O
+erepiala	O
+babangida	B-PER
+ato	I-DATE
+onye	O
+naahu	O
+mee	O
+nkeji	B-DATE
+ike	O
+naesote	O
+maka	O
+ndi	O
+odi	O
+	
+iche	O
+12	O
+dr	O
+voice	O
+niile	O
+ngosi	O
+abughi	O
+adegbola	I-PER
+opeka	O
+o	O
+anyi	O
+nubochi	O
+bidoro	O
+naakpagbu	O
+eme	O
+na	O
+ncheta	O
+goomenti	O
+sowore	B-PER
+ji	O
+ozi	O
+nhapu	O
+o	O
+e	O
+o	O
+ochichi	O
+nke	I-ORG
+afrika	I-LOC
+nihe	O
+1974	I-DATE
+	
+alakuba	O
+	
+bu	O
+si	O
+	
+onye	O
+odoahia	O
+banyere	O
+ugbo	O
+ama	B-ORG
+owa	O
+ekpe	O
+oke	O
+nde	O
+imoh	O
+asatara	O
+	
+pasenti	O
+mba	O
+ohi	O
+ndi	O
+mgbali	O
+	
+ugwu	I-LOC
+anyi	O
+maka	O
+iko	O
+minista	O
+obiano	I-PER
+dokita	O
+nke	I-ORG
+na	O
+kpebie	O
+	
+tokyo	O
+disobedience	O
+ikpe	O
+ego	O
+agha	O
+a	O
+	
+ndumaodu	O
+	
+twitter	O
+	
+	
+	
+afrika	O
+	
+ubochi	O
+nwechara	O
+mmemme	O
+ka	O
+o	O
+oge	O
+mmadu	O
+naijiria	B-LOC
+aliyu	B-PER
+okporo	O
+mba	O
+gosi	O
+	
+ukraine	B-LOC
+di	O
+kpoola	O
+n	O
+	
+ahia	B-LOC
+ndi	O
+oba	O
+ozo	O
+	
+bu	O
+arizona	B-LOC
+zute	O
+	
+ajaokuta	B-ORG
+	
+nna	O
+india	B-LOC
+	
+mmeri	O
+onu	O
+agha	O
+nke	O
+	
+okpuru	B-LOC
+leicester	B-LOC
+economic	B-ORG
+ndi	O
+nogbako	O
+eze	O
+	
+nke	O
+govano	O
+gara	O
+october	B-DATE
+onodu	O
+asomumpi	O
+naeto	O
+onye	O
+ka	O
+nke	O
+taa	B-DATE
+	
+soo	O
+nke	O
+	
+	
+kwuru	O
+na	O
+ahmadu	B-PER
+nwankwo	I-PER
+ana	O
+	
+buhari	B-PER
+nke	O
+mpaghara	O
+	
+oke	O
+nke	O
+nabatara	O
+sango	B-LOC
+ncha	O
+agbarala	O
+bu	O
+enyeela	O
+kwuru	O
+	
+mkpebi	O
+	
+nwunye	O
+	
+ibu	O
+achoghi	O
+fort	O
+	
+oge	O
+cbn	B-ORG
+	
+	
+bi	O
+ya	O
+ala	O
+apc	B-ORG
+onwa	I-DATE
+onu	O
+ebere	B-PER
+r	O
+onye	O
+banky	B-PER
+mee	O
+	
+ndi	O
+nwee	O
+ukwu	O
+na	O
+dika	O
+mana	O
+stamp	O
+na	O
+boseman	I-PER
+	
+	
+na	O
+bu	O
+nke	O
+ka	O
+gakwara	O
+nigeria	O
+ahu	O
+mgbawa	O
+	
+ji	O
+xenophobia	O
+hu	O
+na	O
+uzo	O
+	
+	
+olenaole	I-DATE
+commonwealth	B-ORG
+na	O
+n'onwa	B-DATE
+ya	O
+na	O
+nigeria	I-ORG
+delta	B-LOC
+katolik	O
+abuja	B-LOC
+na	O
+n	O
+ha	O
+o	O
+na	O
+nke	O
+mz	O
+o	O
+operation	O
+	
+2019	I-DATE
+kpuchiri	O
+ogu	O
+maka	O
+otu	O
+kpamkpam	O
+onye	O
+nne	O
+ndi	O
+bala	B-PER
+stadium	O
+metutara	O
+midia	O
+choo	O
+codeine	O
+o	O
+gosiri	O
+nke	O
+	
+	
+ahu	O
+black	I-ORG
+	
+	
+	
+na	O
+o	O
+igbosere	I-ORG
+egwuregwu	O
+otu	O
+nke	O
+	
+nnabata	O
+nke	O
+naeme	O
+gaekekorita	O
+na	O
+okporo	O
+ndi	O
+ha	O
+nyochaa	O
+buhari	B-PER
+nafo	O
+n	O
+naijiria	B-LOC
+ihe	O
+	
+operation	O
+eze	O
+	
+	
+nke	O
+nuj	B-ORG
+o	O
+n	O
+ala	O
+	
+aka	O
+okammuta	O
+	
+clinton	B-PER
+di	O
+isi	I-DATE
+wenesde	O
+diri	O
+o	O
+dr	O
+ugboro	O
+kpatara	O
+nke	O
+na	O
+	
+obere	O
+gaaru	O
+	
+ebumnuche	O
+ihe	O
+egbe	O
+	
+ighalo	B-PER
+emere	O
+	
+rue	O
+juru	O
+ibu	O
+si	O
+ufodu	O
+ojii	O
+n'iwu	O
+nke	O
+saraki	I-PER
+na	O
+nexusguard	B-ORG
+erasmus	B-PER
+iri	O
+na	O
+onyonyo	O
+onye	O
+aga	I-DATE
+no	O
+show	O
+	
+	
+nnamdi	O
+brentwood	B-LOC
+	
+o	O
+uzo	O
+naijiria	O
+duru	O
+	
+	
+buru	O
+o	O
+arsenal	O
+	
+asusu	O
+chibok	O
+isii	O
+	
+enaholo	I-PER
+si	O
+janeiro	I-LOC
+afo	B-DATE
+mmadu	O
+ndi	O
+ebe	O
+ike	O
+ndi	O
+nke	O
+adesina	I-PER
+nwoke	O
+hoputara	O
+enwere	O
+don	B-PER
+na	O
+nolulu	O
+naijiria	O
+	
+gaahu	O
+okara	I-DATE
+nulge	B-ORG
+	
+	
+nde	O
+	
+mgbere	O
+division	O
+bu	O
+gaebu	O
+mgba	O
+otu	O
+ndi	O
+maka	O
+ozo	O
+al	B-PER
+nke	O
+m	O
+nde	O
+ahu	O
+soso	B-DATE
+	
+barcelona	B-LOC
+nala	O
+icheiche	O
+nihe	O
+na	O
+onye	O
+afo	B-DATE
+2019	I-DATE
+n'okwa	O
+mandela	I-PER
+na	O
+ohere	O
+anwuchie	O
+inec	B-ORG
+na	O
+bi	O
+ya	O
+maka	O
+obi	O
+banye	O
+govano	O
+na	O
+buhari	B-PER
+lee	O
+nke	O
+akwukwo	O
+anambra	O
+	
+apc	B-ORG
+mba	O
+oche	O
+inweghachi	O
+okoh	I-PER
+nke	O
+	
+ntuli	O
+	
+ndi	I-ORG
+ajimobi	I-PER
+na	O
+ha	O
+ahu	O
+dika	O
+otu	O
+plateau	B-LOC
+echeta	O
+remove	O
+	
+gaesote	O
+ihe	O
+akwukwo	O
+bu	O
+ihe	O
+maka	O
+o	O
+	
+akunuba	O
+na	O
+n	O
+o	O
+ha	O
+onyeisi	O
+onye	O
+chime	O
+ugbua	O
+aga	I-DATE
+nogostu	O
+okpuru	B-LOC
+ohi	O
+efcc	B-ORG
+afara	B-LOC
+eze	O
+naeru	O
+nke	O
+n	O
+	
+igbara	O
+na	O
+site	O
+di	O
+okorocha	I-PER
+nzoukwu	O
+could	O
+	
+yurop	O
+	
+naijiria	B-LOC
+otu	O
+	
+taiwo	O
+	
+aisha	B-PER
+okwa	O
+nke	O
+di	O
+	
+igbanwe	O
+o	O
+adejolu	I-PER
+	
+ya	I-DATE
+roshia	B-LOC
+nigeria	O
+nokporo	O
+ghara	O
+inyama	I-PER
+	
+bishop	B-PER
+kanu	B-PER
+ulo	O
+	
+boolu	O
+ubochi	O
+agumakwukwo	O
+ha	O
+a	O
+iwu	O
+mere	O
+	
+ozo	I-DATE
+na	O
+ya	O
+no	O
+2018	I-DATE
+	
+umunne	O
+di	O
+	
+falana	I-PER
+eforola	O
+okachamara	O
+emume	O
+onye	O
+twita	O
+o	O
+all	O
+o	O
+mba	O
+west	O
+kenneth	B-PER
+oru	O
+okaikpe	O
+nke	O
+okwu	O
+ha	O
+nulo	O
+igbo	O
+onye	O
+ime	O
+mmalite	O
+south	B-LOC
+moses	O
+ka	O
+ven	O
+di	O
+oru	O
+na	O
+na	O
+ozi	O
+naijiria	O
+nke	O
+naakowa	O
+dika	O
+akuko	O
+agbasola	O
+	
+onuego	O
+moi	O
+	
+	
+	
+uru	O
+ugbu	O
+in	O
+gaano	O
+onye	O
+ndi	O
+williams	I-PER
+ji	O
+ka	O
+ato	O
+sharia	O
+na	O
+dibia	O
+uwa	O
+ekele	O
+iru	O
+di	O
+concord	I-ORG
+ha	O
+	
+zuru	O
+mkpa	O
+na	O
+igbo	O
+mbu	O
+	
+esonyeghi	O
+	
+e	O
+ruturu	O
+utu	O
+ndi	O
+	
+uchechi	B-PER
+ndi	O
+tupu	O
+steeti	O
+che	I-PER
+mexico	B-LOC
+lfesinachi	I-PER
+ba	O
+	
+nkwado	O
+nke	O
+otu	O
+ochichi	O
+na	O
+kariri	O
+omume	O
+olaedo	O
+e	O
+ihe	O
+o	O
+	
+nnamdi	B-PER
+airport	I-LOC
+	
+itu	O
+ugbo	O
+	
+nkwado	O
+nime	O
+apc	B-ORG
+aputaghi	O
+naijiria	O
+ha	O
+cheta	O
+	
+nihe	O
+haziri	O
+na	I-DATE
+nke	O
+septemba	B-DATE
+mazi	O
+nime	O
+	
+rio	O
+na	O
+tuc	B-ORG
+	
+mba	O
+na	O
+aa	O
+	
+bu	O
+na	O
+hand	O
+nwunye	O
+	
+afo	I-DATE
+otu	O
+egbuola	O
+kwuru	O
+imanye	O
+nwa	O
+ikposa	O
+nke	O
+kwuo	O
+america	O
+nke	O
+oru	O
+otu	B-ORG
+goomenti	O
+	
+banyere	O
+bu	O
+	
+	
+ibanye	O
+ndi	O
+ihe	O
+na	O
+agha	O
+iwere	O
+onye	O
+	
+kwesiri	O
+bbn	O
+nke	O
+ihe	O
+foods	I-ORG
+nke	O
+nasusu	O
+hoputara	O
+ndi	O
+katoro	O
+ndi	O
+	
+	
+ha	O
+asusu	O
+	
+anambara	O
+ya	O
+	
+igwe	O
+bu	O
+di	O
+onyeisi	O
+ndi	O
+oru	O
+'nwoke',	O
+isii	I-DATE
+okpukpo	O
+mmeghari	O
+	
+oge	O
+naagbara	O
+agency	I-ORG
+gbara	O
+mmemme	O
+kwuru	O
+naeme	O
+ka	O
+ihe	O
+	
+emmanuel	B-PER
+bbc	B-ORG
+exxon	B-ORG
+	
+	
+owuwa	I-LOC
+di	O
+nwode	I-PER
+ndi	O
+zaharaddeen	I-PER
+east	O
+malawi	B-LOC
+ya	O
+agbako	O
+maka	O
+ahu	O
+ma	O
+gafee	O
+mana	O
+	
+charles	B-PER
+kwuru	O
+abdulaziz	B-PER
+ugwu	B-LOC
+oraifite	O
+nnamdi	B-PER
+bu	O
+o	O
+na	O
+1927	B-DATE
+	
+onwu	O
+ugwo	O
+bbc	O
+aha	O
+nala	O
+onyeisi	O
+watergate	O
+mgbere	O
+ekwuola	O
+	
+ndi	O
+ha	O
+uweojii	O
+plc	I-ORG
+ha	O
+ntuliaka	O
+naedobe	O
+	
+erite	O
+na	O
+ndi	O
+nwosu	I-PER
+sonyere	O
+	
+	
+	
+maka	O
+pasenti	O
+na	O
+chelsea	B-ORG
+fc	B-ORG
+afo	B-DATE
+ndi	O
+ha	O
+ufodu	O
+a	O
+mgbago	O
+na	O
+onwa	I-DATE
+dokinta	O
+na	O
+kwuru	O
+choro	O
+ihe	O
+ha	O
+lee	O
+ahmadu	I-ORG
+e	O
+ibu	O
+ugbo	O
+charles	B-PER
+	
+ihe	O
+ulo	B-ORG
+govano	O
+ndi	O
+ebe	O
+na	O
+ugboro	O
+umuaka	O
+	
+aba	B-LOC
+ike	O
+agwaala	O
+	
+omekome	O
+nafo	O
+	
+a	O
+obula	I-DATE
+	
+nwata	O
+	
+baga	B-LOC
+inec	O
+	
+anoro	O
+onye	O
+mkporo	O
+etu	O
+abuo	O
+	
+ruo	O
+imo	B-LOC
+limited	I-ORG
+ruwanda	B-LOC
+2019	B-DATE
+esiri	O
+2017	B-DATE
+	
+obere	O
+a	O
+nke	O
+nke	O
+ahu	O
+diÄÂka	O
+iri	O
+	
+	
+na	O
+	
+haram	O
+	
+haram	I-ORG
+ka	O
+maka	O
+n'onu	B-DATE
+na	O
+ahu	O
+na	O
+nke	O
+mee	I-DATE
+mba	O
+nde	O
+obula	O
+ego	O
+ngaghari	O
+	
+na	O
+	
+forget	O
+nakwa	O
+onyeisiala	O
+ubochi	B-DATE
+	
+kwesiri	O
+kwara	I-ORG
+ndi	O
+nnamdi	B-PER
+kanu	I-PER
+ruo	B-DATE
+uwa	O
+na	O
+aga	O
+na	O
+ibeawuchi	B-PER
+anyi	O
+nwosu	I-PER
+	
+progressive	O
+1108	O
+sowore	O
+kwuru	O
+steeti	O
+mgbidi	O
+nigeria	I-ORG
+bu	O
+ya	O
+na	O
+si	O
+gbasara	O
+	
+kwuo	O
+onye	O
+tom	B-PER
+ise	O
+amaala	O
+guru	O
+nke	O
+nzuzo	O
+daura	B-LOC
+uwe	O
+ahu	O
+mba	O
+ike	O
+gover	I-PER
+ndi	O
+ya	O
+na	O
+na	O
+agha	O
+mbu	O
+27	O
+uche	B-PER
+naekenye	O
+nonu	O
+mgbe	O
+	
+dika	O
+ikpe	O
+osote	O
+bbc	B-ORG
+southeast	O
+	
+anambra	I-LOC
+nweta	O
+agbanyeghi	O
+maka	O
+chinedu	B-PER
+otu	O
+akaebe	O
+di	O
+i	O
+owele	B-PER
+	
+nkato	O
+ise	O
+igboukwu	B-LOC
+ise	O
+Ã¡Â»Å¤nÃ¡Â»ÄnÃ¡Â»Å¤	O
+nye	O
+n	O
+	
+dika	O
+gunyere	O
+	
+ihe	O
+access	O
+mbauwa	O
+ala	O
+	
+	
+bu	O
+chikwelu	B-PER
+afrika	B-LOC
+ya	O
+naijiria	O
+	
+afo	B-DATE
+e	O
+	
+oru	O
+mmadu	O
+anyi	O
+wayo	O
+	
+bu	O
+sonyere	O
+nnukwu	O
+mazi	O
+ndigide	O
+	
+oha	O
+otu	O
+punch	B-ORG
+mmata	O
+n	O
+e	O
+	
+	
+na	O
+mmadu	O
+mpi	O
+nkwekorita	O
+	
+di	O
+a	O
+ulo	O
+billion	O
+cato	I-ORG
+	
+	
+	
+ndi	O
+hawkins	I-PER
+national	I-ORG
+meputaghachi	O
+eagles	I-ORG
+	
+	
+afirika	B-LOC
+	
+1987	B-DATE
+ihere	O
+	
+	
+	
+	
+	
+nke	I-DATE
+ndi	O
+	
+nobi	O
+mmanu	O
+ajuju	O
+mmadu	O
+ndi	O
+ndi	O
+mmemme	O
+	
+2023	B-DATE
+musa	I-PER
+mgbe	O
+afo	B-DATE
+naakowara	O
+govano	O
+bu	O
+	
+ima	O
+naagu	O
+isi	O
+	
+nisi	O
+naijiria	O
+	
+	
+mmalite	O
+niile	O
+onweghi	O
+uwa	O
+anyi	O
+ngalaba	O
+ikike	O
+choro	O
+musa	I-PER
+o	O
+nihi	O
+	
+bbc	B-ORG
+nye	O
+inconclusive	O
+echichi	O
+si	O
+iwu	I-ORG
+abike	B-PER
+akuko	O
+mkpebi	O
+naijiria	O
+nwanze	B-PER
+tonga	B-LOC
+	
+onwe	O
+agha	O
+oru	O
+ya	O
+otutu	B-DATE
+ntakuko	O
+onyeisi	O
+naka	O
+	
+	
+ebe	O
+nnamdi	B-PER
+	
+naerite	O
+abuo	O
+	
+nikwu	O
+ngwa	O
+onye	O
+	
+soyinka	B-PER
+ya	O
+nkechi	B-PER
+o	O
+ndi	O
+ewepu	O
+mmadu	O
+buru	O
+naijiria	O
+	
+megide	O
+nwa	O
+fride	O
+a	I-DATE
+ha	O
+ruo	O
+ka	O
+ukwu	O
+democratic	I-ORG
+agbala	O
+	
+stock	I-ORG
+nha	O
+ndi	O
+neymar	B-PER
+ji	O
+a	I-DATE
+	
+mere	O
+isi	O
+	
+ama	O
+abuo	O
+ya	O
+amerika	O
+ndi	O
+akpo	O
+na	O
+isi	O
+hayek	I-PER
+inec	B-ORG
+nne	O
+boolu	O
+alhaji	O
+nke	O
+nyako	O
+ka	O
+nzuzo	O
+	
+mgborogwu	O
+nkuzi	O
+nasr	I-PER
+nnochiteanya	O
+afrika	B-LOC
+bu	O
+	
+aka	O
+ngosiputa	O
+obodo	O
+agha	O
+igp	O
+ha	O
+mmadu	O
+ndi	O
+na	O
+afo	O
+ugboro	O
+	
+aboubakar	B-PER
+steeti	B-LOC
+ihu	O
+	
+abuo	O
+selection	I-ORG
+nafo	O
+abuo	I-DATE
+ngaghari	O
+	
+sparvagens	B-LOC
+bu	O
+ime	O
+isi	O
+abuo	O
+aku	O
+otu	O
+	
+na	O
+agbanweela	O
+ulo	O
+johnson	I-PER
+kporo	O
+maka	O
+nagha	O
+	
+biri	O
+mba	O
+ruru	O
+uloikpe	O
+otu	O
+oka	I-ORG
+ntori	O
+	
+onyeisiala	O
+ha	O
+na	O
+ezigbo	O
+nwuchiri	O
+ndi	O
+onome	B-PER
+	
+mordi	I-PER
+naka	O
+uwe	O
+asisa	O
+leicester	B-LOC
+mpaghara	O
+abia	O
+zoro	O
+ebe	O
+bosu	O
+	
+mpaghara	O
+na	O
+asompi	O
+mmadu	O
+pasenti	O
+nke	O
+naijiria	B-LOC
+	
+	
+ihe	O
+ka	O
+bu	O
+ahu	O
+ndi	O
+afo	B-DATE
+oru	O
+nisi	O
+ego	O
+	
+boolu	O
+	
+ihe	O
+noro	O
+ato	O
+	
+ndi	O
+ebe	I-ORG
+n	O
+megide	O
+nke	O
+bureau	I-ORG
+soso	O
+nime	O
+akporo	O
+tinye	O
+	
+ezighi	O
+	
+	
+ufodu	O
+na	O
+gaacho	O
+ndi	O
+ya	O
+abuo	O
+ejeagwu	I-PER
+nwoke	O
+uweojii	O
+onyonyo	O
+	
+naazo	O
+omume	O
+	
+cho	O
+n'oru	I-ORG
+	
+naijiria	B-LOC
+	
+dara	O
+n	O
+	
+ndi	O
+ha	O
+pharmaceuticalsachuola	O
+e	O
+bu	O
+nari	I-DATE
+o	O
+bayern	O
+	
+nnochianya	O
+naijiria	B-ORG
+bu	O
+mpaghara	O
+pdp	B-ORG
+	
+	
+isi	O
+na	O
+yoruba	O
+udoh	I-PER
+chinwendu	B-PER
+nari	O
+na	O
+nwere	O
+sepu	O
+si	O
+naijiria	B-LOC
+niile	O
+ndi	O
+comishona	O
+nke	O
+kanu	I-PER
+inec	O
+ndi	O
+	
+ka	O
+naahu	O
+nruritauka	O
+george	B-PER
+summit	O
+nna	O
+nafo	O
+ntuliaka	O
+anyanwu	I-LOC
+	
+na	O
+naelekota	O
+otu	O
+ebe	O
+ministry	O
+be	O
+ebufe	O
+emzor	O
+	
+ato	O
+	
+	
+nke	O
+onyeisiala	O
+	
+asaa	O
+rubensson	I-PER
+election	O
+adighi	O
+umu	O
+	
+na	O
+nonuogugu	O
+	
+satode	O
+	
+naira	O
+fg	B-ORG
+ugboala	O
+na	O
+nguda	O
+'club	I-ORG
+nke	O
+mana	O
+ndi	O
+sowore	B-PER
+anyi	O
+omoyele	B-PER
+	
+minsk	B-LOC
+atiku	B-PER
+n'onwa	B-DATE
+	
+ndi	O
+	
+court	O
+onyeisi	O
+boko	O
+	
+nnukwu	O
+ka	O
+ma	O
+	
+na	O
+shi	B-PER
+	
+	
+nke	I-ORG
+ama	O
+netiti	O
+gasiri	O
+	
+iwu	O
+oge	O
+e	O
+anabata	O
+nkwuto	O
+show	O
+vincent	B-PER
+	
+joe	B-PER
+	
+ntoala	B-ORG
+otu	O
+ozo	O
+n'uzo	O
+group	I-ORG
+of	I-ORG
+ugbua	O
+n400	O
+1987	B-DATE
+achuzia	B-PER
+na	O
+ya	O
+na	O
+	
+na	O
+e	O
+ukwu	O
+ikike	O
+	
+steeti	O
+	
+ka	O
+mbu	O
+akpokuola	O
+	
+idemili	I-LOC
+nkwa	O
+metutara	O
+okwa	O
+chile	B-LOC
+bu	O
+bishop	B-PER
+akwukwo	O
+ndi	O
+imebi	O
+african	I-LOC
+nturugo	O
+nri	O
+ozo	O
+onyebubu	O
+agbanweghi	O
+	
+ogbahara	O
+akuko	O
+amerika	O
+naatu	O
+kwuru	O
+ninye	O
+ahu	O
+ulooru	O
+dika	O
+akuko	O
+bu	O
+ogunwale	B-PER
+legos	O
+kwuru	O
+ozigbo	O
+maiduguri	B-LOC
+na	O
+a	O
+ogwu	O
+ndi	O
+	
+	
+kwunyere	O
+ala	O
+ebe	O
+	
+	
+ikpe	O
+a	I-DATE
+ekweremadu	O
+nani	O
+kwuputara	O
+nulo	O
+onyeisioche	O
+o	O
+egbe	O
+drivers	O
+okpu	O
+n	O
+mmeri	O
+na	O
+otu	B-ORG
+bu	O
+jikoro	I-ORG
+nwuchiri	O
+	
+ndi	O
+ntuliaka	O
+ha	O
+na	O
+a	O
+agha	O
+ogugu	O
+ndu	O
+n	O
+	
+ka	O
+ime	O
+	
+	
+	
+na	O
+odachi	O
+	
+nso	O
+ka	O
+nkwenye	O
+ahu	O
+na	O
+ndi	B-ORG
+apc	B-ORG
+akpachara	O
+	
+clinton	I-PER
+	
+konel	B-PER
+okara	O
+pacenti	O
+ji	O
+swan	I-DATE
+uweoji	O
+get	O
+si	O
+haziri	O
+	
+tinyere	O
+ndi	O
+n'onwa	B-DATE
+aka	O
+solarin	I-PER
+abuo	O
+ihe	O
+ama	O
+banye	O
+hotspur	I-ORG
+ihe	O
+iri	O
+	
+komitii	B-ORG
+ikunye	O
+iji	O
+	
+na	O
+nala	O
+oru	O
+ikwuru	O
+in	O
+iji	O
+ozo	O
+egwu	O
+nke	O
+ise	I-DATE
+ochu	O
+mbiarambiara	O
+ufodu	O
+icheta	O
+a	O
+umuaka	O
+ka	O
+	
+obi	O
+30	I-DATE
+	
+	
+umuaka	O
+o	O
+ndi	O
+na	O
+mba	O
+	
+ihe	O
+naacho	O
+naijiria	B-LOC
+iwu	O
+mere	O
+anyanwu	O
+ketu	B-LOC
+rochadale	B-ORG
+iri	O
+n	O
+	
+wetara	O
+	
+ma	O
+gaamasi	O
+nsonaazu	O
+bu	O
+	
+onye	O
+muhammadu	B-PER
+technologies	I-ORG
+afo	B-DATE
+abuo	O
+progressives	O
+ekwetala	O
+nke	I-ORG
+iwuli	O
+maka	O
+ezu	O
+ugbua	O
+n	O
+di	O
+isi	O
+	
+nobodo	O
+bi	O
+na	O
+ha	O
+abaribe	O
+a	O
+	
+abia	B-LOC
+umu	O
+na	O
+naijiria	B-LOC
+iko	O
+bu	O
+	
+onwa	O
+	
+o	O
+a	O
+gbakanyere	O
+bu	O
+akwukwo	O
+mgbe	O
+kaduna	B-LOC
+103	O
+orumba	O
+otu	O
+ogunleye	I-PER
+buhari	B-PER
+na	O
+si	O
+joshua	B-PER
+nakwukwo	O
+onweghi	O
+steeti	O
+all	O
+choro	O
+ozi	O
+septemba	B-DATE
+nke	O
+simon	B-PER
+	
+naekwu	O
+gbara	O
+nigeria	O
+mkpesa	O
+a	O
+benin	I-ORG
+ndi	O
+ya	O
+steeti	O
+uk	B-LOC
+desire	I-PER
+ebe	O
+ano(	O
+ndi	O
+nke	I-DATE
+naijiria	B-LOC
+ala	O
+bu	O
+ka	O
+mmuta	O
+duru	O
+efu	I-ORG
+ogun	B-LOC
+boolu	O
+atomic	I-ORG
+	
+ndi	O
+kwuo	O
+mere	O
+isii	O
+	
+bu	O
+amamikpe	O
+nke	O
+legos	B-LOC
+bobrisky	B-PER
+ihe	O
+naenyocha	O
+	
+27,	I-DATE
+ulo	O
+abdullahi	I-PER
+ndeko	O
+na	O
+ubochi	O
+	
+nonwa	O
+site	O
+nke	O
+	
+	
+naahu	O
+ozobulu	I-ORG
+onyeisiala	O
+nafo	O
+	
+agbedo	B-PER
+mmadu	O
+gara	I-DATE
+kpatara	O
+nke	I-ORG
+davido	O
+	
+	
+bojet	O
+ndi	O
+adagbuola	O
+okwu	O
+kpoo	O
+ndi	O
+nke	O
+na	O
+	
+na	O
+world	O
+ukochukwu	O
+enweghi	O
+ato	O
+komitii	B-ORG
+naama	O
+of	I-ORG
+ewerela	O
+ndi	O
+	
+buru	O
+ugbu	O
+nozi	O
+gbakotara	O
+ritere	O
+2019	I-DATE
+30,	I-DATE
+bu	O
+	
+oku	O
+	
+nzuko	O
+agwa	O
+steven	B-PER
+oke	O
+bu	O
+elu	O
+agha	O
+ano	O
+china	B-LOC
+newcastle	B-LOC
+otu	O
+	
+maka	O
+okwu	O
+etu	O
+	
+buhari	I-PER
+federation	I-ORG
+naahu	O
+	
+naahu	O
+igwe	O
+florence	B-PER
+united	I-ORG
+ekechi	I-PER
+ndia	O
+nke	O
+oke	O
+	
+	
+gaazo	O
+asaala	O
+maara	O
+ebe	O
+	
+	
+apc	B-ORG
+eweputa	O
+south	B-LOC
+nche	O
+ahu	O
+	
+akara	O
+perpetual	B-PER
+ayoze	B-PER
+park	I-LOC
+16	I-DATE
+kwuo	O
+ofesi	O
+na	O
+na	O
+di	O
+mgbe	O
+di	I-LOC
+	
+ndi	O
+muhammadu	B-PER
+bagudu	I-PER
+	
+satode	B-DATE
+	
+and	O
+	
+afo	B-DATE
+ka	O
+nwachukwu	I-PER
+na	O
+onyeisi	O
+bu	O
+ngaghari	O
+	
+steeti	I-LOC
+	
+na	O
+gomenti	O
+paspotu	O
+iji	O
+	
+site	O
+ahu	O
+gbara	O
+	
+balewa	I-ORG
+obasanjo	O
+	
+abakam	O
+na	O
+nkwupuru	O
+rev	O
+mba	O
+dada	O
+ga	O
+puru	O
+ruru	O
+n	O
+a	O
+lekotaburu	O
+	
+na	O
+buliri	O
+	
+na	O
+ha	O
+	
+jerome	O
+	
+agha	O
+	
+m	O
+	
+pdp	O
+disemba	B-DATE
+akwukwo	O
+na	O
+1	O
+igbo	O
+	
+	
+ahia	O
+60	O
+nke	O
+e	O
+nta	O
+ka	O
+na	O
+abuo	O
+dika	O
+mee	O
+	
+na	O
+ndi	O
+	
+o	O
+nwoke	O
+ahmed	B-PER
+mara	O
+	
+sajid	B-PER
+	
+a	O
+steeti	B-LOC
+ndi	O
+	
+notu	O
+seputemba	B-DATE
+nubochi	O
+maria	B-PER
+ojii	O
+ibadan	B-LOC
+	
+ndi	O
+kwuru	O
+oru	O
+	
+o	O
+iziga	O
+ndi	O
+a	O
+na	O
+ndoondoro	O
+nke	O
+ebe	O
+commission	I-ORG
+iwu	O
+	
+mbo	O
+	
+chuo	O
+nke	I-LOC
+nke	O
+na	O
+super	B-ORG
+	
+kwesiri	O
+akwukwo	O
+onye	O
+sunday	O
+obi	O
+nke	O
+chia	O
+abiara	O
+naijiria	O
+uweojii	O
+egwu	O
+ugbu	O
+dokita	O
+i	O
+nke	O
+jikotara	O
+france	B-LOC
+nuhu	O
+ji	O
+uwa	O
+acha	O
+agency	I-ORG
+iwe	O
+gosizie	O
+wema	I-ORG
+mere	O
+goomenti	O
+	
+nkwado	O
+ego	O
+mgbere	O
+ato	O
+site	O
+gaeme	O
+di	O
+apc	B-ORG
+petitions	O
+20	I-ORG
+texas	B-ORG
+	
+na	I-ORG
+mbu	O
+isi	O
+ya	O
+onyeisi	O
+	
+maka	O
+	
+ndi	O
+ode	O
+juu	O
+na	O
+nke	O
+otu	B-ORG
+nye	O
+n'ulo	B-ORG
+onwukwe	I-PER
+	
+kpopuru	O
+	
+n	O
+na	O
+omeiwu	O
+ndi	O
+ya	O
+na	O
+mbawanye	O
+na	O
+muhammadu	B-PER
+olileanya	O
+n	O
+ozuzu	I-ORG
+data	O
+chiburu	O
+	
+lebara	O
+	
+nke	O
+abuo	O
+oke	O
+nke	O
+ndi	I-DATE
+ohere	O
+gosikwara	O
+steeti	B-LOC
+isi	O
+o	O
+afrika	O
+ahuike	I-ORG
+mpaghara	O
+ha	O
+	
+inu	O
+akwukwo	O
+site	O
+nuwa	O
+gbakpuo	O
+mkpebi	O
+naijiria	O
+afo	I-DATE
+forces	O
+isi	O
+	
+ndi	O
+abia	B-LOC
+n	O
+kwa	O
+ala	O
+ano	O
+ozigbo	O
+aga	I-DATE
+	
+awka	O
+	
+igbazite	O
+rock	I-LOC
+na	O
+ikwu	O
+	
+otutu	O
+ma	O
+steeti	I-LOC
+nke	O
+ugboro	O
+na	I-DATE
+	
+	
+a	O
+	
+onitsha	I-LOC
+yana	O
+na	O
+committee	O
+dika	O
+otu	I-ORG
+otutu	O
+son	O
+na	O
+ka	O
+n	O
+ndi	O
+ihe	O
+asaa	O
+	
+ga	O
+di	O
+nke	O
+ndi	O
+uweojii	O
+wepuru	O
+o	O
+netiti	O
+ogbugbu	O
+govano	O
+na	O
+naijiria	B-LOC
+inweta	O
+okija	I-ORG
+e	O
+2010	I-DATE
+ya	O
+	
+onyeisi	O
+2003	B-DATE
+o	O
+yahaya	I-PER
+na	O
+na	O
+ezinaulo	O
+kpam	O
+naefu	O
+	
+achuzia	I-PER
+e	O
+goomenti	B-ORG
+ha	O
+govano	O
+na	O
+ha	O
+na	O
+o	O
+nkpesa	O
+nweghi	O
+macron	B-PER
+na	O
+adewale	I-PER
+naagbara	O
+	
+ngwa	O
+maka	O
+naagbagha	O
+ya	O
+	
+nonwa	O
+belata	O
+ozo	I-DATE
+o	B-DATE
+ego	O
+ndi	O
+onyebuchi	B-ORG
+ibupu	O
+oso	O
+josh	I-PER
+n	O
+hadeja	B-LOC
+na	O
+nzuko	O
+ka	O
+nke	O
+iji	O
+naeme	O
+mana	O
+tere	O
+dibia	O
+anyi	O
+ikpe	O
+	
+ato	O
+	
+nkwa	O
+ugboro	O
+igbuzo	B-LOC
+	
+ibia	O
+disemba	B-DATE
+oku	O
+nke	O
+ebonyi	B-LOC
+izu	I-DATE
+egwu	O
+uche	O
+onitsha	B-LOC
+mmasi	O
+	
+na	O
+	
+	
+ya	O
+na	O
+nafo	O
+mmezi	O
+	
+basketboolu	O
+nwoke	O
+muru	O
+na	O
+onye	O
+nke	O
+njedebe	O
+ano	O
+ihe	O
+mmadu	O
+ka	O
+ahuru	O
+	
+akaraozi	O
+ndi	O
+etiti	O
+	
+ka	O
+onye	O
+mma	O
+dokita	O
+ekwuola	O
+siri	O
+dika	O
+okara	O
+bu	O
+onwe	O
+na	O
+na	O
+omeiwu	O
+	
+states	O
+ano	O
+ocha	O
+	
+agha	O
+kacha	O
+mere	O
+ngalaba	O
+otutu	O
+31	I-DATE
+	
+traore	B-PER
+netiti	O
+turu	O
+	
+abakaliki	O
+ka	O
+	
+mbu	O
+kowara	O
+alakwurula	O
+kwuru	O
+na	O
+nke	O
+nike	O
+kepukepu	O
+ndi	O
+sani	I-PER
+arabia	I-LOC
+na	O
+ma	O
+na	O
+	
+isi	O
+mgbere	O
+ihe	O
+ndi	O
+bank	O
+n	O
+na	O
+abraham	B-PER
+ya	O
+gaakwata	O
+nwere	O
+2007	I-DATE
+international	O
+ya	O
+republic	I-LOC
+itali	B-LOC
+o	O
+e	O
+kwuru	O
+roshia	B-LOC
+	
+n	O
+	
+aba	B-LOC
+n	O
+maka	O
+okorocha	O
+akara	O
+phd	O
+bata	O
+erasmus	B-PER
+2017	B-DATE
+nafdac	O
+chere	O
+ano	I-DATE
+	
+	
+ihu	O
+na	O
+onwa	I-DATE
+34	O
+oka	O
+abuo	O
+amerika	B-LOC
+n'onwa	I-DATE
+abuo	O
+	
+otu	O
+imubanye	O
+	
+ndi	O
+na	O
+halima	B-PER
+muru	O
+bu	O
+nisi	O
+anwuchiela	O
+abuo	O
+gaekeputa	O
+ndi	O
+barry	B-PER
+ndi	O
+kwuru	O
+	
+akuko	O
+nuzo	O
+nye	O
+na	O
+	
+ihe	O
+mba	O
+otu	O
+	
+	
+ike	O
+simba	I-ORG
+nihu	O
+ndlea	B-ORG
+maka	O
+na	I-DATE
+nwayo	O
+uloikpeukwu	O
+mgbanwe	O
+disemba	I-DATE
+	
+nchekwa	O
+oku	O
+national	B-ORG
+bbc	B-ORG
+o	O
+naijiria	I-ORG
+a	O
+a	O
+united	B-ORG
+ndi	O
+ya	O
+	
+mmeri	O
+onwa	O
+mmeme	O
+ebe	O
+ego	O
+n	O
+ka	O
+nke	O
+m	O
+mgbe	O
+	
+ha	O
+abdulaziz	I-PER
+champions	I-ORG
+	
+abuo	O
+pdp	O
+ihe	O
+o	O
+kaduna	I-ORG
+nri	O
+	
+ulo	O
+a	O
+benjamin	B-PER
+	
+natufughi	O
+n	O
+ndi	O
+a	O
+	
+ya	O
+mere	O
+maiduguri	B-LOC
+obere	O
+uzo	O
+aburula	O
+nwaanyi	O
+gasiri	O
+otuto	O
+mgbe	O
+ohaneze	O
+ama	O
+	
+iwe	O
+oru	O
+na	O
+nyocha	O
+imegide	O
+gov	O
+	
+ma	O
+huru	O
+na	O
+international	O
+	
+taa	B-DATE
+dnc	B-ORG
+izusite	O
+	
+	
+kwuo	O
+nogu	O
+mere	O
+nulooru	O
+onye	O
+nke	O
+gaachi	O
+otutu	O
+n	O
+hapu	O
+ukwu	O
+	
+uweojii	O
+ndi	O
+obula	O
+ogbugbu	O
+robinson	I-PER
+	
+driscoll	I-PER
+	
+	
+	
+2005	B-DATE
+sowore	O
+na	O
+puku	O
+igbo	O
+nihu	O
+n	O
+ma	O
+n	O
+ya	O
+ngwa	O
+onuego	O
+na	O
+ezi	O
+lotara	O
+no	O
+afo	O
+c	O
+gu	B-PER
+mbaise	I-LOC
+bekee	O
+ise	O
+anabata	O
+iri	O
+choro	O
+iji	O
+gosiputa	O
+zippos	O
+kwuru	O
+adamawa	B-LOC
+ihe	O
+etiti	O
+egbu	O
+na	O
+slok	B-ORG
+dika	O
+	
+naijiria	B-LOC
+ahu	O
+uloakwukwo	O
+afo	B-DATE
+ihe	O
+mwakpo	O
+	
+ntukwasi	O
+tokyo	O
+ha	O
+iro	O
+na	O
+na	O
+shoda	I-PER
+shi	O
+umu	O
+naeru	O
+di	O
+emeruola	O
+	
+a	I-DATE
+site	O
+akwunyere	O
+gajiganna	B-LOC
+2018	B-DATE
+otu	O
+otu	B-ORG
+1994	I-DATE
+	
+ochichi	O
+na	O
+femi	B-PER
+nahia	O
+bu	O
+aku	I-ORG
+ihe	O
+ato	I-DATE
+ndi	O
+maara	O
+	
+igbo	O
+	
+wee	O
+ondo	B-LOC
+mayowa	B-PER
+108	O
+legos	B-LOC
+ato	O
+nokpuru	O
+okafor	O
+ndi	O
+naijiria	B-LOC
+	
+gaachupu	O
+egwuregwu	O
+sound	B-PER
+na	O
+isi	O
+isii	I-DATE
+ogbaghara	O
+n'abali	B-DATE
+muhammadu	O
+afo	O
+nnukwu	O
+na	O
+steeti	O
+na	O
+	
+nke	O
+ma	O
+na	O
+	
+naakowa	O
+	
+nala	O
+	
+anya	O
+onye	O
+ndi	O
+hapughi	O
+okammuta	O
+ajula	O
+nye	O
+nwaanyi	O
+kpariri	O
+bekee	O
+na	O
+	
+maka	O
+sahara	O
+di	O
+ikpe	O
+rochas	B-PER
+afo	I-DATE
+ndi	O
+ise	O
+oma	O
+nke	O
+itunanya	O
+ya	O
+lagos	B-LOC
+1966	I-DATE
+aviation	I-ORG
+	
+nwoke	O
+steeti	O
+ego	O
+ya	O
+na	O
+	
+	
+komputa	O
+sowore	I-PER
+moscow	B-LOC
+	
+us	I-ORG
+aloghachila	O
+nchekwa	O
+nhoputa	O
+netiti	O
+ndi	O
+bu	O
+aga	I-DATE
+bu	O
+nime	O
+ariri	O
+onye	O
+	
+ekwe	O
+iga	O
+ndi	O
+mkpa	O
+enwela	O
+nke	O
+njem	O
+ikpeazu	O
+gonzalo	B-PER
+ike	O
+anambra	O
+adekunle	I-PER
+ataala	O
+okwu	O
+aku	O
+etu	O
+naijiria	O
+	
+akwukwo	O
+gov	O
+uwa	I-ORG
+na	O
+iwu	O
+bu	O
+atumatu	O
+aerial	O
+nations	I-ORG
+o	O
+george	O
+nnochi	O
+ala	O
+	
+petroleum	O
+corps	I-ORG
+ya	O
+m	O
+onye	O
+naaga	O
+aputaghi	O
+	
+	
+na	O
+	
+apc	B-ORG
+nowere	O
+ya	O
+idemili	I-LOC
+	
+a	O
+ma	O
+diatribe	O
+atiku	B-PER
+league	O
+	
+usoro	O
+ya	O
+bekee	O
+eme	O
+	
+omekome	O
+wole	B-PER
+ha	O
+republic	I-LOC
+ozo	O
+kwesiri	O
+	
+naijiria	O
+na	O
+mmadu	O
+a	O
+nke	O
+okwudili	I-PER
+bekee	O
+na	O
+2017	B-DATE
+na	O
+agwaala	O
+tinubu	B-PER
+naijiria	B-LOC
+	
+adebayo	B-PER
+naanochite	O
+	
+ntoakuko	O
+choputara	O
+abuo	O
+ka	O
+na	O
+unyaahu	B-DATE
+mpaghara	O
+naani	O
+gbasara	O
+onye	O
+onye	O
+2019	B-DATE
+egwu	O
+ozo	O
+	
+us	B-LOC
+fraide	B-DATE
+29	B-DATE
+no	O
+deputara	O
+utuisi	O
+uzo	O
+enyemaka	O
+	
+tammy	B-PER
+onnoghen	B-PER
+na	O
+onye	O
+onicha	O
+taa	B-DATE
+mere	O
+	
+amanyela	O
+eji	O
+na	O
+ebonyi	B-LOC
+taa	B-DATE
+manu	B-PER
+chibuike	O
+gara	I-DATE
+	
+juru	O
+na	O
+	
+and	O
+bi	O
+ntoala	O
+ahu	O
+	
+obi	O
+mgbe	O
+a	O
+buhari	I-PER
+nke	O
+were	O
+a	O
+william	I-PER
+ndi	O
+nke	O
+umuaka	O
+	
+goomenti	O
+steeti	O
+mba	O
+aga	O
+govano	O
+otu	O
+ya	O
+ghana	B-LOC
+sandie	O
+rinne	I-PER
+ya	O
+abuja	B-LOC
+n	O
+reporters	I-ORG
+ndaghachi	O
+2009	B-DATE
+naeme	O
+uweojii	O
+abuo	O
+ncc	B-ORG
+	
+	
+ha	O
+mana	O
+ijeoma	B-PER
+jikerela	O
+efcc	B-ORG
+ntuli	O
+steeti	O
+ichu	O
+uber	B-ORG
+	
+n	O
+nke	O
+ka	O
+amiputa	O
+iriabuo	O
+	
+maka	O
+ndi	O
+	
+ka	O
+ochichi	B-ORG
+di	O
+a	O
+nke	O
+nsorom	B-PER
+matt	B-PER
+bu	O
+ndu	O
+gaeji	O
+community	O
+na	O
+mgbe	O
+	
+norway	B-LOC
+enugwu	B-LOC
+buru	O
+nweghi	O
+ihapu	O
+zoo	O
+sowore	I-PER
+i	O
+ndi	O
+a	O
+o	O
+nakwa	O
+ahapula	O
+puku	O
+kaduna	B-LOC
+ya	O
+ka	O
+ya	O
+kainji	B-LOC
+mana	O
+mana	O
+naani	O
+tooro	O
+north	I-LOC
+ndi	O
+ugbo	O
+ndi	O
+bu	O
+machi	O
+maburu	O
+nyocha	O
+uweojii	O
+legos	B-LOC
+ndi	O
+nkwusi	O
+	
+steeti	O
+elkana	I-PER
+	
+mwakpo	O
+	
+nihe	O
+maka	O
+	
+ka	O
+na	O
+ochie	O
+onu	O
+armstrong	I-PER
+	
+kwuputara	O
+	
+	
+onye	O
+	
+ezinne	B-PER
+kanu	B-PER
+otu	O
+no	O
+o	O
+oma	O
+naijiria	B-LOC
+oge	O
+awakpoola	O
+mgbede	B-DATE
+onyeisi	O
+ekwuwela	O
+otu	O
+naedu	O
+ebe	O
+ka	O
+njiko	O
+nakwa	O
+nke	O
+	
+ulo	O
+ebubo	O
+hammarby	O
+nuju	O
+na	O
+igbo	O
+ma	O
+netiti	O
+ejideghi	O
+ya	O
+onye	O
+kwalite	O
+gaenye	O
+	
+fada	O
+donald	B-PER
+umunwaanyi	O
+oru	O
+kwuru	O
+	
+na	O
+ka	O
+melaye	I-PER
+gbasara	O
+ato	O
+	
+onye	O
+nzuko	O
+	
+abia	B-LOC
+onyeisi	O
+nlekota	O
+ndi	O
+norway	B-LOC
+i	O
+iso	O
+african	B-ORG
+lawa	O
+ya	O
+gaaga	O
+27,	I-DATE
+okpuru	O
+kpochiri	O
+a	O
+nne	O
+agbakwunye	O
+onye	O
+otutu	O
+oche	O
+nnochi	O
+ndi	O
+ndi	O
+ya	O
+stars	I-ORG
+	
+	
+amuma	O
+ojoo	O
+naezi	O
+gaeme	O
+nafo	O
+n	O
+na	O
+mahadum	O
+ya	O
+	
+afrika	O
+mana	O
+province	O
+ihe	O
+2016	B-DATE
+chibok	B-LOC
+	
+na	O
+dika	O
+otu	O
+super	O
+cosby	I-PER
+ndi	O
+nkwa	O
+	
+ebe	O
+yi	O
+ochiehi	O
+izu	I-DATE
+development	I-ORG
+a	O
+nke	O
+naekwuchitere	O
+ahu	O
+nafo	O
+anaocha	B-LOC
+so	O
+falcons	I-ORG
+atumatu	O
+omeiwu	O
+buhari	B-PER
+ndi	O
+buhari	B-PER
+ngaghariiwe	O
+n	O
+	
+dss	O
+mba	O
+oganihu	O
+saut	B-LOC
+mere	O
+nnabuihe	B-PER
+adighi	O
+pasenti	O
+i	O
+dakwasi	O
+nke	O
+	
+	
+njikota	O
+ekwuola	O
+	
+	
+ebe	O
+bbc	O
+onwe	O
+	
+24	I-DATE
+	
+a	O
+nwere	O
+ka	O
+	
+maka	O
+kwuru	O
+ikpeazu	B-PER
+nke	O
+mmadu	O
+iga	O
+ikpa	O
+ike	O
+ekwuputala	O
+attwell	I-PER
+nke	O
+owelle	O
+bin	I-PER
+naijiria	O
+naaga	O
+si	O
+na	O
+	
+nonwa	O
+si	O
+bugoro	O
+ruth	B-PER
+uweojii	O
+onwe	O
+igwu	O
+eke	O
+	
+akuko	O
+mmadu	O
+ihe	O
+bu	O
+bu	O
+	
+nyochaa	O
+onwa	O
+	
+ntaakuko	O
+ala	O
+big	O
+abuo	O
+otutu	O
+tuzdee	B-DATE
+in	O
+nke	O
+17	I-DATE
+toghapuru	O
+amerika	B-LOC
+taa	B-DATE
+bu	O
+mana	O
+agaghi	O
+ka	O
+planning	I-ORG
+mpaghara	O
+ebummuche	O
+onyeisi	O
+o	O
+bu	O
+akuko	O
+okorocha	I-PER
+na	O
+kwere	O
+bu	O
+si	O
+mwakpo	O
+ike	O
+hawkins	I-PER
+anyinla	B-PER
+anya	O
+ebe	O
+bamidele	I-PER
+azu	O
+naijiria	B-LOC
+ajuju	O
+na	O
+naka	O
+na	O
+kalaba	B-LOC
+otu	O
+nke	O
+of	I-ORG
+don	B-PER
+ihe	O
+clinton	I-PER
+	
+onwunwe	O
+naani	O
+nke	O
+ma	O
+gbapu	O
+super	B-ORG
+onu	O
+ihe	O
+	
+nke	I-DATE
+onyeisiala	O
+bbc	B-ORG
+akara	O
+ebe	O
+	
+sss	B-ORG
+o	O
+ka	O
+ibarapa	I-ORG
+ndi	O
+emepe	O
+	
+city	I-LOC
+gonzalo	B-PER
+ya	O
+ebe	O
+i	O
+na	O
+	
+ihe	O
+tom	B-PER
+mgbo	O
+mkporo	O
+mee	O
+ugbu	O
+buhari	B-PER
+nihe	O
+ntuliaka	O
+nafo	O
+minista	O
+ogu	O
+panel	O
+atu	O
+	
+ntoala	B-ORG
+wole	B-PER
+jiri	O
+okporouzo	O
+na	O
+i	O
+gbaburu	O
+	
+ndi	O
+	
+naka	O
+gaa	O
+dss	B-ORG
+enweta	O
+mbido	O
+	
+na	O
+	
+naijiria	B-LOC
+	
+nchikota	O
+kwuru	O
+babangida	B-PER
+kariri	O
+mgbagha	O
+nke	O
+nke	O
+misa	O
+na	O
+ubochi	B-DATE
+ndi	O
+ndi	O
+cct	B-ORG
+arinze	B-PER
+ozi	O
+ha	O
+ozi	O
+asusu	O
+na	O
+ozi	O
+na	O
+ebonyi	B-LOC
+anyi	O
+ezughi	O
+oge	O
+naenyocha	O
+n	O
+ruo	O
+tupu	O
+	
+nke	O
+2	O
+otutu	O
+	
+ojii	O
+nke	O
+ruola	O
+	
+naha	O
+omeiwu	O
+ya	O
+	
+okammuta	O
+34	O
+o	O
+nweghi	O
+primary	I-ORG
+ono	O
+omebe	I-ORG
+wednesde	B-DATE
+	
+pati	O
+ochi	O
+chi	O
+abu	B-ORG
+puku	O
+ukochukwu	O
+ufodu	O
+spurs	O
+yoruba	O
+	
+na	O
+	
+that	O
+	
+ohuru	O
+	
+biara	O
+	
+boko	B-ORG
+south	B-LOC
+asato	O
+ikwuwa	O
+si	O
+ndi	O
+iriabuo	O
+n	O
+eme	O
+ma	O
+	
+	
+onodu	O
+bukwuo	O
+recycling	O
+	
+gaelebanye	O
+onyeisiala	O
+bu	O
+mpaghara	O
+di	O
+agha	O
+ha	O
+amos	B-PER
+kwuru	O
+midia	O
+stanbic	I-ORG
+igbo	O
+son	O
+	
+of	I-ORG
+nugwu	O
+ala	O
+naijiria	B-LOC
+na	O
+nihu	O
+	
+na	O
+uk	B-LOC
+kedu	O
+balarabeabdullahi	O
+namamikpe	O
+naekwu	O
+mgbe	O
+okporoigwe	O
+goomenti	O
+nyere	O
+onye	O
+n	O
+maka	O
+regina	B-PER
+	
+	
+na	O
+abughizi	O
+nwete	O
+oru	O
+goomenti	O
+kemgbe	O
+ufodu	O
+ugbua	O
+atiku	B-PER
+nsogbu	O
+nke	O
+	
+agha	O
+eagles	I-ORG
+oria	O
+ha	O
+mmadu	O
+imf	B-ORG
+mkpuru	O
+	
+	
+ulo	O
+	
+etinye	O
+intelligence	I-ORG
+ndi	O
+na	O
+ka	O
+si	O
+agba	O
+ndi	O
+19	O
+umu	O
+okorocha	O
+naijiria	O
+adamawa	B-LOC
+mba	O
+	
+nigwe	O
+wakporo	O
+ubochi	O
+izuuka	B-DATE
+ahu	O
+e	O
+nwere	O
+nwuru	O
+nulo	O
+akwuna	O
+ego	O
+	
+	
+	
+onwe	O
+shuga	O
+akuko	O
+ndi	O
+	
+e	O
+obula	O
+n	O
+	
+naijiria	B-LOC
+abuo	O
+n	O
+mgbasa	O
+ozi	O
+ano	O
+awa	I-DATE
+bu	O
+ogbaghara	O
+nke	O
+na	O
+1923	O
+	
+nwachukwu	I-PER
+nke	I-LOC
+obiano	B-PER
+oktoba	I-DATE
+	
+	
+ato	O
+nime	O
+na	O
+ulooru	O
+notu	O
+adeoti	I-PER
+ikwado	O
+ulo	O
+priscillia	B-PER
+putara	O
+onye	O
+otu	O
+buhari	I-PER
+jidere	O
+o	O
+ashia	O
+chiburu	O
+na	O
+	
+ndi	O
+ewerela	O
+	
+na	O
+oge	O
+asaala	O
+63	I-DATE
+naazo	O
+	
+afrobeat	O
+hausa	O
+togo	O
+wole	B-PER
+mkporo	O
+akpaala	O
+city	I-LOC
+pasenti	O
+afirika	O
+naijiria	O
+bu	O
+choro	O
+aka	O
+anambra	O
+party'	O
+okpuruochichi	O
+nagbamakwukwo	O
+okwu	O
+progressive	O
+akpupula	O
+o	O
+azoro	O
+maka	O
+	
+gboo	I-DATE
+choro	O
+	
+goomenti	O
+suleiman	B-PER
+super	B-ORG
+puru	O
+site	O
+borno	I-LOC
+1984	B-DATE
+na	O
+okpala	B-PER
+	
+gaemezi	O
+	
+startimes	B-ORG
+otu	O
+otu	B-ORG
+aka	O
+kwuru	O
+muru	O
+	
+ndi	O
+nke	O
+	
+mere	O
+ahu	O
+egwu	O
+city	I-LOC
+weputara	O
+naka	O
+since	O
+oji	O
+na	O
+na	O
+etu	O
+asisa	O
+ha	O
+ekwumekwu	O
+n	O
+ole	I-DATE
+mba	O
+oku	O
+na	O
+ogbaghara	O
+nke	O
+elin	B-PER
+njikere	O
+theresa	B-PER
+na	O
+	
+gwa	O
+	
+of	O
+	
+a	O
+	
+	
+satode	B-DATE
+njem	O
+naahu	O
+	
+	
+ailand	I-LOC
+olaitan	I-PER
+ike	O
+bughi	O
+dika	O
+na	O
+naijiria	B-LOC
+agbagha	O
+onye	O
+ngwaogu	O
+iri	O
+ugbo	O
+ozugbo	O
+buru	O
+	
+	
+goomenti	O
+arap	B-PER
+naadota	O
+	
+n	O
+naijiria	O
+nkea	O
+m	O
+and	O
+mahadum	O
+1979	B-DATE
+ya	O
+chartered	I-ORG
+nyere	O
+paul	I-LOC
+Ã¡Â»Å¤sÃ¡Â»â¹sa	O
+umunwaanyifada	O
+si	O
+ahuonye	O
+isii	I-DATE
+niile	O
+	
+na	O
+ha	O
+nke	O
+ano	I-DATE
+kpokwa	O
+aga	I-DATE
+	
+	
+2007	B-DATE
+ngwa	O
+na	O
+ulo	O
+buhari	B-PER
+naagafeghi	O
+dsp	O
+ulo	O
+a	O
+2017	B-DATE
+bill	B-PER
+n	O
+anya	O
+alhaji	O
+	
+bu	O
+gbochie	O
+dika	O
+ego	O
+mmasi	O
+mmekorita	O
+ahia	I-ORG
+nto	O
+super	B-ORG
+okpa	O
+ha	O
+o	O
+dika	O
+	
+site	O
+ndi	O
+imo	O
+	
+afo	O
+noge	O
+mgbe	O
+nke	O
+nhasa	O
+ahu	O
+elu	O
+puo	O
+o	O
+oriuiakhi	B-PER
+of	O
+gburu	O
+financial	I-ORG
+nke	O
+n	O
+na	O
+ya	O
+	
+mere	O
+ha	O
+	
+south	B-LOC
+gaatunyere	O
+ego	O
+uloikpe	O
+bu	O
+naijiria	I-ORG
+omee	O
+ka	O
+commonwealth	O
+nwanze	I-PER
+onwa	I-DATE
+ma	O
+na	O
+	
+aka	O
+kwankwaso	I-PER
+isi	O
+	
+yeovil	O
+a	O
+naahu	O
+pdp	B-ORG
+latrik	O
+na	O
+amaghi	O
+niile	O
+onwa	I-DATE
+awa	B-DATE
+anambra	O
+osote	O
+	
+ilu	O
+ijipt	B-LOC
+egwu	O
+ha	O
+tuo	O
+dika	O
+ija	O
+ala	O
+dibia	O
+Ã¡Â»â¹dote	O
+kariri	B-DATE
+kwukwara	O
+o	O
+workshop	O
+nna	O
+delta	B-LOC
+ibrahim	I-PER
+williams	I-PER
+election	O
+ndi	O
+arsene	B-PER
+state	I-ORG
+britain	B-LOC
+omebe	O
+mba	O
+e	O
+gara	I-DATE
+dika	O
+	
+1979	B-DATE
+na	O
+nlc	B-ORG
+nke	O
+biodun	B-PER
+o	O
+nyeghi	O
+zotara	O
+	
+marshal	O
+guzobere	O
+onye	O
+n	O
+	
+eto	O
+maoburu	O
+goolu	O
+anwu	O
+njide	O
+	
+	
+onye	O
+peoples	I-ORG
+na	O
+ewu	O
+madrid	I-ORG
+	
+	
+mere	O
+ochichi	O
+nwuchiri	O
+iko	O
+musa	I-PER
+oha	O
+nnyocha	O
+na	O
+league	O
+ime	O
+nasompi	O
+gaadi	O
+ndi	O
+	
+mezuo	O
+ka	O
+inogide	O
+	
+nugwu	O
+atuejide	I-PER
+ebe	O
+timely	O
+denis	O
+otutu	O
+	
+di	O
+mesiri	O
+nke	O
+na	O
+nwere	O
+jonah	I-PER
+na	O
+3	O
+abuo	O
+agha	O
+ya	O
+benue	B-LOC
+ihe	O
+mana	O
+njem	O
+taa	O
+site	O
+bido	O
+nke	O
+febuwari	I-DATE
+kwuru	O
+ama	O
+ndi	O
+	
+ya	O
+otu	O
+nke	O
+	
+gaebi	O
+ogbako	O
+godson	B-PER
+ikeokwu	I-PER
+	
+codeine	O
+egwu	O
+mmanu	O
+	
+igwa	O
+maduagwu	I-PER
+	
+iri	O
+nke	O
+nip	B-ORG
+gwara	O
+aka	O
+2012	I-DATE
+otutu	O
+di	O
+nihi	O
+fraide	B-DATE
+na	O
+	
+ojii	O
+buhari	B-PER
+ka	O
+nafo	O
+omekataraihepuujo	O
+ndi	O
+bu	O
+nasompi	O
+ceo	O
+as	O
+lotara	O
+super	B-ORG
+akara	O
+	
+zakzaky	B-PER
+o	O
+	
+nusoro	O
+agbanweela	O
+keyamo	B-PER
+	
+steeti	O
+naijiria	O
+nke	O
+lawan	I-PER
+ime	O
+	
+nke	O
+atiku	B-PER
+nke	O
+govano	O
+anyi	O
+ohi	O
+gi	O
+	
+abubakar	B-PER
+gaenweta	O
+naere	O
+maka	O
+2018	B-DATE
+n	O
+mgbe	O
+gunyere	O
+na	O
+na	O
+ode	O
+2008	O
+74	O
+ikpe	O
+	
+gwa	O
+	
+creative	O
+nuloikpe	O
+nobodo	O
+	
+egwu	O
+nke	O
+nke	O
+kacha	O
+abuo	O
+dere	O
+ochichi	O
+ulo	O
+enwere	O
+environment	I-ORG
+ano	I-DATE
+okwu	O
+	
+pdp	B-ORG
+ubochi	B-DATE
+	
+goomenti	O
+ebe	O
+e	O
+naijiria	B-LOC
+	
+onye	O
+isi	O
+m	O
+ji	O
+kporo	O
+merenu	O
+nke	O
+ordega	I-PER
+awara	B-PER
+na	O
+ochichi	O
+mba	O
+nakwa	O
+afo	I-DATE
+nke	O
+	
+jota	I-PER
+ugwu	O
+chiri	O
+	
+	
+	
+nwaanyi	O
+gbara	O
+afo	B-DATE
+steeti	O
+agboro	O
+ndi	O
+	
+gaazoko	O
+ochichi	O
+ntuli	O
+nyere	O
+ndi	O
+na	O
+na	O
+aka	O
+nke	O
+nweta	O
+ihu	O
+uwe	O
+	
+juwara	O
+naalaghachi	O
+	
+apc	B-ORG
+oku	O
+na	O
+	
+gbasaraonye	O
+tupu	O
+ebe	O
+jide	O
+otu	O
+	
+town	I-LOC
+800	O
+otu	O
+eze	O
+2018	B-DATE
+federal	O
+kwuru	O
+ozo	O
+	
+ntuli	O
+na	O
+mgbasa	O
+ihe	O
+	
+ebe	O
+dika	O
+apc	B-ORG
+eziokwu	O
+atiku	B-PER
+nke	O
+	
+nke	O
+ka	O
+ugbua	O
+naekele	O
+bu	O
+nonwa	O
+ewerela	O
+enugu	I-LOC
+okporo	O
+ano	O
+otu	O
+onye	O
+britain	B-LOC
+cheta	B-PER
+ubochi	B-DATE
+akwa	B-LOC
+nke	O
+2014	B-DATE
+ahu	O
+nke	O
+ubochi	O
+gbaa	O
+umu	O
+	
+okpu	O
+okasi	O
+akwukwo	O
+sanchez	O
+ngosi	O
+naekwu	O
+imo	O
+ndi	O
+ghana	B-LOC
+otutu	B-DATE
+	
+ndi	O
+iwu	O
+ya	O
+onye	O
+mmadu	O
+a	O
+na	O
+	
+okwu	O
+saa	O
+ndi	O
+pc	O
+	
+	
+dibia	O
+	
+	
+bu	O
+ahia	O
+a	O
+otutu	O
+njiko	O
+	
+afrika	B-LOC
+	
+nekwenti	O
+ndi	O
+egbuola	O
+na	O
+baga	O
+n'anedo	O
+gosiputara	O
+kobe	B-PER
+ngusisi	O
+dara	O
+gaamu	O
+n	O
+ruo	I-DATE
+anyi	O
+	
+awara	O
+noge	O
+ekewaputala	O
+	
+naijiria	B-LOC
+uwe	O
+na	O
+gaarusi	O
+metuta	O
+amaghi	O
+izuuka	B-DATE
+hillary	B-PER
+haram	O
+okpuru	B-ORG
+	
+	
+nwere	O
+nala	O
+o	O
+ma	O
+e	O
+ghana	B-LOC
+obodo	O
+oshoala	B-PER
+oge	O
+na	O
+nke	O
+commission	I-ORG
+ahu	O
+otu	O
+	
+ihe	O
+nke	O
+nke	O
+mp	O
+onye	O
+komitii	O
+ngaghari	O
+stephen	B-PER
+ndi	O
+ann	I-PER
+ihe	O
+bu	O
+degara	O
+a	O
+bughi	O
+naijiria	I-ORG
+	
+iji	O
+iche	O
+kwuputara	O
+	
+ahmadu	B-PER
+naijiria	O
+ndi	O
+nke	O
+ntuliaka	O
+naijiria	B-LOC
+mba	I-ORG
+nedufun	O
+m	O
+chutu	O
+a	O
+di	O
+burukwa	O
+nleta	O
+na	O
+afo	I-DATE
+mkpuru	O
+o	O
+ma	O
+ugwo	O
+	
+vootu	O
+onye	O
+na	O
+ha	O
+na	O
+	
+ya	O
+slok	B-ORG
+,	O
+okwuosa	B-PER
+ma	O
+maka	O
+	
+ogologo	O
+abuo	O
+ndi	O
+ikpe	O
+ekpere	O
+ekelere	O
+nokwu	O
+2017	B-DATE
+ahuhu	O
+aka	O
+kaluuya	I-PER
+na	O
+bu	O
+	
+tozu	O
+naijiria	B-LOC
+emeofa	I-PER
+nke	O
+nysc	B-ORG
+	
+otu	O
+naeme	O
+otu	O
+	
+egwu	O
+anwu	O
+gosiri	O
+ha	O
+bu	O
+edochie	I-PER
+ndi	O
+ka	O
+na	O
+e	O
+vertonghen	B-PER
+osote	O
+iri	O
+arameyaw	I-PER
+enterprises	I-ORG
+	
+mkpata	O
+dss	B-ORG
+bu	O
+akaipa	O
+gaadi	O
+	
+	
+light	I-ORG
+abubakar	I-PER
+tozdee	B-DATE
+ndi	O
+jikoro	O
+o	O
+o	O
+bu	O
+nwere	O
+nta	O
+serena	B-PER
+nations	I-ORG
+	
+mmalite	O
+icpc	B-ORG
+naijiria	B-LOC
+kporo	O
+bu	O
+ogige	O
+si	O
+na	O
+na	O
+ahu	O
+nwoke	O
+umunwaanyi	O
+ozi	O
+otu	O
+na	O
+walter	B-PER
+ntuliaka	O
+naijiria	B-LOC
+n	O
+ndorondoro	O
+onwebeghi	O
+onye	O
+a	O
+anyi	O
+nwagwu	B-PER
+bi	O
+steeti	I-LOC
+na	O
+a	O
+oru	O
+dika	O
+nigeria	O
+	
+nime	O
+ninye	O
+nihe	O
+form	O
+gwara	O
+maka	O
+ahu	O
+ochichi	O
+uzo	O
+ala	O
+maka	O
+	
+ntuliaka	O
+	
+ndi	O
+mmadu	O
+ekweghi	O
+clement	O
+lee	O
+imebi	O
+ipu	O
+ekewa	O
+n	O
+bichi	B-PER
+	
+abuo	O
+aga	I-DATE
+akwamozu	O
+onyeisi	O
+ndi	O
+stakeholders	O
+mwakpo	O
+	
+puku	O
+mz	O
+oru	O
+	
+nta	O
+	
+mgbuchi	O
+otutu	O
+ogunkunle	I-PER
+	
+rute	O
+ngalaba	O
+bu	O
+kwesiri	O
+	
+	
+	
+nochichi	O
+maka	O
+bu	O
+steeti	I-LOC
+nke	I-DATE
+were	O
+ngwaÃ¡Â»Å¤gÃ¡Â»Ä	O
+	
+	
+ka	O
+kwuru	O
+delta	B-LOC
+ooni	O
+ruo	O
+toro	O
+e	O
+udo	O
+ebe	O
+na	O
+ma	O
+ka	O
+na	O
+nkato	O
+maka	O
+mkpesa	O
+na	O
+bu	O
+o	O
+nchegbu	O
+biara	O
+	
+ya	O
+ngalaba	O
+	
+zara	O
+okamuta	O
+site	O
+ganging	O
+ikpari	O
+	
+anyi	O
+a	O
+a	O
+dara	O
+nchekwa	O
+ndi	O
+etu	O
+company	I-ORG
+ntaakuko	I-ORG
+ostrelia	O
+ndoro	O
+	
+owuwa	O
+naijiria	B-LOC
+ka	O
+ha	O
+ndu	O
+omoyele	B-PER
+udoji	O
+na	O
+ndi	O
+n'afo	B-DATE
+daniels	I-PER
+	
+	
+goomenti	O
+nnamdi	B-PER
+nke	O
+	
+adinuba	B-PER
+taa	B-DATE
+vootu	O
+oche	O
+fredrick	B-PER
+nke	O
+ajuju	O
+	
+	
+eruola	O
+ndi	O
+naijiria	O
+england	B-LOC
+continue	O
+	
+olaedo	O
+aga	O
+nyocha	O
+mkpa	O
+nke	O
+naaga	O
+	
+steeti	I-LOC
+naahu	O
+emume	O
+abuo	O
+mere	O
+kpotuuru	O
+bu	O
+abdullahi	B-PER
+ahia	O
+okaiwu	O
+anambara	B-LOC
+muhammadu	B-PER
+afo	B-DATE
+	
+akwukwo	O
+wenezdee	I-DATE
+ubochi	B-DATE
+maka	O
+	
+na	O
+onye	O
+iji	O
+	
+a	O
+nwere	O
+mma	O
+ndi	O
+	
+kporo	O
+gakwara	O
+a	O
+obasanjo	B-PER
+	
+umu	O
+e	O
+uwe	O
+	
+nwegoro	O
+ndÃ¡Â»â¹	O
+ntaakuko	O
+	
+2018	B-DATE
+eagles	I-ORG
+onovwakpoyeya	I-PER
+onye	O
+ihe	O
+oru	O
+na	O
+o	O
+banyere	O
+okwu	O
+sowore	O
+	
+	
+nise	B-LOC
+103	O
+	
+shuga	O
+tinyere	O
+muru	O
+	
+jonathan	I-PER
+joseph	I-PER
+opekempe	O
+n224trn	O
+ka	O
+ntaakuko	O
+di	O
+	
+of	I-ORG
+nkwa	O
+ihe	O
+ndi	O
+	
+onyeisiala	O
+sahara	O
+	
+ya	O
+isi	O
+nna	O
+gaewepu	O
+sowore	B-PER
+dapchi	B-LOC
+chi	O
+ndi	O
+ha	O
+	
+salihu	I-PER
+ugbo	B-ORG
+ya	O
+na	O
+awolowo	I-ORG
+	
+na	O
+ndi	O
+onyeisi	O
+itunanya	O
+ka	O
+	
+nweremere	O
+mmadu	O
+ozuzu	O
+umunwaanyi	O
+na	I-LOC
+stf	B-ORG
+	
+ijeoma	B-PER
+o	O
+ndi	O
+fund	I-ORG
+nakwa	O
+mata	O
+naguakwukwo	O
+buru	O
+o	O
+site	O
+akuko	O
+	
+amerika	B-LOC
+biara	O
+o	O
+sodiq	O
+falcons	I-ORG
+arsenal	B-ORG
+otu	O
+	
+	
+buhari	B-PER
+njo	O
+okwuchite	O
+emegbu	O
+bank	I-ORG
+akowa	O
+okwa	O
+kenele	O
+na	O
+mkpebi	O
+ha	O
+igwe	O
+isi	O
+	
+nkiri	O
+steeti	O
+asato	O
+na	O
+njikota	O
+industrial	I-LOC
+buhari	I-PER
+obere	O
+mgbe	O
+donald	B-PER
+	
+bu	O
+ebonyi	B-LOC
+gwara	O
+	
+	
+inec	B-ORG
+	
+njem	O
+ugbo,	I-ORG
+	
+chirila	O
+bu	O
+	
+	
+ka	O
+oge	O
+mara	O
+o	O
+okaikpe	O
+falcons	O
+na	O
+mgbede	B-DATE
+akwukwo	O
+uweojii	O
+	
+ndi	O
+kwuo	O
+	
+ndiagha	O
+	
+joshua	B-PER
+ekweremadu	I-PER
+	
+ka	O
+naeme	O
+o	O
+nime	O
+ohaneze	O
+bu	O
+dara	O
+pia	O
+ya	O
+	
+	
+entrepreneurship	I-ORG
+ji	O
+nlekota	O
+ogunwusi	I-PER
+	
+telcos	O
+	
+omoyele	B-PER
+ndi	O
+ndi	O
+	
+buhari	O
+	
+na	O
+m	O
+gbara	O
+nime	O
+na	O
+	
+ndi	O
+ndi	O
+iledo	O
+nke	O
+edi	O
+na	O
+biles	I-PER
+1979	B-DATE
+	
+nweta	O
+ugbo	O
+soyinka	I-PER
+	
+odo	B-LOC
+igbokwe	I-PER
+oke	O
+taa	O
+ise	O
+mba	O
+	
+ndi	O
+	
+a	O
+nke	O
+willie	B-PER
+afo	B-DATE
+o	O
+dika	O
+gwara	O
+fada	O
+onu	O
+2019	I-DATE
+naabia	O
+ahu	O
+kumakpayi	I-PER
+naijiria	B-LOC
+bu	O
+	
+hula	O
+naijiria	B-LOC
+	
+ga	O
+aregbesola	I-PER
+choro	O
+ya	O
+	
+na	O
+8	O
+enweghi	O
+jolade	I-PER
+nari	I-DATE
+	
+ndi	O
+nke	O
+mamdu	O
+ahmad	I-PER
+	
+naagba	O
+bu	O
+a	O
+na	O
+onyedika	O
+govano	O
+o	O
+nigeria	B-LOC
+ruru	O
+ole	O
+	
+onu	O
+google	O
+inwe	O
+na	O
+ndi	O
+na	O
+mba	O
+iguzobe	O
+steeti	O
+rue	O
+onweghi	O
+kwuo	O
+ntu	O
+iwe	O
+n	O
+	
+	
+ndi	O
+joshua	O
+	
+si	O
+nke	O
+ekwuputabeghi	O
+ozo	O
+iri	I-DATE
+australia	O
+onye	O
+korea	I-LOC
+aloghachila	O
+onye	O
+di	O
+mputaghari	O
+nata	O
+	
+ezutela	O
+ichupu	O
+etole	O
+	
+oru	O
+ogbunonweya	O
+ndia	I-DATE
+	
+a	O
+ka	O
+naka	O
+ahu	O
+disemba	I-DATE
+	
+gbaa	O
+govano	O
+committe	O
+banyere	O
+ihe	O
+n	O
+	
+omoyele	B-PER
+na	O
+trump	B-PER
+ntaramahuhu	O
+	
+maobu	O
+ha	O
+nke	O
+odida	O
+18945	O
+naekele	O
+oru	O
+ntuli	O
+chiemelam	B-PER
+jikoro	I-ORG
+onu	O
+oru	O
+govano	O
+	
+okwa	O
+uche	B-PER
+nke	O
+goomenti	O
+geneva	B-LOC
+yakubu	I-PER
+naegosi	O
+mmadu	O
+rojenny	B-PER
+buhari	B-PER
+asompi	O
+ha	O
+ndi	O
+ngwusi	B-DATE
+	
+okweghi	O
+ozi	O
+nakuku	O
+machi	B-DATE
+mbu	O
+walter-peters	I-PER
+abia	O
+nba	B-ORG
+onu	O
+ndi	O
+banyere	O
+nogbako	O
+na	O
+afo	O
+o	O
+nebe	O
+ya	O
+otu	O
+nye	O
+na	O
+onuo	O
+juputa	O
+si	O
+ozo	O
+	
+ahu	O
+na	O
+bu	O
+last	O
+ala	O
+naaru	O
+ogbaru	I-LOC
+bu	O
+goolu	O
+nkwuputa	O
+nke	O
+maka	O
+nokpuru	O
+ka	O
+nakwa	O
+	
+disemba	B-DATE
+	
+1849	B-DATE
+	
+	
+afo	I-DATE
+	
+sineti	O
+di	O
+okaikpe	O
+naakwalite	O
+n	O
+nruruaka	O
+itu	O
+a	O
+na	O
+gbababuru	O
+naijiria	B-LOC
+naacha	O
+15	I-DATE
+e	O
+onu	O
+ubochi	O
+sudan	B-LOC
+anwu	O
+na	O
+	
+tusde	I-DATE
+	
+pretorius	I-PER
+ike	O
+awka	O
+ussd	O
+cnn	B-ORG
+maobu	O
+nzuzu	O
+bia	O
+ndi	O
+enyi	O
+oria	O
+n	O
+iri	I-DATE
+na	O
+iri	O
+	
+na	O
+gaemetuta	O
+falcons'	I-ORG
+nke	O
+ya	O
+okasi	O
+financial	I-ORG
+	
+wee	O
+mgbe	O
+obi	O
+iji	O
+mohammed	B-PER
+na	O
+ndi	O
+naegosi	O
+akara	O
+naewu	O
+	
+	
+nkwuputa	O
+	
+di	O
+ibupu	O
+mgbe	O
+naaru	O
+britain	B-LOC
+emetere	O
+igbo	O
+bay	I-LOC
+naijiria	O
+ebubo	O
+emetola	O
+agf	B-ORG
+agha	O
+	
+na	O
+na	O
+gara	O
+hibere	O
+lapo	B-ORG
+otu	O
+	
+na	O
+	
+aka	O
+boolu	O
+	
+	
+na	O
+naka	O
+trump	I-PER
+onye	O
+ndeputa	O
+	
+akuko	O
+cska	O
+enugwu	B-LOC
+	
+a	O
+ego	O
+bbc	B-ORG
+juru	O
+binyere	O
+ikwusi	O
+ruru	O
+agha	O
+di	O
+ogbugba	O
+bu	O
+jiri	O
+ano	O
+ndi	O
+nke	O
+ga	O
+ebonyi	B-ORG
+etiti	I-ORG
+zuru	O
+	
+kanu	I-PER
+bu	O
+site	O
+okpala	B-PER
+	
+gwara	O
+na	O
+street	I-LOC
+eme	O
+na	I-DATE
+komandi	I-ORG
+dss	O
+maazi	O
+	
+nisi	O
+	
+o	O
+justice	O
+ha	O
+a	O
+ha	O
+naechetara	O
+mere	O
+gaagbaghara	O
+mara	O
+oka	B-LOC
+bu	O
+ikeja	B-LOC
+n	O
+aburula	O
+	
+asato	O
+6,	I-DATE
+	
+ya	O
+naka	O
+	
+ime	O
+ganduje	I-PER
+2005	B-DATE
+ahu	O
+ahu	O
+si	O
+	
+ubochi	B-DATE
+ndu	O
+haram	I-ORG
+ussd	O
+	
+ma	O
+chiburu	O
+	
+obokwu	B-LOC
+ndi	O
+abubakar	B-PER
+ihe	O
+na	O
+	
+limited	I-ORG
+na	O
+nonwa	O
+	
+ngwongwo	O
+ma	O
+adenipekun	I-PER
+	
+ugbua	O
+settlement	O
+	
+ya	O
+ntuliaka	O
+nke	O
+maka	O
+abuja	B-LOC
+na	O
+eri	O
+niile	O
+ugbo	O
+niile	O
+	
+ala	O
+160,000	O
+ndi	O
+ya	O
+ka	O
+bu	O
+iwe	O
+stem	O
+376,552	O
+waterlines	O
+nkiti	O
+n'oktoba	B-DATE
+emere	O
+obioakpor	O
+2018	B-DATE
+enwekwara	O
+ndi	O
+president	O
+ndi	O
+ahu	I-DATE
+na	O
+nagbara	O
+mbu	O
+	
+apc	B-ORG
+bu	O
+sowere	O
+williams	I-PER
+bu	O
+who	O
+ha	O
+akuluono	I-PER
+jibril	I-PER
+	
+abuo	I-DATE
+udi	O
+iyi	O
+life	I-ORG
+ano	O
+zutere	O
+nsogbu	O
+unyaahu	B-DATE
+ato	O
+bu	O
+ya	O
+e	O
+anyi	O
+m	O
+naakwado	O
+dapchi	B-LOC
+shettima	I-PER
+ha	O
+nbc	B-ORG
+',	O
+amuma	O
+katoro	O
+nke	O
+olusegun	O
+	
+n'asompi	O
+shagari	I-PER
+haram	I-ORG
+	
+	
+neymar	B-PER
+	
+	
+kwa	B-DATE
+oru	O
+amawbia	B-LOC
+mkporo	O
+nchoputa	O
+commission	I-ORG
+	
+inwuchi	O
+ndoro	O
+onyonyo	O
+nnewi	B-LOC
+anyanwu	I-LOC
+ndi	O
+abuo	O
+steeti	O
+ozugbo	O
+	
+nke	O
+adighi	O
+abu	O
+na	O
+	
+isi	O
+rue	O
+enwe	O
+ndi	O
+	
+na	O
+naakpo	O
+	
+ijeri	O
+na	O
+npfl	B-ORG
+world	O
+mana	O
+	
+naanabata	O
+ahu	O
+udiri	O
+unyaahu	B-DATE
+o	O
+okwu	O
+iyi	O
+ime	O
+	
+na	O
+iri	O
+nogbako	O
+ka	O
+	
+austin	B-PER
+rue	O
+naahazi	O
+	
+anyi	O
+october	I-DATE
+	
+	
+bu	O
+stf	B-ORG
+1984	B-DATE
+akuko	O
+nwere	O
+	
+sowore	O
+ihe	O
+ajuju	O
+ha	O
+ndi	O
+ntuli	O
+	
+nwa	O
+ndi	O
+ndi	O
+okaiwu	O
+megidere	O
+ahu	O
+nihi	O
+lalong	I-PER
+na	O
+ntinye	I-ORG
+	
+ihe	O
+naijiria	O
+joe	B-PER
+7	O
+nemume	O
+na	O
+steeti	I-LOC
+	
+nwuru	O
+	
+ozo	O
+	
+eri	B-PER
+na	O
+1967	I-DATE
+economic	O
+105	O
+the	O
+	
+	
+niile	O
+ulooru	B-ORG
+na	O
+ndi	O
+okwu	O
+ike	O
+otu	O
+naakwa	O
+ego	O
+nahu	O
+nke	O
+bbc	B-ORG
+n	O
+shehu	B-PER
+naeche	O
+na	O
+kwusiri	O
+ka	O
+onye	O
+nuru	O
+nke	O
+site	O
+naijiria	B-LOC
+oge	O
+n'ahu	I-ORG
+boko	B-ORG
+nata	O
+yobe	B-LOC
+ndi	O
+na	O
+azu	O
+amarachi	B-PER
+enwetara	O
+	
+na	O
+na	O
+umuafo	O
+banyere	O
+ochuchu	O
+kere	O
+ndi	O
+	
+2019	I-DATE
+tuesday,	B-DATE
+ahu	O
+afo	B-DATE
+	
+na	O
+nochichi	O
+ndi	O
+uk	B-LOC
+	
+yusuf	I-PER
+okwu	O
+ubochi	O
+pillars	I-ORG
+naenwu	O
+di	O
+	
+nso	O
+yabasi	O
+chimamanda	B-PER
+nwokocha	B-PER
+di	O
+ojuju	O
+e	O
+mere	O
+di	O
+mimosas	I-ORG
+nime	O
+na	O
+national	B-ORG
+iji	O
+ebo	O
+o	O
+focus	I-ORG
+maka	O
+otu	O
+soro	O
+uber	B-ORG
+akwukwo	O
+ndi	O
+ikpeazu	O
+a	O
+imezi	O
+kwuru	O
+anyi	O
+ndi	O
+ngalaba	O
+	
+ije	O
+diri	O
+naka	O
+	
+naijiria	B-LOC
+o	O
+onyeisiala	O
+kolawole	B-PER
+osote	O
+olu	O
+	
+	
+nke	O
+agbata	O
+	
+	
+anas	I-PER
+onye	O
+mana	O
+banyere	O
+umu	O
+nubochi	O
+ma	O
+	
+omeiwu	B-ORG
+agbarala	O
+mkpuru	O
+ihe	O
+agha	O
+mpaghara	B-ORG
+gaapu	O
+	
+olu	O
+2015	B-DATE
+	
+mgbasaozi	O
+ruru	O
+togo	B-LOC
+	
+ikwu	O
+usoro	O
+	
+nke	O
+n	O
+ndi	O
+mall	O
+n	O
+nke	O
+ebe	O
+adila	O
+iko	O
+	
+thailand	B-LOC
+oru	O
+apc	B-ORG
+mgbe	O
+gaamunye	O
+nelu	O
+obiano	I-PER
+abuo	O
+suleiman	B-PER
+rufa'i	I-PER
+nwuru	O
+horgan	O
+banji	B-PER
+ibeawuchi	B-PER
+ha	O
+atu	O
+ka	O
+nke	O
+	
+mgbe	O
+nguzo	O
+gaeru	O
+ji	O
+nna	O
+afo	O
+govano	O
+mere	O
+ogbo	O
+na	O
+	
+	
+1993	I-DATE
+	
+obasanjo	B-PER
+ghana	B-LOC
+egwuregwu	O
+afo	I-DATE
+onye	O
+bÃ¡Â»Ä	O
+nke	O
+bu	O
+o	O
+bobrisky:	O
+	
+ahu	O
+na	O
+	
+	
+emergency	I-ORG
+ngosi	O
+odumegwu	I-ORG
+peter	B-PER
+ma	O
+trump	I-PER
+	
+nwere	O
+leicester	B-LOC
+taa	B-DATE
+anyi	O
+ulo	O
+agric	O
+na	O
+okaiwu	O
+3,	I-DATE
+bu	O
+	
+a	O
+az	O
+na	O
+tchalla	O
+soyinka	I-PER
+government	I-ORG
+nzuko	O
+amerika	B-LOC
+maka	O
+efcc	B-ORG
+ochichi	O
+naatatu	O
+2019	B-DATE
+igbo	O
+yana	O
+naijiria	B-LOC
+ussd	B-ORG
+nnukwu	O
+alhaji	B-PER
+yusuf	B-PER
+naijiria	B-LOC
+naijiria	B-LOC
+pillars	I-ORG
+naani	O
+nye	O
+mpaghara	B-LOC
+	
+na	O
+ndi	O
+naijiria	B-LOC
+nakpaghari	O
+nleta	O
+naanu	O
+igbo	O
+395	O
+ndi	O
+ndi	O
+afo	O
+tughi	O
+	
+mpi	O
+mba	O
+onye	O
+na	O
+obodo	O
+anyi	O
+ozo	O
+ihazi	O
+	
+alliance	B-ORG
+abia	B-ORG
+nnia	B-PER
+na	O
+mmeputa	O
+l	O
+wenzidee,	I-DATE
+nwere	O
+chiri	O
+ugbua	O
+1992	B-DATE
+	
+,	O
+siri	O
+	
+maazi	O
+nnamdi	B-PER
+nime	O
+pati	O
+gaadawa	O
+govano	O
+party	I-ORG
+liigi	O
+ahu	O
+ochichi	O
+ngige	O
+na	O
+	
+toyota	B-ORG
+kariri	O
+onyeisi	O
+	
+akuko	O
+nihe	O
+	
+	
+ji	O
+mkposa	O
+nchikota	O
+mara	O
+	
+nwoke	O
+ka	O
+okaiwu	O
+pdp	O
+nakwa	O
+okpu	O
+isii	I-DATE
+ka	O
+maka	O
+ndi	O
+agaghi	O
+lee	O
+iwu	O
+onye	O
+ndi	O
+	
+na	O
+ga	O
+gunyere	O
+ulo	O
+bukola	B-PER
+buru	O
+	
+ikpe	O
+	
+ya	O
+ndi	O
+na	O
+putara	O
+boolu	O
+ntaakuko	O
+uloikpe	O
+otu	O
+ike	O
+akuko	O
+tsafe	B-LOC
+onyeisiala	O
+umu	O
+adbulwahab	I-PER
+na	O
+	
+eze	O
+ato	I-DATE
+obi	O
+mbido	B-DATE
+	
+steeti	I-LOC
+ntaakuko	O
+a	O
+oto	O
+naijiria	B-LOC
+ka	O
+sowore	B-PER
+uloaku	B-ORG
+	
+afrika	B-LOC
+ji	O
+ozokwa	O
+na	I-DATE
+	
+	
+delta	B-LOC
+naijiria	B-LOC
+ebe	O
+usoro	O
+oyo	O
+na	O
+	
+	
+ojiegbe	O
+na	O
+ndi	O
+ijeri	O
+okammuta	O
+n	O
+ndi	O
+ulo	O
+ugwu	I-LOC
+onyekwuru	I-PER
+dokinta	O
+	
+nwachukwu	B-PER
+ndi	O
+naekpe	O
+ndeko	O
+iteghete	O
+	
+imo	B-LOC
+youtube	B-ORG
+ulo	O
+na	O
+citn	B-ORG
+iwu	O
+enwere	O
+odoziaku	O
+nodu	O
+naahu	O
+puku	O
+sineti	O
+eji	O
+otu	O
+onwuegbuzina	I-PER
+uwa	O
+umuna	B-LOC
+okaikpe	O
+tara	O
+bu	O
+	
+naijiria	B-LOC
+n	O
+bichi	B-PER
+naegwu	O
+nke	O
+	
+iri	O
+na	O
+naakwa	O
+gaecheta	O
+	
+mechara	O
+nihe	O
+bu	O
+abubakar	I-PER
+obula	O
+naani	B-DATE
+ama	O
+julai	I-DATE
+ude	I-PER
+na	O
+ya	O
+nke	O
+nke	I-ORG
+nnÃ¡Â»Å¤chiaha	O
+e	O
+	
+ime	O
+	
+igbo	O
+onwa	B-DATE
+etiti	O
+	
+sss	B-ORG
+ahu	O
+	
+nhoputa	O
+	
+mee	O
+naemeputa	O
+edochie	I-PER
+	
+church,	I-ORG
+omeiwu	O
+china	B-LOC
+	
+aka	O
+bula	O
+banyere	O
+ezinulo	O
+kelere	O
+	
+nke	O
+haruna	B-PER
+onyeisi	O
+egwu	O
+	
+	
+enweghi	I-ORG
+akwukwo	O
+	
+igwe	O
+mandate	I-ORG
+aka	O
+naijiria	B-LOC
+ndlea	B-ORG
+ihe	O
+moghalu	B-PER
+na	O
+	
+ututu	O
+akowala	O
+	
+obula	O
+buhari	B-PER
+na	O
+na	O
+solarin	I-PER
+otu	O
+aha	O
+	
+nubochi	O
+o	O
+	
+	
+ya	O
+nwaanyi	O
+nchekwa	O
+onyenkuzi	O
+on	O
+olamilekan	B-PER
+juliet	B-PER
+abuo	O
+rituru	O
+ahu	O
+oge	O
+	
+ato	I-DATE
+kedu	O
+na	O
+nafo	O
+metutara	O
+izugbe	O
+na	O
+achuzia	I-PER
+obara	O
+gwara	O
+ndi	O
+putara	O
+bamgboye	I-PER
+	
+12	O
+uka	O
+	
+nye	O
+	
+soshal	O
+saudi	B-LOC
+anaghi	O
+amaghi	O
+	
+si	O
+	
+bu	O
+ya	O
+okporo	O
+abali	B-DATE
+m	O
+okwu	O
+bu	O
+bu	O
+twita	O
+siri	O
+ntuli	O
+n'ututu	B-DATE
+na	O
+ndi	O
+ato	O
+gaabu	O
+di	O
+onye	O
+puku	O
+ego	O
+nke	I-DATE
+aba	O
+	
+sitere	O
+china	B-LOC
+onyeisi	O
+ulo	O
+mkpochapu	O
+ama	O
+ana	O
+okpuru	O
+aloysius	B-PER
+onye	O
+na	O
+	
+ogwugwo	O
+	
+jiri	O
+leda	O
+bu	O
+govano	O
+ntuliaka	O
+izaak	B-PER
+na	O
+si	O
+ulooru	O
+tozdee	B-DATE
+mba	O
+mmalite	O
+arsenal	B-ORG
+naira	O
+ndi	O
+bula	O
+ikwuto	O
+e	O
+ezi	O
+pdp	B-ORG
+	
+ndi	O
+akara	O
+bu	O
+omoyele	B-PER
+	
+	
+afo	O
+mba	O
+gaeme	O
+1000	O
+	
+onye	O
+di	O
+trump	I-PER
+mmepe	I-ORG
+gaemere	O
+al	B-ORG
+boolu	O
+o	O
+nebe	O
+goomenti	O
+ya	O
+ozo	O
+meruru	O
+na	O
+mara	O
+uka	O
+ole	I-DATE
+	
+asuu	B-ORG
+onyonyo	O
+	
+johnson	B-PER
+churu	O
+	
+na	O
+govano	O
+	
+taboos	O
+afo	B-DATE
+mba	O
+	
+inaputa	O
+eritrea	O
+	
+a	O
+enyemaka	O
+nhazi	O
+eche	O
+ndi	O
+	
+maka	O
+odumejeje	B-PER
+a	O
+ka	O
+agbari	O
+ka	O
+lewis	I-PER
+of	O
+ulo	O
+met	O
+ii	O
+na	O
+obiano	I-PER
+	
+	
+npn	B-ORG
+obasanjo	O
+	
+mmiri	O
+iri	I-DATE
+	
+ha	O
+bu	O
+bu	O
+gurira	O
+ka	O
+	
+taa	B-DATE
+kwuru	O
+	
+nkwa	O
+sineti	O
+	
+ghana	O
+n	O
+ruo	O
+mere	O
+nna	O
+di	O
+afrika	B-LOC
+tcn	B-ORG
+onu	O
+mmega	O
+dika	O
+si	O
+reporters	O
+daura	B-LOC
+ka	O
+cathedral	I-LOC
+oha	O
+bulie	O
+oku	O
+onu	O
+onye	O
+	
+akwusi	O
+	
+	
+ma	O
+di	O
+niile	O
+akaipa	O
+ma	O
+opekata	O
+otu	O
+2018	B-DATE
+na	O
+wumi	B-PER
+holy	I-ORG
+kansul	O
+ya	O
+	
+too	O
+igbo	O
+ndigbo	O
+na	O
+si	O
+	
+buhari	I-PER
+eze	O
+cpi	O
+florence	O
+n'onwa	I-DATE
+na	O
+agbanyeghi	O
+ndi	O
+o	O
+	
+gaenweta	O
+nakwa	O
+noru	O
+uloogwu	B-ORG
+ano	I-DATE
+onye	O
+danai	O
+ka	O
+go	O
+basin	I-LOC
+ka	O
+oduah	I-PER
+ndi	O
+isii	I-DATE
+odinihu	O
+na	O
+isi	O
+na	O
+iri	O
+	
+niile	O
+	
+e	O
+ano	O
+benin	B-LOC
+nke	O
+super	B-ORG
+nokpuru	O
+uzo	O
+ka	O
+egwu	O
+ha	O
+na	O
+	
+akuko	O
+di	O
+dss	B-ORG
+no	O
+ugbua	B-DATE
+uloaku	O
+ochichi	I-ORG
+na	O
+site	O
+nogweukwu	O
+	
+anya	O
+mwufu	O
+ka	O
+angela	B-PER
+onyeisi	O
+chikobara	O
+naahu	O
+dss	B-ORG
+world	O
+n'ubochi	B-DATE
+	
+si	O
+oluwasanmi	I-PER
+	
+ka	O
+mana	O
+	
+enyi	O
+ohuu	O
+a	O
+guterres	B-PER
+	
+ugbu	O
+nke	O
+ha	O
+	
+falcons	B-ORG
+lere	O
+	
+otu	O
+	
+dss	B-ORG
+ise	O
+nke	O
+gbara	O
+ahia	O
+nke	I-DATE
+dole	I-PER
+platform	O
+ngalaba	O
+	
+	
+wole	B-PER
+nikpochapu	O
+ha	O
+	
+uka	O
+okwa	O
+aga	I-DATE
+	
+	
+	
+ndi	O
+edegara	O
+	
+mejuputara	O
+mba	O
+a	O
+	
+gunyekwara	O
+gasiri	O
+nke	I-LOC
+n	O
+ozi	O
+ndia	O
+eziokwu	O
+njiko	O
+na	O
+adams	O
+nso	O
+naekwuchitere	O
+sowore	O
+na	O
+otu	O
+ojii	O
+chiri	O
+o	O
+	
+pati	O
+nabatara	O
+afo	I-DATE
+nwere	O
+ogbaatumtum	O
+	
+nrugide	O
+agba	O
+mgbe	O
+aga	O
+	
+naijiria	O
+maka	O
+igbo	O
+umuaka	O
+di	O
+kwuru	O
+m	O
+hoputa	O
+niile	O
+ugbua	O
+	
+mauricio	B-PER
+omoyele	B-PER
+monguno	O
+na	O
+na	O
+super	O
+	
+mba	O
+sambisa	B-LOC
+bu	O
+otu	O
+	
+a	O
+akuko	O
+	
+ina	O
+secondiri	O
+naijiria	O
+oriaku	O
+oru	O
+ya	O
+na-ahu	I-ORG
+	
+mmachibido	O
+abia	B-LOC
+ikwu	O
+ahu	O
+dozie	B-PER
+kim	B-PER
+na	O
+egwu	O
+o	O
+ji	O
+ike	O
+ndi	I-ORG
+british	O
+gaa	O
+na	O
+onyeisioche	O
+130pm	O
+naanara	O
+	
+nwuru	O
+na	O
+nke	O
+ebe	O
+e	O
+n'ondo	I-ORG
+bu	O
+naijiria	B-LOC
+inspection	O
+okpalaeke	I-PER
+stella	B-PER
+	
+imeputa	O
+a	O
+	
+ihe	O
+ya	O
+col	O
+ahu	O
+super	B-ORG
+latrik	O
+ndi	O
+okwu	O
+na	O
+onyeisi	O
+nke	I-ORG
+ahu	O
+ndi	O
+uweojii	O
+aka	O
+oru	I-ORG
+obula	O
+bu	O
+mba	O
+onye	O
+muhammadu	B-PER
+enugwu	B-LOC
+cristiano	B-PER
+oru	O
+na	O
+ahuike	O
+onye	I-LOC
+abia	B-LOC
+onyeisi	O
+ike	O
+nhazi	O
+niile	O
+enwerela	O
+	
+ritere	O
+bu	O
+eagles	I-ORG
+haram	I-ORG
+banye	O
+republicans	O
+ndi	O
+nwoke	O
+maobu	O
+aga	O
+o	O
+108	O
+otu	O
+ochichi	O
+ndi	O
+ulo	O
+na	O
+	
+na	O
+electricity	I-ORG
+kano	O
+ike	O
+gunyere	O
+na	O
+nakuku	O
+afrika	O
+oru	O
+onye	O
+china	B-LOC
+mazi	O
+idi	O
+ka	O
+otu	O
+nokpuru	O
+ebe	O
+ihe	O
+	
+inec	O
+	
+onye	O
+wakpo	O
+siri	O
+nke	O
+	
+400	O
+	
+e	O
+chelsea	B-ORG
+na	O
+isi	O
+mere	O
+pati	O
+na	O
+nyefere	O
+naka	O
+nisi	O
+ndi	O
+nke	O
+macron	I-PER
+na	O
+imalite	O
+eu	B-ORG
+abacha	B-PER
+disemba	O
+olaniyan	O
+naijiria	B-LOC
+nwere	O
+ka	O
+	
+naagbawa	O
+kporo	O
+anyi	O
+mechara	O
+ngalaba	O
+okporoigwe	O
+onye	O
+rojenny	B-PER
+bu	O
+onye	O
+huru	O
+afo	O
+akpokuola	O
+najuju	O
+mma	O
+eagles	I-ORG
+maara	O
+bu	O
+a	O
+mba	O
+akwukwo	O
+pdp	B-LOC
+gaeji	O
+na	O
+mmemme	O
+simi	O
+ulumma	O
+mkpesa	O
+bu	O
+mba	O
+mana	O
+oche	O
+noro	O
+hoputara	O
+	
+adegbenro	B-PER
+kwuru	O
+iri	O
+mpaghara	O
+ndi	O
+naira	O
+	
+ekwu	O
+naarahu	O
+onye	O
+iziga	O
+ma	O
+obere	O
+and	O
+tai	B-PER
+a	O
+na	O
+	
+senate	O
+	
+otu	O
+ubochi	O
+	
+okammuta	O
+ebe	O
+fulham	B-ORG
+boolu	O
+onyeisi	O
+na	O
+groups	I-ORG
+di	O
+na	I-DATE
+tee	O
+	
+aputala	O
+mancity	B-ORG
+nafo	O
+govano	O
+	
+hu	O
+gbaturu	O
+	
+	
+kwuru	O
+kwuru	O
+naijiria	B-LOC
+oku	O
+ise	O
+a	O
+nuru	O
+	
+banyere	O
+aka	O
+echi	B-DATE
+osote	O
+	
+bbc	O
+mana	O
+na	O
+anya	O
+haram	I-ORG
+ya	O
+akwadoteghi	O
+naekwuchitere	O
+	
+enyi	O
+	
+okwu	O
+ya	O
+ebubo	O
+uweojii	O
+ibe	O
+ekweghi	O
+onu	O
+maka	O
+nke	O
+	
+	
+wutere	O
+iko	O
+na	O
+a	O
+maara	O
+ihe	O
+afirika	O
+onyeisi	O
+nasompi	O
+nsogbu	O
+na	O
+ugbo	B-ORG
+sss	B-ORG
+ngwuputa	O
+kwuru	O
+ghorom	O
+anyi	O
+	
+okigwe	B-LOC
+ekiti	B-LOC
+	
+gwara	O
+ebe	O
+naakpo	O
+onuma	O
+propcom	B-ORG
+naani	O
+ka	O
+ya	O
+na	O
+e	O
+furtado	B-PER
+dere	O
+dpp	B-ORG
+bu	O
+cameroon	O
+	
+	
+chee	O
+	
+mepere	O
+biara	O
+ozo	O
+n	O
+o	O
+libya	B-LOC
+ya	O
+mba	O
+anya	O
+otu	O
+ka	I-DATE
+bula	O
+bank	I-ORG
+onwe	O
+sowore	O
+otu	O
+na	O
+a	O
+biri	O
+ahu	O
+onye	O
+gara	O
+nleta	O
+naeru	O
+onodu	O
+n'uloaku	B-ORG
+ndi	O
+	
+	
+haram	I-ORG
+kaara	O
+scotland	B-ORG
+iba	O
+	
+kpatara	O
+pakistan	B-LOC
+maka	O
+all	B-ORG
+o	O
+na	O
+ndi	O
+ochichi	O
+adewusi	I-PER
+dere	O
+okoroto	O
+naekwu	O
+na	O
+	
+ndi	O
+ruru	O
+konel	B-PER
+	
+	
+uwe	O
+odo	B-LOC
+na	O
+national	I-ORG
+naijiria	O
+a	O
+nnamdi	O
+ha	O
+mane	I-PER
+	
+ala	O
+a	O
+mmadu	O
+bulie	O
+naijiria	I-LOC
+ndi	I-ORG
+nke	O
+mbu	O
+ana	O
+oru	O
+a	O
+ulo	O
+na	O
+yemi	B-PER
+omumu	O
+election	B-DATE
+akwughi	O
+igbo	I-ORG
+obodo	O
+choro	O
+bula	O
+	
+nke	O
+novemba	B-DATE
+a	O
+ego	O
+na	O
+na	O
+ndi	O
+na	O
+ndi	O
+of	O
+naijiria	B-LOC
+na	O
+ka	O
+n	O
+	
+brazil	B-LOC
+catholic	I-ORG
+mmadu	O
+legos	B-LOC
+ma	O
+10	O
+abali	B-DATE
+owuwa	O
+na	O
+m	O
+were	O
+	
+	
+nwebeghi	O
+nke	O
+mba	O
+onye	O
+guillermo	B-PER
+egwu	O
+ulo	B-ORG
+na	O
+lekotara	O
+	
+onye	O
+kpasuru	O
+ulooru	O
+bu	O
+n	O
+goomenti	O
+obodo	I-ORG
+ike	O
+ya	O
+	
+surulere	B-LOC
+onye	O
+	
+na	O
+	
+ka	O
+federal	O
+naijiria	B-LOC
+france	B-LOC
+national	I-ORG
+iji	O
+sudan	B-LOC
+	
+simesta	O
+payment	O
+siri	O
+ikewa	O
+nke	O
+mba	O
+mbu	O
+naemegbu	O
+ngaghari	O
+na	O
+okwu	O
+okwu	O
+nonodu	O
+dika	O
+100	O
+	
+nwetara	O
+kwuru	O
+n	O
+n	O
+okolo	I-PER
+wanueri	I-PER
+kwaa	O
+garalu	O
+ha	O
+umu	O
+o	O
+of	O
+naekwuchitere	O
+	
+na	O
+mmadu	O
+ntuliaka	I-DATE
+'bring	O
+otu	O
+ngozi	O
+	
+kwuru	O
+no	O
+	
+haram	I-ORG
+legos	B-LOC
+arsenal	I-ORG
+enweghi	O
+gbara	O
+ka	O
+thomas	B-PER
+odu	O
+	
+	
+ato	I-DATE
+onyeisi	O
+oria	O
+mbido	B-DATE
+maazi	O
+heinzchristian	O
+aputaghi	O
+o	O
+nke	O
+	
+day	O
+	
+megide	O
+n	O
+nke	O
+iko	O
+a	O
+si	O
+ogbako	O
+nwere	O
+dika	O
+asompi	O
+ebumnobi	O
+nkea	O
+nafdac	B-ORG
+state	I-LOC
+nime	O
+falcons	I-ORG
+mana	O
+na	O
+a	O
+onyeisi	O
+o	O
+	
+o	O
+ghara	O
+nyere	O
+ndi	O
+big	O
+e	O
+iswap	B-ORG
+ano	O
+onyeisi	O
+ufodu	O
+	
+45	O
+2014	B-DATE
+surulere	B-LOC
+na	O
+osi	O
+naadibeghi	O
+nke	O
+	
+o	O
+taa	B-DATE
+o	O
+kwuo	O
+amatu	I-PER
+naahu	O
+patricia	B-PER
+okwa	O
+nde	O
+	
+2019	B-DATE
+edere	O
+ndi	O
+ochichi	O
+govano	O
+mmemme	O
+aka	O
+ndi	O
+oke	O
+oru	O
+otu	O
+m	O
+mita	O
+bishop	B-PER
+onyeisi	O
+sowore	O
+na	O
+ndi	O
+	
+enugu	O
+etu	O
+mara	O
+dere	O
+na	O
+na	O
+nke	O
+o	O
+nke	O
+ndi	O
+onye	O
+naebu	O
+bichi	B-PER
+	
+na	O
+akporo	O
+	
+nti	O
+ihe	O
+nchekwa	O
+na	O
+atughariala	O
+mmadu	O
+kwuru	O
+	
+a	O
+oru	O
+o	O
+otu	O
+nke	O
+naadigide	O
+ihe	O
+kachasi	O
+kporo	O
+anambra	I-LOC
+ike	O
+abuja	B-LOC
+ruru	O
+iche	O
+no	O
+nasompi	O
+duke	I-PER
+ji	O
+nchekwa	O
+ugboro	O
+o	O
+be	O
+ignatius	B-PER
+o	O
+nakwukwo	O
+yoruba	O
+	
+nuj	B-ORG
+ekwuola	O
+mohammed	O
+peter	O
+na	O
+ochi	O
+ekenela	O
+nime	O
+banye	O
+eleruwa	O
+igbo	O
+mba	O
+guardian	B-ORG
+ekwuola	O
+naaga	O
+umunwanyi	O
+	
+gaenye	O
+o	O
+ihe	O
+di	O
+ahu	O
+sogunro	I-PER
+peace	O
+ugboala	O
+abdulaziz	B-PER
+di	O
+iwu	O
+naijiria	B-LOC
+nke	O
+ka	O
+	
+	
+kwuru	O
+na	O
+okonkwo	I-PER
+	
+ihe	O
+ogbugbu	O
+onye	O
+na	O
+na	O
+nwankwo	I-PER
+bu	O
+surajo	B-PER
+egwuregwu	O
+ugbo	O
+okaiwu	O
+afrika	I-LOC
+govano	O
+	
+1981	B-DATE
+anyi	O
+	
+	
+na	O
+na	O
+briten	B-LOC
+onye	O
+a	O
+	
+akuko	O
+maara	O
+o	O
+naijiria	O
+gwara	O
+nokwa	O
+nguzosi	O
+gaewepu	O
+mmekorita	O
+	
+lawan	I-PER
+uzo	O
+nulge	B-ORG
+ndi	O
+obonoobla	O
+ahu	O
+mma	I-DATE
+	
+rube	O
+okwu	O
+naijiria	O
+na	O
+ndi	O
+ego	O
+o	O
+	
+aputala	O
+maka	O
+nisi	O
+olumhense	I-PER
+	
+tuc	B-ORG
+nleta	O
+	
+sowore	O
+n	O
+ohia	O
+aga	I-DATE
+okika	I-PER
+tunyeere	O
+onyeisiala	O
+nsogbu	O
+abuo	I-DATE
+site	O
+willie	B-PER
+	
+nari	O
+	
+niwa	O
+si	O
+	
+di	O
+ikpe	O
+	
+odida	O
+na	O
+emeputa	O
+	
+nrite	O
+nkwa	O
+	
+nnochiaha	O
+nhoro	O
+na	O
+gaagbaghara	O
+gara	O
+o	O
+enwe	O
+ano	I-DATE
+ruola	I-DATE
+ghana	B-LOC
+	
+disemba	B-DATE
+naahu	O
+	
+ya	O
+restoration	B-ORG
+onye	O
+ndi	O
+nke	O
+mourinho	O
+ka	O
+onwe	O
+iji	O
+mkpumkpu	O
+mere	O
+onye	O
+netiti	O
+di	O
+silva	I-PER
+achoghi	O
+and	I-ORG
+nobi	O
+ebe	O
+afo	B-DATE
+stadium	O
+naenyocha	O
+bu	O
+na	O
+nke	O
+kolo	B-PER
+nke	O
+ka	O
+i	O
+nkeoma	O
+opekata	O
+1980	O
+abuo	O
+a	O
+	
+asaa	I-DATE
+gbara	O
+uto	O
+ogbaru	I-LOC
+nke	O
+asaa	I-DATE
+inwu	O
+ezi	O
+culture	O
+	
+onye	O
+chike	B-PER
+asato	O
+o	O
+albion	I-ORG
+ma	O
+	
+limited	I-ORG
+nime	O
+obiano	I-PER
+nagbanyeghi	O
+	
+	
+legos	B-LOC
+na	O
+akuko	O
+ibadan	I-ORG
+asaa	O
+awara	B-PER
+uru	O
+2018	B-DATE
+mbu	O
+ebe	O
+choro	O
+mwakpo	O
+waford	B-ORG
+ma	O
+ya	O
+ndu	O
+n'ihe	B-DATE
+iswap	B-ORG
+mkporo	O
+na	O
+ka	O
+o	O
+buu	O
+mmadu	O
+julai	O
+	
+anyi	O
+	
+a	O
+	
+gba	O
+ji	O
+cbn	B-ORG
+awara	B-PER
+agbagbuola	O
+commission	I-ORG
+ihe	O
+ndi	O
+adc	B-ORG
+ndi	O
+kwado	O
+maka	O
+ha	O
+onye	O
+o	O
+anyi	O
+fraide	B-DATE
+okachasi	O
+	
+shehu	B-PER
+agha	O
+o	O
+onye	O
+a	O
+ato	O
+nde	O
+	
+omumu	O
+a	O
+ogbaaghara	O
+dara	O
+nzuko	O
+ebe	O
+nakuku	O
+bbc	B-ORG
+	
+wilfred	O
+o	O
+ole	O
+lake	B-LOC
+efe	O
+	
+	
+ka	O
+sudan	B-LOC
+ndi	O
+obodo	O
+arsenal	O
+nke	O
+naebi	O
+nke	O
+kacha	O
+nke	O
+ma	O
+	
+e	O
+onye	O
+states	O
+	
+ikeogu	B-PER
+nakwukwo	O
+rubere	O
+no	O
+o	O
+anwuchiri	O
+ka	O
+	
+otu	O
+mmadu	O
+nwunye	O
+okaikpe	O
+	
+ikike	O
+n	O
+2018	B-DATE
+na	O
+	
+ndi	O
+ochichi	B-ORG
+okporo	O
+na	O
+ebe	O
+ndi	O
+	
+na	O
+mpe	O
+	
+n	O
+buhari	B-PER
+o	O
+akuko	O
+maka	O
+nri	O
+n	O
+	
+iheanacho	I-PER
+gara	I-DATE
+ano	O
+	
+amara	O
+	
+ogbako	O
+mkporo	O
+ozi	O
+buru	O
+izizi	O
+inyere	O
+otu	O
+a	O
+nogbako	O
+hrm	O
+na	O
+	
+anabatala	O
+	
+nke	O
+oma	O
+trump	B-PER
+steeti	I-LOC
+kporo	O
+na	O
+15	I-DATE
+cbn	B-ORG
+ndi	O
+agbaghaghi	O
+jenuwari	B-DATE
+festival	O
+akwukwo	O
+dere	O
+	
+okwa	O
+ndi	O
+na	O
+ndi	O
+koro	O
+kwuru	O
+kwuru	O
+asatara	O
+nwuchiri	O
+ugboala	O
+control	I-ORG
+o	O
+iri	O
+	
+oru	O
+udoh	I-PER
+eme	O
+	
+nulouka	O
+ya	O
+ndi	O
+	
+	
+ma	O
+onwe	O
+kwuputara	O
+naebo	O
+gbara	O
+dika	O
+jane	B-PER
+mmetuta	O
+super	O
+ya	O
+kporo	O
+pdp	O
+nke	I-ORG
+for	O
+	
+abali	B-DATE
+enwetala	O
+haram	I-ORG
+obere	O
+	
+npn	B-ORG
+buhari	B-PER
+ife	O
+naeme	O
+nke	O
+nke	O
+	
+puku	O
+ha	O
+ha	O
+nkiri	O
+	
+umuakwukwo	O
+ajuju	O
+omoyele	B-PER
+ajuju	O
+	
+otu	O
+	
+ya	O
+nke	O
+ugboala	O
+	
+taa	I-DATE
+naijiria	O
+	
+presidential	O
+oru	I-ORG
+dss	B-ORG
+na	O
+	
+ike	O
+	
+ya	O
+negwuregwu	O
+bu	O
+	
+	
+anyi	O
+chukwuemeka	I-PER
+enyeela	O
+na	O
+	
+n'ubochi	B-DATE
+2019	B-DATE
+ngozi	B-PER
+saut	B-LOC
+borno	B-LOC
+aka	O
+n	O
+anyi	O
+bu	O
+okoye	O
+nabali	O
+oke	O
+nozo	O
+	
+mgbe	O
+ka	O
+anabatara	O
+ji	O
+o	O
+nÃ¢â¬â¢afo	O
+na	O
+na	O
+special	O
+ji	O
+moi	O
+nabalia	O
+ugha	O
+anya	O
+ogbako	O
+ikpe	O
+ozo	O
+2018	I-DATE
+naijiria	O
+green	B-ORG
+chartered	I-ORG
+	
+mgbe	O
+ndi	O
+16	O
+otutu	O
+ha	O
+dapchi	B-LOC
+	
+toyota	B-ORG
+	
+ha	O
+kpughere	O
+	
+	
+nke	O
+goomenti	O
+na	O
+n'ugwu	B-LOC
+e	O
+	
+gbasara	O
+jonathan	O
+mmekorita	O
+uweojii	O
+joshua	B-PER
+joshua	B-PER
+ihe	O
+merela	O
+naahu	O
+akwukwo	O
+ma	O
+ogost	B-DATE
+	
+	
+ha	O
+di	O
+naijiria	O
+nemume	O
+o	O
+	
+afo	O
+nokporo	O
+ya	O
+bojeeti	O
+ironsi	O
+irio	O
+naekwe	O
+inec	O
+umunwaanyi	O
+na	O
+lagos	B-LOC
+	
+johnson	I-PER
+n'afo	I-DATE
+otu	O
+	
+onye	O
+doro	O
+	
+badru	I-PER
+abubakar	I-PER
+a	O
+notu	O
+organisation	O
+ala	O
+idemmiri	O
+karia	O
+45	O
+isi	O
+onye	O
+buru	O
+may	B-DATE
+na	O
+toyota	B-ORG
+bu	O
+ya	O
+ministry	I-ORG
+bu	O
+	
+ebe	O
+onye	O
+steeti	I-LOC
+umuahia	B-LOC
+ndi	O
+	
+naijiria	O
+patricia	B-PER
+kwukwara	O
+ahu	O
+ugbo	I-ORG
+i	O
+naekwuchiteburu	O
+akunuba	O
+ya	O
+iji	O
+iri	O
+na	O
+n	O
+uchechi	O
+na	O
+	
+	
+mkpebi	O
+kidjo	I-PER
+kwuru	O
+kwa	O
+yana	O
+na	O
+ya	O
+kano	B-LOC
+oyenuga	O
+ugbua	B-DATE
+	
+ulo	B-ORG
+nwere	O
+anya	O
+ubochi	B-DATE
+nnamdi	B-PER
+di	O
+ehi	O
+na	O
+	
+obula	O
+celtic	B-LOC
+	
+	
+abuo	I-DATE
+di	O
+	
+notu	O
+mberede	O
+	
+aga	I-DATE
+	
+mmuba	O
+ha	O
+naijiria	O
+egbuola	O
+achebe	I-LOC
+aduola	O
+a	O
+achupula	O
+anyanwu	O
+iri	O
+nwereike	O
+na	O
+iwu	O
+otu	O
+agbagharala	O
+imirikiti	O
+nahu	O
+ndi	O
+emume	O
+udi	O
+ikpe	O
+lafia	O
+akunauba	O
+gaara	O
+	
+nwetara	O
+gbasara	O
+na	O
+bello	I-ORG
+onyeagha	O
+ndi	O
+abughi	O
+maka	O
+naagwa	O
+	
+	
+sonde	I-DATE
+moghalu	B-PER
+ndi	O
+nke	O
+na	O
+agha	O
+enwere	O
+ndi	O
+ojii	O
+sawut	B-LOC
+a	O
+hara	O
+okoye	B-PER
+hibechara	O
+bichi	I-PER
+mmemme	O
+gbara	O
+onu	O
+mba	O
+iji	O
+ararume	B-PER
+mgbasa	O
+o	O
+bu	O
+obi	O
+2019	I-DATE
+joshua	I-PER
+	
+bbn	O
+ihe	O
+abuo	O
+	
+mmadu	O
+iswap	B-ORG
+nke	O
+mere	O
+na	O
+be	O
+govano	O
+nhoputa	O
+na	O
+	
+boko	B-ORG
+ekweremadu	I-PER
+ulooru	O
+oge	O
+commission	I-ORG
+they	O
+ihe	O
+nwere	O
+ma	O
+nye	O
+	
+ngalaba	O
+mba	O
+abughi	O
+onye	O
+	
+kwa	I-DATE
+	
+femi	B-PER
+nchekwa	O
+	
+bu	O
+riding	O
+ya	O
+yekini	B-PER
+na	O
+burkina	O
+ya	O
+haram	O
+nwata	O
+naka	O
+oru	O
+nke	O
+anyanwu	O
+awkaotu	O
+seychelles	B-LOC
+govano	O
+gunyere	O
+garba	B-PER
+ebe	O
+	
+iko	O
+chere	O
+choro	O
+nke	O
+ndi	O
+mere	O
+niji	O
+	
+	
+n	O
+nne	O
+okwu	O
+nime	O
+ekweghi	O
+awara	B-PER
+n'uzo	O
+naijiria	O
+ukwu	O
+task	B-ORG
+nnamdi	B-PER
+okwa	O
+ruru	O
+	
+nke	O
+nke	O
+minista	O
+maka	O
+okorocha	I-PER
+sun	B-DATE
+nyere	O
+ndi	O
+nwere	O
+	
+	
+mkparita	I-ORG
+nke	O
+	
+buhari	B-PER
+	
+n'ogostu	B-DATE
+ogbunigwe	O
+na	O
+khafi	B-PER
+iche	O
+na	O
+adawai	I-PER
+2020	B-DATE
+	
+na	O
+dere	O
+bojeti	O
+	
+ugbu	O
+na	O
+ji	O
+onye	O
+pati	O
+naekwuputa	O
+	
+nye	O
+aga	O
+n	O
+ulooru	O
+dg	O
+	
+naijiria	O
+steeti	O
+tinyere	O
+akpochuola	O
+naija	O
+igbaga	O
+	
+ebidola	O
+obama	O
+ihe	O
+izeiyamu	O
+	
+notu	O
+ha	O
+jackie	B-PER
+	
+ndi	O
+attorneygeneral	O
+n	O
+mahadum	O
+si	O
+gaakwusi	O
+	
+leebe	O
+nke	O
+toro	O
+	
+negwuregwu	O
+	
+asaa	O
+obiano	B-PER
+anya	O
+1339	O
+the	O
+nhatanha	O
+	
+na	O
+ka	O
+city	I-LOC
+di	O
+zoro	O
+onye	O
+resident	O
+na	O
+otu	O
+republic	I-LOC
+taraba	B-LOC
+onwuegbuchulam	I-PER
+	
+gee	O
+nso	O
+taa	B-DATE
+	
+oru	O
+mmadu	O
+izara	O
+	
+o	O
+e	O
+naijiria	O
+adighi	O
+a	O
+afo	O
+mere	O
+bridge	O
+na	O
+	
+	
+ndi	O
+oke	O
+abuo	O
+naijiria	B-LOC
+	
+tosyn	B-PER
+udi	O
+	
+	
+na	O
+golden	O
+	
+gbara	O
+ha	O
+yiri	O
+kenya	B-LOC
+timipre	B-PER
+na	O
+nwaanyi	O
+zeere	O
+ndi	B-ORG
+oriri	O
+kwusi	O
+amnesty	B-ORG
+ikpe	O
+nÃ¢â¬â¢afo	O
+	
+e	O
+2019	B-DATE
+na	O
+okaikpe	O
+afrika	B-LOC
+mgbanyu	O
+gbara	O
+2015	B-DATE
+	
+aku	O
+ibrahimovic	B-PER
+mahadum	O
+na	O
+o	O
+na	O
+asaala	O
+na	O
+'twitter'	O
+igbo	O
+maka	O
+naijiria	I-LOC
+afirika	B-LOC
+mahadum	O
+anyi	O
+na	O
+a	O
+kwuru	O
+kwalite	O
+di	O
+otu	O
+na	O
+	
+	
+ha	O
+	
+ya	O
+ayeni	I-PER
+nke	O
+nwoke	O
+naijiria	B-LOC
+gov	O
+tanzania	B-LOC
+oru	O
+	
+majozi	B-PER
+biara	O
+juventus	B-ORG
+a	O
+	
+nochi	O
+	
+	
+iji	O
+igwa	O
+na	O
+nke	O
+ha	O
+egwuregwu	O
+na	O
+	
+ekweremadu	I-PER
+	
+nwaanyi	O
+comfort	B-PER
+na	O
+aka	O
+mmebi	O
+malami	I-PER
+	
+onye	O
+naahu	O
+	
+uru	O
+ala	O
+greenfield	O
+	
+a	O
+	
+ukwara	O
+iwepu	O
+nnyemaka	O
+gini	O
+ndi	O
+enyi	O
+nwuchiri	O
+egwu	O
+oru	B-ORG
+vootu	O
+o	O
+	
+naijiria	B-LOC
+asaa	O
+uwe	O
+nkiri	O
+noru	O
+	
+theman	I-PER
+ruiz	B-PER
+ozi	O
+o	O
+ndi	O
+ahu	O
+umuakwukwo	O
+ihe	O
+police	O
+na	O
+onye	O
+ka	O
+uka	O
+abuo	O
+o	O
+guzo	O
+china	B-LOC
+ama	O
+	
+ugbo	I-ORG
+na	O
+tai	O
+taa	B-DATE
+ntaakuko	O
+o	O
+mikel	O
+mgbanwe	O
+na	O
+bu	O
+aha	O
+gbadoro	O
+emebila	O
+bu	I-DATE
+naeme	O
+youtube	B-ORG
+gaetozu	O
+nollywood	B-ORG
+nakwukwo	O
+na	O
+na	O
+amarizu	I-PER
+melaye	B-PER
+	
+never	O
+naenyo	O
+eruwa	O
+	
+weghachi	O
+afo	O
+15	O
+	
+amerika	O
+gbara	O
+taa	B-DATE
+ndi	O
+sports	O
+m	O
+otu	O
+julai	B-DATE
+	
+iri	I-DATE
+	
+zitere	O
+ndi	O
+maka	O
+ya	O
+kwadoro	O
+	
+ihe	O
+maghi	O
+mana	O
+bula	O
+nuzo	O
+naijiria	B-LOC
+umu	O
+ndi	O
+amerika	B-LOC
+ndu	O
+otu	O
+nde	O
+bu	O
+bu	O
+nari	O
+toozude	B-DATE
+ngwa	O
+iko	O
+uwa	O
+bu	O
+ugwo	O
+scorpions	O
+onye	O
+energy	I-ORG
+o	O
+otu	O
+boolu	O
+people	O
+lee	O
+dibia	O
+abuja	B-LOC
+ojukwu	B-PER
+	
+	
+inwere	O
+2018	B-DATE
+ndi	O
+otu	O
+olusi	I-PER
+9	B-DATE
+mmeri	O
+onuego	O
+bukwa	O
+ulo	O
+bbc	B-ORG
+naetinye	O
+okeala	O
+obi	O
+c	O
+nke	O
+nebe	O
+choro	O
+naijiria	B-LOC
+sowore	I-PER
+onye	O
+30	O
+progressives	O
+ezi	O
+na	O
+akpawala	O
+mere	O
+	
+govano	O
+uba	O
+	
+pdp	O
+leicester	B-LOC
+otu	O
+banyere	O
+vootu	O
+ndi	O
+otu	O
+ha	O
+na	O
+asato	O
+abuo	I-DATE
+ogbonta	O
+amutala	O
+di	O
+ochichi	I-LOC
+ugbo	O
+	
+west	O
+megide	O
+o	O
+youtube	B-ORG
+ndi	O
+falcons	B-ORG
+	
+oktoba	B-DATE
+nke	O
+achi	O
+naagba	O
+asaa	O
+oke	O
+di	O
+st	O
+bu	O
+steeti	I-LOC
+ka	O
+okpu	O
+steeti	I-LOC
+	
+netiti	O
+naanokari	O
+buhari	B-PER
+ya	O
+okorocha	B-PER
+	
+afo	O
+abuo	O
+abacha	B-PER
+	
+a	O
+abuo	I-DATE
+enugwu	B-LOC
+ka	O
+na	O
+onwa	B-DATE
+naaruko	O
+nne	O
+	
+nuloikpe	O
+ndi	O
+ndigbo	I-ORG
+satellite	B-LOC
+	
+kwuru	O
+ano	O
+okoye	I-PER
+sowore	I-PER
+o	O
+ihe	O
+2019	I-DATE
+	
+ugboro	O
+site	O
+	
+onye	O
+ha	O
+oru	O
+notu	O
+steeti	O
+ndi	O
+nke	O
+a	O
+na	O
+ya	O
+	
+na	O
+ulo	O
+	
+unu	O
+ndi	O
+yusufu	O
+amerika	B-LOC
+goomenti	O
+a	O
+francis	B-PER
+nke	O
+rodu	O
+nnamdi	B-PER
+afo	B-DATE
+bbc	B-ORG
+goolu	O
+ubochi	O
+fransi	O
+afrika	O
+ole	I-DATE
+umu	O
+	
+agakwala	O
+2018	B-DATE
+	
+n	O
+ya	O
+mbido	O
+ahu	O
+	
+nke	O
+nihu	O
+ajuju	O
+umuaka	O
+akwa	B-LOC
+2014	B-DATE
+nke	O
+lassa	O
+goomenti	O
+	
+,	O
+onwa	I-DATE
+uche	O
+ahu	O
+naaku	O
+kayode	O
+o	O
+naenye	O
+	
+oge	O
+	
+	
+ime	O
+mere	O
+na	O
+n	O
+na	O
+a	O
+apc	B-ORG
+na	O
+govano	O
+nisi	O
+nnwere	O
+mbu	I-DATE
+ya	O
+nuj	B-ORG
+nwe	O
+isonye	O
+national	B-ORG
+mechiri	O
+ndi	O
+dss	B-ORG
+kanu	I-PER
+na	O
+na	O
+maka	O
+ndebanye	O
+nokwu	O
+omobola	B-PER
+ha	O
+	
+pati	O
+ma	O
+nta	O
+ndi	O
+nlegara	O
+	
+deputara	O
+igbo	O
+onuego	O
+ntaakuko	I-ORG
+	
+ukwu	O
+mbu	O
+ka	O
+ahu	O
+ochichi	O
+naijiria	B-LOC
+akwa	O
+ebere	O
+igbo	O
+maka	O
+cheruru	O
+nke	O
+di	O
+ya	O
+nke	O
+helikopta	O
+na	O
+o	O
+isii	O
+	
+on	O
+abuo	I-DATE
+	
+agha	O
+nkiri	O
+nkea	O
+ka	O
+na	O
+nweta	O
+dika	O
+jikotara	I-ORG
+ihe	O
+egwu	O
+	
+onyeisi	O
+ndi	O
+ka	O
+us	B-LOC
+obia	O
+ebe	O
+a	O
+akwukwo	O
+mba	O
+psg	B-ORG
+umunwaanyi	O
+ala	O
+adeyeye	B-PER
+nwe	O
+naijiria	O
+umunwaanyi	I-ORG
+na	O
+	
+anyi	O
+na	O
+o	O
+m	O
+asato	O
+ogwuike	O
+	
+a	O
+nke	O
+ndi	O
+ubi	O
+	
+a	O
+puku	O
+ya	O
+edochie	B-PER
+na	O
+nigeria	O
+ikike	O
+afo	B-DATE
+2	O
+enyela	O
+buhari	I-PER
+gaeji	O
+nuwe	O
+ndi	O
+awa	O
+na	O
+nke	O
+ya	O
+tubara	O
+onodu	O
+di	O
+yeovil	B-PER
+	
+ya	O
+ahu	O
+ebe	O
+naacho	O
+ha	O
+nyere	O
+banyere	O
+icpc	B-ORG
+ma	O
+ikewapu	O
+n	O
+	
+	
+	
+nafo	O
+na	O
+ulo	O
+jikoro	I-ORG
+ahu	O
+bojeti	B-ORG
+bu	O
+ugo	O
+ndi	O
+	
+mba	O
+emume	O
+eagles	I-ORG
+	
+ya	O
+2016	B-DATE
+	
+steeti	I-LOC
+tupu	O
+anya	O
+buhari	B-PER
+afrika	B-LOC
+okorocha	O
+ndi	O
+nwata	O
+	
+agbidi	O
+ano	O
+ego	O
+hooro	O
+na	I-DATE
+gwara	O
+bu	O
+na	O
+uwaifo	B-PER
+nruu	O
+teflon	O
+nkea	O
+	
+owuwa	O
+ntaakuko	O
+idirs	I-PER
+shotu	O
+isa	B-PER
+ogba	O
+nke	O
+amara	O
+ndi	O
+nwoke	O
+nke	O
+1999	B-DATE
+ulooru	O
+gowon	I-PER
+ufodu	O
+Ã¡Â»ÄfÃ¡Â»Å¤dÃ¡Â»Ä	O
+aga	O
+	
+nchekwa	O
+	
+	
+mmepe	O
+bilitere	O
+so	O
+mmasi	O
+nkenke	O
+goomenti	O
+onye	O
+anya	O
+enugwu	O
+bu	O
+ebe	O
+gaamasi	O
+anambra	I-ORG
+gini	O
+19	I-DATE
+kwuru	O
+	
+ka	O
+mebiri	O
+amalitela	O
+powerful	O
+anyanwu	O
+mba	O
+uwe	O
+n	O
+gwara	O
+whoopi	B-PER
+2017	B-DATE
+morsi	B-PER
+weta	O
+ndi	O
+buhari	I-PER
+gaabia	O
+	
+nke	I-ORG
+naanochite	O
+ya	O
+umar	B-PER
+ugwu	O
+alliance	I-ORG
+mechara	O
+	
+ikorodu	O
+supreme	B-ORG
+minista	O
+nubochi	O
+ndi	O
+naahu	O
+uba	O
+mkpebi	O
+foundation	I-ORG
+otu	B-ORG
+di	O
+ozo	O
+oktoba	B-DATE
+nke	O
+mpaghara	O
+onwa	O
+na	O
+buhari	B-PER
+asaa	I-DATE
+oji	B-PER
+imeri	O
+okwa	O
+nlekota	O
+madrid	B-LOC
+naijiria	B-LOC
+95	O
+mazi	O
+	
+di	O
+njem	O
+na	O
+naakwughachi	O
+super	B-ORG
+igbaputa	O
+gbakoro	O
+isi	O
+	
+otu	O
+naani	O
+ihi	O
+na	O
+nta	O
+n	O
+arsenal	I-ORG
+akwukwo	O
+ndi	O
+n	O
+boko	B-ORG
+funaab	B-ORG
+africa	B-ORG
+madueke	B-PER
+ndi	O
+m	O
+kwadoro	O
+naijiria	O
+na	O
+najuju	O
+o	O
+buhari	B-PER
+fada	O
+megide	O
+ufodu	O
+pc	O
+onyeisiala	O
+potugaal	O
+inwe	O
+gosiri	O
+n	O
+na	O
+na	O
+christan	B-PER
+o	O
+nke	O
+ike	O
+aka	O
+afo	B-DATE
+mana	O
+arumoru	O
+	
+	
+nrite	O
+ahu	O
+	
+onye	O
+dika	O
+isi	O
+welitere	O
+na	O
+site	O
+nke	O
+	
+ekwenyeghi	O
+nghaghari	O
+stewart	I-PER
+puo	O
+na	O
+ji	O
+nwagwu	O
+maka	O
+ana	O
+pati	O
+ulooru	O
+naaru	O
+ka	O
+ulo	O
+mana	O
+ka	O
+maazi	O
+ekwuola	O
+melinda	B-ORG
+nke	O
+weah	I-PER
+ebuso	O
+chibok	O
+	
+kwuru	O
+iwu	O
+ka	O
+aga	I-DATE
+ihe	O
+mee	O
+a	O
+agency	I-ORG
+naka	O
+#NAME?	I-PER
+naekwu	O
+nke	O
+na	O
+	
+n	O
+a	O
+	
+	
+ndi	O
+usoro	I-PER
+na	O
+onuku	O
+2018	B-DATE
+nsonaazu	O
+bu	O
+akunuba	O
+ozo	O
+naahu	O
+ano	I-DATE
+aka	O
+nzuko	O
+anambra	O
+salkida	I-PER
+ka	O
+siri	O
+onuego	O
+nff	B-ORG
+nihi	O
+ndi	O
+naka	O
+mere	O
+na	O
+twitter	B-ORG
+nke	O
+	
+	
+o	O
+onyeisiala	O
+gara	I-DATE
+nta	O
+weputara	O
+	
+peter	O
+mikel	O
+113,237	O
+buhari	B-PER
+ka	O
+	
+mahadum	B-LOC
+mmadu	O
+nke	O
+mana	O
+bu	O
+na	O
+bbc	B-ORG
+	
+ngalaba	O
+nke	O
+uwe	I-ORG
+	
+125	I-DATE
+kwusichara	O
+na	O
+nchoputa	O
+elu	O
+a	O
+of	O
+nke	I-ORG
+onye	O
+oge	O
+umuaka	O
+notu	O
+2018	I-DATE
+ebe	O
+anambra	B-LOC
+nile	B-LOC
+o	O
+ndi	O
+how	O
+otu	O
+na	I-DATE
+aha	O
+nigeria	O
+dola	O
+isi	O
+ano	O
+emere	O
+apc	B-ORG
+	
+ogologo	O
+na	O
+nkato	O
+grace	I-ORG
+na	O
+site	O
+atiku	B-PER
+ofufe	O
+inweta	O
+	
+o	O
+otu	O
+action	B-ORG
+	
+	
+	
+nebe	O
+	
+bu	O
+	
+nagbanyeghi	O
+otu	O
+ufodu	I-DATE
+eze	O
+kwuputara	O
+uto	O
+nke	O
+naijiria	O
+onyeisi	O
+	
+iteghete	O
+	
+mthombeni	I-LOC
+nke	I-ORG
+gwara	O
+choice	O
+sayensi	O
+gaasompi	O
+ndi	O
+nwuru	O
+yabasi	O
+naijiria	O
+ntu	O
+	
+iwe	O
+kwuru	O
+ndi	O
+n	O
+civil	I-ORG
+isi	O
+naeleda	O
+nonu	O
+buhari	I-PER
+goro	O
+naani	O
+ochichi	O
+esi	O
+uche	B-PER
+odu	I-ORG
+	
+ajuola	O
+na	O
+na	O
+cheta	O
+nuche	O
+agha	O
+umu	O
+otu	I-LOC
+bu	O
+enyemaka	O
+oyibo	I-PER
+bu	O
+m	O
+ndi	O
+olemilekan	O
+	
+ozi	O
+amerika	O
+katsina	B-LOC
+a	O
+obi	O
+falcon	I-ORG
+ihe	O
+	
+nwuchiri	O
+	
+adighi	O
+saraki	I-PER
+	
+pati	O
+emume	O
+bu	O
+isi	O
+	
+nala	O
+	
+banyere	O
+sanusi	B-PER
+maka	O
+onwa	I-DATE
+na	O
+mana	O
+ha	O
+	
+di	O
+news	B-ORG
+ezeonwuka	O
+na	O
+na	I-ORG
+ahu	O
+belatara	O
+bugoro	O
+buhari	B-PER
+onyemaechi	B-PER
+inweta	O
+obasanjo	O
+eziokwu	O
+asatara	O
+	
+	
+ubochi	O
+mba	I-LOC
+igbo	O
+afo	O
+ghooro	O
+muhammed	O
+n	O
+anya	O
+ghana	B-LOC
+toro	O
+na	O
+nagbanyeghi	O
+ajo	O
+elu	I-ORG
+	B-ORG
+okoye	I-PER
+africa	B-LOC
+nafo	O
+	
+noru	O
+the	O
+	
+onye	O
+arumoru	O
+ike	O
+	
+si	O
+gaghi	O
+	
+	
+iji	O
+sanusi	B-PER
+mmeri	O
+uloikpe	O
+steeti	I-LOC
+n	O
+kwuputara	O
+ihe	O
+na	O
+ihe	O
+river	I-LOC
+ndi	O
+	
+81,998	I-DATE
+super	B-ORG
+soso	B-DATE
+niile	O
+nakwa	O
+odoahia	O
+ugbua	O
+onaga	I-PER
+tochukwu	B-PER
+	
+agha	O
+omoyele	B-PER
+	
+	
+6	O
+idepe	B-LOC
+nelu	O
+	
+na	O
+ya	O
+ugochukwu	O
+esemokwu	O
+imo	O
+entertainment	O
+nkiri	O
+kagbuo	O
+n	O
+ya	O
+naijiria	B-LOC
+maka	O
+iri	I-DATE
+africa	I-ORG
+oma	O
+nke	O
+maka	O
+naka	O
+neme	O
+di	O
+nakwa	O
+onye	O
+onweghi	O
+ka	O
+kwuru	O
+	
+	
+a	O
+	
+abuo	O
+city	I-LOC
+kwenyere	O
+bbc	O
+na	O
+nhapu	O
+lafia	B-LOC
+ndi	O
+afo	O
+o	O
+kwuo	O
+	
+union	I-ORG
+onye	O
+	
+	
+ndi	O
+nke	O
+nke	I-LOC
+	
+ugwu	O
+ya	O
+haram	I-ORG
+otu	O
+ozi	O
+ihe	O
+	
+naka	O
+nke	O
+komishona	O
+mmadu	O
+tuzdee	B-DATE
+	
+mmekpa	O
+egwuregwu	O
+akeredolu	I-PER
+ahu	O
+gaebido	O
+ugboelu	O
+haram	I-ORG
+clement	B-PER
+na	O
+'steel	I-ORG
+otutu	O
+nafo	O
+campaign	O
+	
+	
+kansul	O
+	
+imeulo	O
+	
+cheta	O
+nwaanyi	O
+	
+	
+omoyele	B-PER
+ruo	O
+	
+onye	O
+nzewuji	O
+otedola	I-PER
+	
+na	O
+afrika	I-LOC
+o	O
+bobrisky	B-PER
+boolu	O
+jenuwari	B-DATE
+nke	O
+airs	B-ORG
+bird	O
+	
+nzomisaki	I-PER
+steeti	B-LOC
+netiti	O
+onye	O
+	
+na	O
+ala	O
+egwu	O
+	
+ngor	B-LOC
+st	O
+	
+buru	O
+nagba	O
+aga	I-DATE
+afcon	B-ORG
+iji	O
+steeti	B-LOC
+	
+osote	O
+obughi	O
+un	O
+owere	B-LOC
+ya	O
+afo	O
+o	O
+mkpa	O
+mbaka	B-PER
+egwu	O
+anabatala	O
+ndi	O
+	
+otu	O
+	
+nkiri	O
+n	O
+	
+asato	O
+buhari	B-PER
+na	O
+ugboala	O
+di	O
+	
+ngaghari	O
+a	O
+nzuko	O
+nke	O
+ya	O
+biara	O
+ezi	O
+oru	O
+naedowe	O
+naagbawa	O
+na	O
+ihe	O
+asaa	O
+kaduna	B-LOC
+ncheta	O
+marak	I-PER
+	
+weputara	O
+noge	O
+	
+ukpa	O
+kemgbe	O
+mmanu	O
+nkiti	O
+uweoji	O
+sooso	O
+n	O
+	
+okwu	O
+otu	O
+njeghari	O
+oku	O
+	
+onwa	O
+njem	O
+n	O
+o	O
+kansul	O
+	
+o	O
+mba	B-LOC
+kurada	B-PER
+umu	O
+anya	O
+ka	O
+nke	O
+mba	O
+uwa	O
+ehihie	O
+	
+ka	O
+ochichi	I-ORG
+ochichi	O
+steeti	O
+afo	I-DATE
+child	O
+dss	B-ORG
+	
+abacha	B-PER
+di	O
+biles	I-PER
+umunwata	O
+	
+govano	O
+	
+oku	O
+iga	O
+ahu	O
+2019	I-DATE
+naijiria	I-ORG
+gara	O
+uwe	O
+naani	O
+owuwa-anyanwu	O
+	
+ato	O
+isi	O
+ya	O
+centre	O
+mbu	O
+nwankwo	I-PER
+iji	O
+bobmanuel	B-PER
+o	O
+	
+ezighi	O
+ebughi	O
+n	O
+steeti	O
+nye	O
+oru	O
+na	O
+e	O
+uwe	O
+	
+di	O
+sowore	B-PER
+	
+illinois	B-LOC
+	
+dika	O
+mgbanwe	O
+uloakwukwo	O
+ufodu	O
+ha	O
+he	O
+nke	O
+	
+	
+mbiara	O
+onye	O
+china	O
+na	O
+ijeri	O
+na	O
+	
+	
+association	I-ORG
+maka	O
+uweojii	O
+philip	B-PER
+onye	O
+naijiria	B-LOC
+ndi	B-ORG
+goolu	O
+naefu	O
+na	O
+	
+udi	O
+naemeri	O
+okpala	I-PER
+otu	O
+	
+isi	O
+chotara	O
+bbc	O
+ubochi	B-DATE
+taa	B-DATE
+ikpe	O
+karia	O
+akwukwo	I-ORG
+nagbanyeghi	O
+kensington	B-LOC
+ihe	O
+iwu	O
+gbara	O
+nchekwa	I-ORG
+	
+iluso	O
+anthony	B-PER
+6	O
+	
+	
+nokpuru	O
+ijeri	O
+zulum	B-PER
+onye	O
+nonwa	O
+	
+africa	O
+eagles	I-ORG
+na	O
+ntulika	O
+	
+nke	O
+februwari,	I-DATE
+	
+naagba	O
+naaru	O
+	
+	
+a	O
+europe	B-LOC
+n	O
+naekwe	O
+i	O
+	
+	
+	
+afo	B-DATE
+na	O
+30,000	O
+	
+mpu	O
+olajire	I-PER
+iteghete	O
+wenezde	B-DATE
+ndi	O
+ubochi	O
+2019	B-DATE
+oku	O
+cameroon	B-LOC
+rolfo	I-PER
+roshia	O
+2018	B-DATE
+	
+onwa	I-DATE
+	
+mpaghara	O
+ike	O
+	
+humphrey	B-PER
+dika	O
+	
+o	O
+na	O
+willie	B-PER
+ututu	B-DATE
+	
+putara	O
+for	I-ORG
+etiti	I-ORG
+okwu	O
+ulo	O
+	
+oyelowo	I-PER
+apc	B-ORG
+	
+ndi	O
+egwuregwu	O
+muo	O
+na	O
+	
+mmadu	O
+bu	O
+kpo	O
+ndi	O
+association	I-ORG
+ha	O
+isi	O
+onuogugu	O
+beeluso	O
+215	O
+nke	O
+na	O
+ulo	B-ORG
+apc	B-ORG
+ukwu	O
+ato	O
+na	O
+aka	O
+14	O
+gbanari	O
+enwere	O
+banye	O
+naijiria	B-LOC
+mee	O
+bu	O
+na	O
+	
+ya	O
+o	O
+naijiria	B-LOC
+ugha	O
+nke	O
+odida	O
+a	O
+ha	O
+mbu	O
+banky	B-PER
+nulo	O
+kyari	I-PER
+	
+how	O
+nihu	O
+	
+2019	B-DATE
+	
+	
+ahuike	O
+producing	O
+pairesi	O
+na	O
+kpÃ¡Â»Å¤rÃ¡Â»Å¤	O
+lucky	B-PER
+ikpe	O
+ka	O
+anu	O
+i	O
+mba	O
+ha	O
+funaab	B-ORG
+ozo	O
+nke	O
+otu	O
+kporo	O
+ya	O
+christine	B-PER
+ya	O
+ma	O
+ihe	O
+eagles	I-ORG
+goomenti	O
+ojoo	O
+agha	O
+oku	O
+akpa	O
+ndi	O
+	
+chinaza	B-LOC
+	
+ya	O
+etiti	O
+onye	O
+isi	O
+bidoro	O
+	
+omume	O
+nke	O
+	
+best	O
+na	O
+na	O
+	
+	
+	
+ndu	B-ORG
+gaakwu	O
+biafra	B-LOC
+ga	O
+ukwu	O
+imf	B-ORG
+	
+odibo	O
+ala	O
+igbazite	I-ORG
+steeti	O
+efcc	B-ORG
+dika	O
+yoroba	O
+onye	O
+social	O
+asiri	O
+cbn	B-ORG
+kwuru	O
+ademiluyi	O
+nkiri	O
+nke	O
+dabere	O
+buhari	B-PER
+ulo	O
+nke	O
+ojiegbe	O
+mbata	O
+otutu	O
+di	O
+dika	O
+nigba	O
+o	O
+olufemi	B-PER
+na	O
+	
+	
+hos	O
+	
+anya	O
+mba	O
+nokoo	O
+golu	O
+nabatara	O
+	
+ala	O
+kedu	O
+	
+ulooru	O
+ndi	O
+boko	B-ORG
+afo	O
+kporo	O
+juan	B-PER
+steeti	B-LOC
+e	O
+oru	O
+	
+	
+maka	O
+akwa	B-LOC
+puruiche	O
+	
+oji	O
+pasent	O
+onyechiburu	O
+mimiko	O
+nwata	O
+	
+	
+federal	O
+bu	O
+ike	O
+ha	O
+mana	O
+	
+,	O
+gunyere	O
+goomenti	O
+mgbako	O
+2019	O
+na	O
+gaadi	O
+	
+	
+a	O
+nke	O
+sonye	O
+ma	O
+ka	O
+demola	B-PER
+	
+ka	O
+mbauwa	O
+apc	O
+okaikpe	O
+	
+paralympics	O
+anyanwu	I-LOC
+onye	O
+isi	O
+nuwa	O
+twitter	B-ORG
+obodo	B-ORG
+mmadu	O
+	
+	
+oru	O
+obodo	O
+kanu	I-PER
+jose	B-PER
+hotspurs	I-ORG
+ndoro	O
+isiokwu	O
+	
+di	O
+abang	I-PER
+bekee	O
+na	O
+ondo	B-LOC
+netiti	O
+afo	B-DATE
+si	O
+kaa	O
+ugbo	O
+ochichi	O
+dubai	B-LOC
+union	I-ORG
+kwuru	O
+ike	O
+ikpe	I-ORG
+okwu	O
+ya	O
+nihi	O
+garba	B-PER
+bbc	O
+noo	O
+iri	O
+nime	O
+na	O
+gara	I-DATE
+onnoghen	B-PER
+victor	O
+enyemaka	O
+ahu	O
+femi	B-PER
+a	O
+ya	O
+na	O
+nke	O
+times	I-ORG
+	
+mcginger	B-PER
+ekwe	O
+1178	O
+ka	O
+ifara	B-LOC
+kpariri	O
+ibi	O
+otu	O
+imo	B-LOC
+naede	O
+okwa	O
+na	O
+novemba	B-DATE
+mama	O
+di	O
+hÃ¡Â»ÄrÃ¡Â»Ä	O
+okorocha	I-PER
+gbara	O
+ime	O
+dkta	O
+ala	O
+uru	O
+adeniji	B-PER
+nke	O
+	
+emeela	O
+mele	B-PER
+nleta	O
+okammuta	O
+didier	B-PER
+ihu	O
+nokwa	O
+legos	B-LOC
+bbc	B-ORG
+africa	O
+	
+nime	O
+	
+ka	O
+obodo	O
+abia	B-LOC
+ka	O
+ulo	O
+apc	B-ORG
+nke	I-DATE
+naijiria	O
+anyi	O
+johnson	I-PER
+mmadu	O
+united	B-ORG
+efcc	B-ORG
+a	I-DATE
+haram	I-ORG
+cliff	B-PER
+goomenti	O
+cheta	O
+ubochi	O
+apc	B-ORG
+agbogho	O
+n100m	O
+abughi	O
+i	O
+n	O
+nihi	O
+dika	O
+chetara	O
+oru	O
+naagbakwunye	O
+	
+naijiria	B-LOC
+san	O
+ozo	O
+eliela	O
+meriri	O
+onye	O
+akwukwo	O
+iri	I-DATE
+oge	I-DATE
+railway	O
+ntoakuko	O
+ka	O
+kalu	O
+nyere	O
+iyana	B-LOC
+govano	O
+anambra	B-LOC
+o	O
+ide	O
+ano	O
+site	O
+omebe	O
+mgba	O
+julai	I-DATE
+nnukwu	O
+nku	O
+na	O
+ihe	O
+maka	O
+enwere	O
+site	O
+naebute	O
+uweojii	O
+	
+bu	O
+onye	O
+onyeisiala	O
+iri	I-DATE
+unyaahu	B-DATE
+mmalite	O
+agha	O
+o	O
+maka	O
+	
+nixon	O
+iwu	O
+obiefuna	I-PER
+pati	O
+	
+naijiria	B-LOC
+maka	O
+naijiria	O
+mgbe	O
+oru	O
+na	O
+	
+abeokuta	B-LOC
+gaa	O
+nonwa	O
+ka	O
+di	O
+	
+nke	O
+ama	O
+hunt	I-PER
+naijiria	B-LOC
+iji	O
+a	O
+na	O
+cheta	O
+	
+kporo	O
+a	O
+ana	O
+	
+yana	O
+streep	I-PER
+city	I-LOC
+mgbe	O
+aga	O
+	
+	
+ntinye	O
+n	O
+nassarawa	B-ORG
+welitere	O
+na	O
+nnukwu	O
+	
+naekwuru	O
+ndi	O
+steeti	O
+	
+bu	O
+m	O
+eserese	O
+anoghi	O
+ino	O
+	
+ha	O
+nakwa	O
+	
+ode	O
+akwukwonjem	O
+kporo	O
+ebubo	O
+ano	O
+twita	O
+tijani	B-PER
+uzo	O
+di	O
+na	O
+igwe	O
+naesote	O
+nke	O
+boko	O
+cameroon	B-LOC
+	
+huru	O
+ozo	O
+gwara	O
+ike	O
+roshia	B-LOC
+mkpu	O
+ntuliaka	O
+management	I-ORG
+	
+nime	O
+site	O
+	
+	
+agha	O
+ogbugbu	O
+	
+puru	O
+mgbe	O
+kyari	I-PER
+mere	O
+oru	O
+na	O
+	
+onu	O
+initiative	O
+bbc	B-ORG
+okporo	O
+	
+obodo	O
+nwunye	O
+	
+ndi	O
+	
+2018	B-DATE
+obodo	O
+anyi	O
+ugbua	O
+bishop	O
+enwezuga	O
+	
+akuko	O
+onye	O
+obodo	O
+onu	O
+igbo	O
+ahu	O
+	
+novemba	I-DATE
+ogbako	O
+banyere	O
+bu	O
+mohammed	B-PER
+azumahia	O
+china	B-LOC
+nke	O
+ka	O
+	
+haram	I-ORG
+	
+a	O
+ndi	O
+progressive	O
+onyonyo	O
+	
+gaakwalite	O
+gaeme	O
+kwa	O
+ndi	O
+niss	B-ORG
+ndi	O
+afrika	B-LOC
+o	O
+	
+atiku	O
+otu	O
+ekwuputara	O
+enyinnaya	B-PER
+nke	O
+na	O
+kwuru	O
+psg	O
+dika	O
+nhazi	O
+apga	O
+ihe	O
+nwetere	O
+kwuru	O
+	
+ha	O
+na	O
+i	O
+amabeghi	O
+wee	O
+bekee	O
+gachara	O
+n	O
+jisike	O
+cj	O
+	
+peter	B-PER
+kwuru	O
+femi	B-PER
+anya	O
+obughi	O
+	
+goomenti	B-ORG
+kolum	O
+megide	O
+akpo	B-LOC
+nime	O
+ozo	O
+ego	O
+libya	B-LOC
+	
+ihe	O
+jenuwari	B-DATE
+	
+ka	O
+maazi	O
+ama	O
+	
+	
+onye	O
+	
+dere	O
+efcc	B-ORG
+a	O
+ka	O
+kwusila	O
+enyemaka	O
+ebe	O
+kukah	I-PER
+	
+ndi	O
+kwuo	O
+e	O
+africa	B-LOC
+ava	B-PER
+na	O
+fasipe	I-PER
+ibe	O
+awka	O
+nÃ¢â¬â¢afo	O
+	
+ac	B-ORG
+igpalliance	O
+sowore	B-PER
+uche	O
+o	O
+gbaa	O
+ndi	O
+onu	O
+	
+nogbe	O
+	
+onye	O
+gi	O
+ayegba	I-PER
+bubu	O
+nwaanyi	O
+	
+trump	B-PER
+ala	O
+goomenti	I-ORG
+haziri	O
+isi	O
+	
+nobodo	O
+jonannesburg	B-ORG
+enforcement	O
+france	O
+sekondiri	O
+nowa	O
+	
+mba	O
+na	O
+aha	O
+ya	O
+ala	O
+ofufe	O
+na	O
+nwere	O
+	
+iri	O
+butere	O
+nwunye	O
+kwenyesiri	O
+aru	O
+ochichi	O
+chikwelu	B-PER
+	
+uloikpe	O
+iri	I-DATE
+ha	O
+afrika	O
+ugboelu	O
+2019	B-DATE
+oprah	B-PER
+bu	O
+	
+nwosu	O
+nysc	B-ORG
+rudolf	B-PER
+nchekwa	O
+ya	O
+gafere	O
+na	O
+otu	O
+ya	O
+abuo	I-DATE
+anichukwu	I-PER
+	
+di	O
+anyi	O
+na	O
+oru	O
+no	O
+ehihie	I-DATE
+2017	B-DATE
+abuo	O
+amawbia	B-LOC
+nkwado	O
+	
+gomenti	O
+he	O
+gini	O
+ogologo	O
+tupu	O
+nelu	O
+onweghi	O
+ibinye	O
+abdullaziz	B-PER
+a	I-DATE
+webusait	O
+esonyekwa	O
+ahu	O
+	
+enwetabeghi	O
+obafemi	I-ORG
+na	O
+ka	O
+ahu	O
+of	I-LOC
+yusuf	I-PER
+nkuzi	I-ORG
+ulooru	O
+niile	O
+ulo	O
+na	O
+ndu	O
+	
+otutu	O
+ndi	O
+naefu	O
+a	O
+nha	O
+anyi	O
+sheik	O
+umuakwukwo	O
+mgbasa	O
+nulo	O
+egwuregwu	O
+ndi	O
+iji	O
+ka	O
+isi	O
+obula	O
+bu	O
+nke	O
+ikpe	O
+ozo	O
+lagos	I-ORG
+nego	O
+onye	O
+ya	O
+monde	I-DATE
+si	O
+ugwu	O
+gwara	O
+	
+	
+	
+a	O
+na	O
+nzuko	O
+madunagu	I-PER
+	
+si	O
+di	O
+uweojii	O
+ubochi	B-DATE
+bu	O
+sunday	B-PER
+ala	O
+jiri	O
+enweela	O
+amara	O
+oruugbo	I-ORG
+oshodi	B-LOC
+	
+agakwala	O
+party	O
+omumu	O
+ya	O
+oru	O
+ugo	B-ORG
+biodun	B-PER
+mgbe	O
+malawi	B-LOC
+agha	O
+	
+naekwu	O
+league	O
+niile	O
+kwuru	O
+bu	O
+janeshia	B-PER
+	
+mere	O
+	
+onye	O
+	
+	
+sowore	B-PER
+o	O
+nye	O
+apc	B-ORG
+afo	I-DATE
+2020	O
+na	O
+of	O
+n	O
+ogbako	O
+siri	O
+na	O
+ime	O
+	
+ahuru	O
+	
+ichupu	O
+ututu	O
+communications	I-ORG
+na	O
+ahu	O
+putara	O
+nna	O
+metropolitan	I-ORG
+a	O
+ka	O
+atiku	O
+uloikpe	O
+bu	O
+and	I-ORG
+	
+toro	O
+ka	O
+ya	O
+n	O
+osote	O
+amaka	B-PER
+bu	O
+di	O
+nchekwa	O
+afo	B-DATE
+iri	O
+2016	I-DATE
+ahu	O
+naadokpu	O
+o	O
+ochiehi	O
+	
+nafo	O
+tiffany	B-PER
+bu	O
+nwanyi	O
+maazi	O
+	
+	
+izu	B-DATE
+	
+	
+ndi	O
+	
+anyinya	O
+a	O
+na	O
+onicha	B-LOC
+egburu	O
+kedu	O
+ahia	O
+nke	O
+	
+ndi	B-ORG
+onye	O
+mtn	B-ORG
+otutu	O
+gad	O
+ndi	O
+ulo	O
+	
+akara	O
+	
+nasiba	B-PER
+buru	O
+ebuka	O
+ndi	O
+obi	O
+corona	O
+na	O
+e	O
+anyi	O
+dika	O
+anambra	B-LOC
+osuso	O
+e	O
+	
+samuel	B-PER
+ahu	O
+ndi	O
+	
+	
+nke	O
+anya	O
+akwukwo	O
+	
+gowon	B-PER
+	
+	
+mmadu	O
+malitere	O
+ntaakuko	O
+soviet	I-LOC
+	
+makana	O
+nysc	B-ORG
+na	O
+mgbe	O
+a	O
+19	B-DATE
+biafra	I-LOC
+ukraine	B-LOC
+uduh	I-PER
+bu	O
+	
+onye	O
+ya	O
+vootu	O
+oscar	B-PER
+	
+	
+	
+ka	O
+so	O
+	
+aguoro	O
+	
+n	O
+onu	O
+anyi	O
+ha	O
+okija	O
+di	O
+ala	O
+agbaga	O
+eagles	I-ORG
+nchekwa	O
+	
+37	O
+n	O
+gaabu	O
+	
+	
+naani	O
+	
+omatshola	B-PER
+ano	O
+mmetuta	O
+2019	B-DATE
+julai	B-DATE
+onye	O
+kwuputara	O
+ya	O
+nezia	O
+zubairu	B-PER
+bu	O
+	
+edo	B-LOC
+	
+ihe	O
+economist	O
+ozo	O
+o	O
+puta	O
+a	I-DATE
+onyonyo	O
+international	B-ORG
+2017	B-DATE
+di	O
+kporogodom	I-DATE
+	
+	
+na	O
+imo	O
+gaachipu	O
+of	O
+	
+	
+ihe	O
+o	O
+	
+	
+mekwaa	O
+press	I-ORG
+a	O
+na	O
+afo	B-DATE
+ndi	O
+nke	O
+ndi	O
+na	O
+2016	B-DATE
+nzuko	O
+travis	B-PER
+nkemdilim	I-PER
+	
+bu	O
+n'ulo	B-ORG
+naacho	O
+kwuru	O
+nkwa	O
+ozi	O
+ndi	O
+ndi	O
+amerika	I-LOC
+ozi	O
+ya	O
+	
+mere	O
+ha	O
+biara	O
+a	O
+iko	O
+ha	O
+fielding	O
+abia	B-ORG
+mpio	O
+panther	O
+ngalaba	O
+nwunye	O
+	
+onye	O
+2019	I-DATE
+igwe	O
+nke	O
+	
+onyeisi	O
+ugwu	O
+	
+afcon	B-ORG
+david	B-PER
+oge	O
+na	O
+kwuru	O
+amerika	B-LOC
+iweputa	O
+mba	O
+iwu	O
+china	B-LOC
+	
+ahia	O
+a	O
+	
+isi	O
+oge	O
+	
+nke	O
+ha	O
+gwara	O
+e	O
+	
+	
+efcc	B-ORG
+ufodu	O
+obodo	O
+	
+ogugu	O
+i	O
+kwuru	O
+ubochi	I-DATE
+isii	O
+nyere	O
+ndi	O
+iputa	O
+gassama	B-PER
+maka	O
+bu	O
+bula	O
+gbuo	O
+nke	O
+akurungwa	O
+ka	O
+	
+hapuru	O
+	
+mba	O
+iji	O
+ukwu	O
+	
+na	O
+ya	O
+ndi	O
+bu	O
+na	O
+lagos	O
+e	O
+haram	I-ORG
+ike	O
+gosiri	O
+n	O
+a	O
+	
+nke	O
+	
+nwunye	O
+bbc	B-ORG
+ebumnuche	O
+kong	I-LOC
+ahu	O
+malta	B-LOC
+	
+guzobere	O
+walter	B-PER
+ndi	O
+obire	I-PER
+azu	O
+yana	O
+mpu	O
+naenyo	O
+	
+bezos	I-PER
+ya	O
+maka	O
+na	O
+makana	O
+nihu	O
+ka	O
+nzube	O
+onwunwe	O
+alele	I-PER
+	
+aka	O
+na	O
+etiti	B-LOC
+	
+2018	B-DATE
+ulo	O
+onye	O
+abuja	B-LOC
+ka	O
+egwu	O
+na	O
+ji	O
+gaara	O
+omeiwu	O
+ga	O
+nwaanyi	O
+	
+	
+na	O
+ubochi	O
+naaga	O
+	
+ikwu	O
+di	O
+ulooru	O
+na	O
+ndi	O
+ndi	O
+mere	O
+nke	I-DATE
+pasenti	O
+onye	O
+ghota	O
+koo	O
+adeniji	B-PER
+ikpe	O
+ka	O
+onyeisiala	O
+n	O
+buhari	I-PER
+	
+ahu	I-DATE
+ogu	O
+	
+umu	O
+victor	B-PER
+	
+mgbe	O
+oru	O
+adamawa	B-LOC
+na	I-DATE
+na	O
+obiano	I-PER
+	
+	
+anambra	O
+goomenti	B-ORG
+ya	O
+	
+ndi	O
+o	O
+otutu	B-DATE
+anambra	O
+mmadu	O
+	
+	
+diketere	O
+anwuchiela	O
+chirila	O
+wema	I-ORG
+zukoo	O
+oke	O
+a	O
+	
+tetfund	O
+ikpo	O
+kwuru	O
+ohuru	O
+emeriela	O
+repliican	O
+akuko	O
+pekariri	I-DATE
+okwu	O
+bu	O
+onyeisi	O
+onye	O
+gwara	O
+ahu	O
+bugaje	O
+ntuliaka	O
+mkpumkpu	O
+	
+onu	O
+ibiputa	O
+	
+a	O
+bbc	B-ORG
+nke	O
+	
+	
+site	O
+onyeisi	O
+naijiria	O
+liverpool	B-ORG
+enyo	O
+	
+	
+kwuru	O
+onwa	I-DATE
+nde	O
+maka	O
+1999	O
+afo	O
+iro	O
+efcc	B-ORG
+	
+iri	O
+kano	O
+n	O
+onye	O
+di	O
+uwa	O
+onyeisi	O
+maka	O
+bio	I-PER
+oru	I-ORG
+nchekwa	O
+steeti	O
+obere	O
+abuo	I-DATE
+	
+abuo	O
+uzo	O
+si	O
+abuo	O
+n	O
+ndi	O
+agbalitela	O
+onodu	O
+aka	O
+kareto	B-PER
+n	O
+enugwu	B-LOC
+	
+eji	O
+ha	O
+daily	B-ORG
+na	O
+iji	O
+	
+afo	O
+site	O
+ohia	O
+naelekota	O
+akuko	O
+na	O
+maka	O
+	
+	
+paul	B-PER
+	
+ukwu	I-LOC
+okigwe	I-ORG
+	
+	
+ihe	O
+	
+ogun	O
+n	O
+trump	I-PER
+kpochiri	O
+	
+umunwaanyi	O
+idama	B-PER
+atiku	B-PER
+ojoo	O
+di	O
+otu	O
+alhaji	O
+na	O
+	
+na	O
+ibu	O
+ebe	O
+	
+ndi	O
+eagles	I-ORG
+ihe	O
+Ã¡Â»ÄgbÃ¡Â»Å¤elu	O
+	
+no	O
+choputara	O
+ndi	O
+na	O
+abrahama	B-PER
+okoye	I-PER
+nkiri	O
+nke	O
+ya	O
+	
+nke	I-ORG
+etu	O
+ogbako	O
+commission	I-ORG
+nwetararii	O
+idion	O
+	
+ya	O
+azulitere	O
+nke	O
+na	O
+na	O
+ndi	O
+survey	O
+o	O
+mmeri	O
+aku	O
+	
+akwukwo	O
+site	O
+bu	O
+congress	O
+na	O
+ozo	O
+bu	O
+mba	O
+emmanuel	B-PER
+naijiria	B-LOC
+o	O
+ndi	O
+gola	O
+nde	O
+	
+shekau	B-PER
+aririo	O
+oru	O
+akwukwo	O
+oru	I-ORG
+2019	O
+hiwekwara	O
+a	O
+nke	O
+otu	O
+na	O
+	
+otu	O
+aga	I-DATE
+omoyele	B-PER
+anyi	O
+1	O
+mgbanwe	O
+ndi	O
+uniti	O
+ihe	O
+	
+	
+ndi	O
+	
+	
+ihe	O
+bidoro	O
+nnamdi	I-ORG
+inec	B-ORG
+	
+	
+chidoka	I-PER
+na	I-DATE
+enugu	O
+si	O
+anwuchiri	O
+nigeria	B-LOC
+onyeisiala	O
+odeakwukwo	O
+nihi	O
+	
+akatola	O
+nakwa	O
+burula	O
+mana	O
+china	B-LOC
+nsogbu	O
+fr	O
+o	O
+onye	O
+	
+mezuru	O
+buru	O
+etiti	O
+nulo	O
+uwa	O
+elekere	O
+ndi	O
+njem	O
+n	O
+iri	I-DATE
+ndi	O
+isi	O
+	
+otu	O
+n	O
+mbu	O
+odoziaku	O
+ndi	O
+uloomeiwu	O
+ulooru	O
+ntuliaka	O
+abuo	O
+a	O
+na	I-DATE
+sudan	O
+di	O
+kowara	O
+ha	O
+ya	O
+of	I-ORG
+oso	O
+	
+ulo	O
+onyeisiala	O
+imebi	O
+nime	O
+	
+na	O
+	
+akunauba	O
+mkpesa	O
+igbo	O
+irio	O
+	
+agha	O
+afo	B-DATE
+nke	O
+ahu	O
+o	O
+nke	O
+bukola	O
+nke	O
+biara	O
+na	O
+onye	O
+	
+odimma	O
+ma	O
+okorocha	I-PER
+nihe	O
+firmino	I-PER
+isi	O
+naatubata	O
+okwu	O
+maka	O
+dss	B-ORG
+ndi	O
+naachi	O
+n	O
+	
+nwere	O
+vs	O
+house	O
+ukwu	O
+tupu	O
+mwakpo	O
+lee	O
+ezigbo	O
+kwuru	O
+said	O
+onwa	B-DATE
+	
+kanu	I-PER
+	
+naijiria	B-LOC
+	
+sonaiya	B-PER
+sitere	O
+2017	B-DATE
+abuo	O
+orji	O
+isi	O
+nchekwube	O
+minista	O
+na	O
+	
+nnochianya	O
+olamilekan	B-PER
+eagles	B-ORG
+bawanye	O
+na	O
+oru	O
+o	O
+ndi	O
+nke	O
+uche	B-PER
+tara	O
+m	O
+merie	O
+naachi	O
+okwu	O
+na	O
+	
+ngafe	O
+bu	O
+	
+nke	O
+a	O
+harry	O
+sowore	O
+ka	O
+ademola	B-PER
+imegidee	O
+na	O
+	
+okpu	O
+ogidi	B-LOC
+ebe	O
+obulagodi	O
+m	O
+na	O
+ihe	O
+nke	I-DATE
+uweojii	O
+	
+di	O
+act	O
+onye	O
+na	O
+oluehi	I-PER
+ndi	O
+	
+na	O
+site	O
+zutere	O
+soro	O
+ka	O
+nime	O
+mba	O
+zuru	O
+na	I-DATE
+	
+gburu	O
+a	O
+nke	O
+nke	O
+ochichi	O
+nguzobe	O
+kaara	O
+ano	O
+onu	O
+gaano	O
+danbatta	I-PER
+iji	O
+onye	O
+gbara	O
+ngwa	O
+goomenti	O
+okwu	O
+chogm	B-ORG
+democratic	O
+kaghi	O
+dara	O
+chibok	O
+m	O
+nke	O
+ebe	O
+cruz	B-PER
+	
+north	I-LOC
+na	O
+ozo	O
+jigawa	O
+ya	O
+ndu	I-ORG
+kwuchim	O
+nafo	O
+ma	O
+na	O
+	
+senate	O
+di	O
+nihi	O
+	
+njem	O
+ato	O
+n	O
+jared	B-PER
+juventus	B-ORG
+	
+ikwado	O
+wee	O
+	
+vootu	O
+cbn	B-ORG
+afirika	O
+akauntu	O
+ala	O
+anyanwu	O
+ya	O
+bureau	O
+nwanyi	O
+	
+ikwado	O
+nebe	O
+oru	O
+umuaka	O
+aka	O
+	
+christian	O
+bu	O
+maka	O
+nochichi	O
+o	O
+pdp	O
+akuko	O
+ano	O
+ya	O
+telivishon	O
+	
+league	O
+ma	O
+a	O
+steeti	O
+nihu	O
+agha	O
+na	O
+na	O
+ntorobia	O
+ulooru	O
+apc	B-ORG
+naijiria	O
+ntaakuko	O
+ndi	O
+	
+	
+merie	O
+jr	I-PER
+onyeisioche	O
+kwusiri	O
+london	B-LOC
+ebe	O
+nchekwube	O
+	
+gaekpe	O
+	
+na	O
+	
+uche	O
+obiano	B-PER
+abuo	O
+bu	O
+ise	O
+gbara	O
+	
+o	O
+naijiria	B-LOC
+naakpo	O
+nke	O
+	
+	
+gunyere	O
+nkiri	O
+	
+nakwukwo	O
+otu	O
+tosin	B-PER
+okonkwo	I-PER
+	
+gaedozinwu	O
+na	O
+uloikpe	O
+ulo	B-ORG
+lagos	I-LOC
+naijiria	B-LOC
+onye	O
+na	O
+oktoba	B-DATE
+mazir	O
+mechara	O
+legos	B-LOC
+future	O
+ezigbo	O
+	
+nwetara	O
+na	O
+oru	O
+	
+ndumodu	O
+	
+ahu	O
+collins	I-PER
+weah	I-PER
+	
+	
+ha	O
+ato	O
+naachi	O
+ohuru	O
+emume	O
+okwa	O
+uzo	O
+na	O
+	
+bu	O
+a	O
+azumahia	O
+na	O
+	
+ha	O
+ndi	O
+malawi	B-LOC
+di	O
+notu	O
+na	O
+megidere	O
+govano	O
+nke	O
+politeknnic	B-ORG
+uk	I-ORG
+gaemecha	O
+	
+mere	O
+a	O
+	
+naekwuchitere	O
+anyi	O
+legos	B-LOC
+isi	O
+a	O
+no	O
+oge	O
+nke	O
+super	B-ORG
+	
+uweojii	O
+anyi	O
+serena	O
+etiti	O
+ahuru	O
+o	O
+tinyere	O
+	
+nixon	I-PER
+gaamalite	O
+biden	I-PER
+mgbazi	O
+nye	O
+maka	O
+akuko	O
+ha	O
+ulo	O
+govano	O
+ofuma	O
+puo	O
+etu	O
+enyochara	O
+	
+benin	I-ORG
+egwuregwu	O
+nokwa	O
+ebonyi	B-LOC
+na	O
+ikike	O
+naari	O
+development	I-ORG
+naijiria	B-LOC
+	
+ihe	O
+ji	O
+kwuru	O
+ulooru	O
+	
+na	O
+bbc	B-ORG
+uweojii	O
+	
+naefe	O
+ano	O
+macron	I-PER
+mahadum	B-ORG
+dika	O
+tanzania	O
+	
+iche	O
+nihe	O
+maka	O
+france	O
+iche	O
+uwa	O
+nke	O
+ha	O
+ajo	O
+lagos	B-ORG
+	
+naekwuchitere	O
+2019	B-DATE
+ulo	O
+akporo	O
+	
+oge	O
+nke	O
+ipob	B-ORG
+naijiria	O
+	
+legos	B-LOC
+ndi	O
+ano	O
+na	O
+ofu	O
+lamido	I-PER
+nsi	O
+ehihie	O
+naenyo	O
+ugboala	O
+bu	O
+	
+nkiri	O
+ya	O
+	
+nonwa	O
+okougbo	B-PER
+ahu	O
+izo	O
+	
+nime	O
+nokwu	O
+na	O
+oru	O
+oche	O
+a	O
+anyi	O
+enyemaka	O
+gwara	O
+	
+bbc	B-ORG
+	
+omo	O
+moses	O
+nusoro	O
+cengiz	I-PER
