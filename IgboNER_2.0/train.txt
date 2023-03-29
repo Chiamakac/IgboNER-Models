@@ -260,7 +260,6 @@ nde	O
 iri	O
 ato	O
 
-
 ndi	O
 naijiria	O
 
@@ -309,7 +308,6 @@ n'onwa	O
 disemba	B-DATE
 n'afo	I-DATE
 2019	I-DATE
-
 
 n'ulo	B-ORG
 ikpe	I-ORG
@@ -367,7 +365,6 @@ nonwa	O
 disemba	B-DATE
 n'afo	I-DATE
 2019	I-DATE
-
 
 n'ulo	B-ORG
 ikpe	I-ORG
@@ -589,10 +586,8 @@ dika	O
 bola	B-PER
 tinubu	I-PER
 
-
 patience	B-PER
 jonathan	I-PER
-
 
 olisa	B-PER
 metu	I-PER
@@ -778,10 +773,8 @@ ndi	O
 dika	O
 tinubu	B-PER
 
-
 patience	B-PER
 jonathan	I-PER
-
 
 olisa	B-PER
 metu	I-PER
@@ -1060,7 +1053,6 @@ ndi	O
 mgbasaozi	O
 sahara	O
 
-
 uloaku	B-ORG
 standard	I-ORG
 chartered	I-ORG
@@ -1106,7 +1098,6 @@ ulooru	O
 nke	O
 ndida	B-LOC
 afrika	I-LOC
-
 
 oshiomhole	B-PER
 
@@ -1154,7 +1145,6 @@ gunyere	O
 standard	B-ORG
 chartered	I-ORG
 
-
 oshiomhole	B-PER
 
 ekwuola	O
@@ -1174,7 +1164,6 @@ uloaku	O
 ndi	O
 ndida	O
 afrika	O
-
 
 ndi	O
 naijiria	O
@@ -1213,7 +1202,6 @@ ndi	O
 mgbasaozi	O
 sahara	O
 
-
 uloaku	B-ORG
 standard	I-ORG
 chartered	I-ORG
@@ -1230,7 +1218,6 @@ plc	I-ORG
 otu	O
 british	O
 
-
 standard	B-ORG
 chartered	I-ORG
 plc	I-ORG
@@ -1243,7 +1230,6 @@ mbauwa	O
 dika	O
 ndi	O
 london	B-LOC
-
 
 hong	B-LOC
 kong	I-LOC
@@ -1283,7 +1269,6 @@ na	O
 mba	O
 eshia	B-LOC
 
-
 afrika	B-LOC
 
 na	O
@@ -1303,9 +1288,7 @@ baptist	B-ORG
 high	I-ORG
 school	I-ORG
 
-
 gbodofon	B-ORG
-
 
 oshogbo	B-LOC
 
@@ -1399,7 +1382,6 @@ ziri	O
 ezi	O
 abubakar	B-PER
 malami	I-PER
-
 
 san	O
 
@@ -1541,7 +1523,6 @@ otu	O
 boko	B-ORG
 haram	I-ORG
 
-
 ipob	B-ORG
 
 na	O
@@ -1572,7 +1553,6 @@ obasanjo	B-PER
 nye	O
 nhoputa	O
 atiku	B-PER
-
 
 wole	B-PER
 soyinka	I-PER
@@ -2024,7 +2004,6 @@ nke	O
 ndida	O
 afrika	B-LOC
 
-
 n'afo	B-DATE
 1998	I-DATE
 na	I-DATE
@@ -2049,7 +2028,6 @@ mahadum	B-ORG
 steeti	I-ORG
 pennsylvania	I-ORG
 
-
 united	B-LOC
 states	I-LOC
 
@@ -2064,7 +2042,6 @@ carleton	I-ORG
 di	O
 n	O
 ottawa	B-LOC
-
 
 canada	B-LOC
 
@@ -2218,7 +2195,6 @@ na	O
 manchester	B-LOC
 city	I-LOC
 
-
 n'izuuka	B-DATE
 a	I-DATE
 
@@ -2357,10 +2333,8 @@ nke	O
 steeti	B-LOC
 lagos	I-LOC
 
-
 zubairu	B-PER
 muazu	I-PER
-
 
 vanguard	B-ORG
 
@@ -2443,7 +2417,6 @@ elu	I-ORG
 nke	I-ORG
 ikeja	I-ORG
 
-
 lagos	B-LOC
 
 etu	O
@@ -2480,7 +2453,6 @@ olubimpe	B-PER
 maazioriaku	O
 olusola	B-PER
 toheebah	I-PER
-
 
 taidol	B-PER
 
@@ -2627,7 +2599,6 @@ mgbako	O
 afo	B-DATE
 iri	I-DATE
 abuo	I-DATE
-
 
 olanrewaju	B-PER
 kayode	I-PER
@@ -2794,7 +2765,6 @@ ato	I-DATE
 na	I-DATE
 otu	I-DATE
 
-
 buhari	B-PER
 
 sonyere	O
@@ -2840,7 +2810,6 @@ saudi	O
 arabia	O
 investment	O
 fund	O
-
 
 garba	B-PER
 shehu	I-PER
@@ -2930,7 +2899,6 @@ banyere	I-ORG
 mmepe	I-ORG
 na	I-ORG
 pif	I-ORG
-
 
 buhari	B-PER
 
@@ -3060,7 +3028,6 @@ ahu	O
 na	O
 riyadh	B-PER
 
-
 buhari	B-PER
 
 gaeje	O
@@ -3108,7 +3075,6 @@ ndi	O
 nlekota	O
 nke	O
 buhari	B-PER
-
 
 sonala	B-PER
 olumhense	I-PER
@@ -3187,7 +3153,6 @@ izuuka	B-DATE
 abuo	I-DATE
 gachara	I-DATE
 
-
 black	B-ORG
 scorpion	I-ORG
 
@@ -3262,7 +3227,6 @@ naijiria	O
 
 ee	O
 buhari	B-PER
-
 
 buhari	B-PER
 
@@ -3356,7 +3320,6 @@ buhari	B-PER
 
 nokpuru	O
 buhari	B-PER
-
 
 otu	O
 all	O
@@ -3474,7 +3437,6 @@ govano	O
 steeti	O
 kano	B-LOC
 
-
 abdullahi	B-PER
 ganduje	I-PER
 
@@ -3527,7 +3489,6 @@ ndi	O
 oru	O
 otu	O
 buhari	B-PER
-
 
 rotimi	B-PER
 amaechi	I-PER
@@ -3828,7 +3789,6 @@ naijiria	O
 sado	B-PER
 adu	I-PER
 
-
 izaak	B-PER
 
 nozi	O
@@ -3839,7 +3799,6 @@ instagram	B-ORG
 
 nubochi	O
 toozude	B-DATE
-
 
 izaak	B-PER
 
@@ -3884,7 +3843,6 @@ ndia	I-DATE
 nafo	O
 2016	B-DATE
 
-
 izaak	B-PER
 
 putara	O
@@ -3908,7 +3866,6 @@ nke	O
 mba	O
 tanzania	O
 
-
 magufuli	B-PER
 
 nke	O
@@ -3927,7 +3884,6 @@ nke	O
 mba	O
 china	B-LOC
 
-
 aljazeera	B-ORG
 
 kpesara	O
@@ -3939,7 +3895,6 @@ okwa	O
 ochichi	O
 nafo	O
 2015	B-DATE
-
 
 magufuli	B-PER
 
@@ -3998,11 +3953,9 @@ na	O
 cape	B-LOC
 town	I-LOC
 
-
 odida	B-LOC
 anyanwu	I-LOC
 afirika	I-LOC
-
 
 nolwandle	B-LOC
 mthombeni	I-LOC
@@ -4076,9 +4029,7 @@ congo	B-LOC
 dr	O
 rwanda	B-LOC
 
-
 zambia	B-LOC
-
 
 naijiria	B-LOC
 
@@ -4326,7 +4277,6 @@ nwuchighari	O
 omoyele	B-PER
 sowore	I-PER
 
-
 n'ihe	B-DATE
 erughi	I-DATE
 awa	I-DATE
@@ -4365,7 +4315,6 @@ mmadu	O
 ahu	O
 anwuuru	O
 n'bizarre	B-LOC
-
 
 afunanya	B-PER
 
@@ -4452,7 +4401,6 @@ mebige	O
 ndi	O
 naijiria	O
 
-
 simi	B-PER
 
 na	O
@@ -4491,7 +4439,6 @@ dika	O
 aha	O
 otu	O
 
-
 joromi	B-PER
 
 bu	O
@@ -4515,7 +4462,6 @@ sowore	O
 mwakpo	O
 nke	O
 uloikpe	B-ORG
-
 
 mputara	O
 nke	O
@@ -4547,10 +4493,8 @@ olenaole	I-DATE
 gara	I-DATE
 aga	I-DATE
 
-
 omoyele	B-PER
 sowore	I-PER
-
 
 bbc	B-ORG
 
@@ -4560,7 +4504,6 @@ nke	O
 africa	B-ORG
 democratic	I-ORG
 congress	I-ORG
-
 
 ralph	B-PER
 nwosu	I-PER
@@ -4581,7 +4524,6 @@ nta	O
 akuko	O
 omoyele	B-PER
 sowore	I-PER
-
 
 ngalaba	B-ORG
 nke	I-ORG
@@ -4627,7 +4569,6 @@ onu	O
 nke	O
 punch	B-ORG
 
-
 nwosu	B-PER
 
 ha	O
@@ -4655,7 +4596,6 @@ ya	O
 nubochi	O
 tuuzude	B-DATE
 
-
 banky-w	O
 kowara	O
 naijiria	O
@@ -4679,7 +4619,6 @@ site	O
 nitoghapu	O
 omoyele	B-PER
 sowore	I-PER
-
 
 naijiria	B-LOC
 
@@ -4806,7 +4745,6 @@ na	O
 onye	O
 mbiputa	O
 mkpesasahara	O
-
 
 omoyele	B-PER
 sowore	I-PER
@@ -5299,7 +5237,6 @@ niile	O
 n'ulo	O
 goomenti	O
 
-
 maiduguri	B-LOC
 
 nezie	O
@@ -5579,9 +5516,7 @@ gburugburu	O
 dika	O
 cameroon	B-LOC
 
-
 chad	B-LOC
-
 
 niger	B-LOC
 
@@ -5651,7 +5586,6 @@ niile	I-DATE
 atumatu	O
 ndi	O
 iswap	B-ORG
-
 
 iswap	B-ORG
 
@@ -5971,12 +5905,10 @@ gunyere	O
 niger	B-LOC
 republic	I-LOC
 
-
 chad	B-LOC
 
 na	O
 cameroon	B-LOC
-
 
 iswap	B-ORG
 
@@ -5998,7 +5930,6 @@ ma	O
 boko	B-ORG
 haram	I-ORG
 
-
 ndida	B-LOC
 borno	I-LOC
 
@@ -6018,7 +5949,6 @@ ewepu	O
 obodo	O
 dika	O
 gwoza	B-LOC
-
 
 damboa	B-PER
 
@@ -6056,7 +5986,6 @@ ike	O
 tumadi	O
 nobodo	O
 baga	B-LOC
-
 
 iswap	B-ORG
 
@@ -6313,7 +6242,6 @@ special	B-ORG
 task	I-ORG
 force	I-ORG
 
-
 stf	B-ORG
 
 ma	O
@@ -6394,9 +6322,7 @@ na	O
 niger	B-LOC
 republic	I-LOC
 
-
 yobe	B-LOC
-
 
 adamawa	B-LOC
 
@@ -6474,7 +6400,6 @@ oru	O
 nezi	O
 maiduguri	B-LOC
 
-
 ano	O
 
 maobu	O
@@ -6484,12 +6409,9 @@ di	O
 na	O
 gajiram	B-LOC
 
-
 gajiganna	B-LOC
 
-
 gubio	B-LOC
-
 
 kareto	B-PER
 
@@ -6507,7 +6429,6 @@ tinyere	O
 ndi	O
 niger	B-LOC
 republic	I-LOC
-
 
 izuuka	B-DATE
 olenaole	I-DATE
@@ -6601,7 +6522,6 @@ agha	O
 nke	O
 di	O
 n'ugwu	B-LOC
-
 
 owuwa	B-LOC
 anyanwu	I-LOC
@@ -6827,7 +6747,6 @@ agha	O
 dika	O
 iraq	B-LOC
 
-
 afghanistan	B-LOC
 
 ma	O
@@ -6856,7 +6775,6 @@ niyi	O
 egwu	O
 nafo	O
 2017	B-DATE
-
 
 afo	B-DATE
 gara	I-DATE
@@ -6976,7 +6894,6 @@ nke	O
 uweojii	B-ORG
 steeti	I-ORG
 ekiti	I-ORG
-
 
 sss	B-ORG
 
@@ -7116,7 +7033,6 @@ di	O
 otutu	O
 ndi	O
 naijiria	O
-
 
 rotimi	B-PER
 sankore	I-PER
@@ -7261,7 +7177,6 @@ ala	O
 chirila	O
 sudan	B-LOC
 
-
 al-bashir	B-PER
 
 bu	O
@@ -7344,7 +7259,6 @@ eje	O
 mkporo	O
 ka	O
 bbc	B-ORG
-
 
 bashir	B-PER
 
@@ -7477,7 +7391,6 @@ boolu	O
 nke	O
 mba	O
 uwa	O
-
 
 naijiria	B-LOC
 
@@ -7654,7 +7567,6 @@ na	O
 n'afo	B-DATE
 iriabuo'	I-DATE
 na-abia	I-DATE
-
 
 n'ehihie	B-DATE
 a	I-DATE
@@ -7852,7 +7764,6 @@ nke	O
 bbc	B-ORG
 afirika	I-ORG
 
-
 bbc	B-ORG
 nke	I-ORG
 mba	I-ORG
@@ -7915,7 +7826,6 @@ michelangelo	B-PER
 ekwuola	O
 m	O
 nde	O
-
 
 mide	B-PER
 ayeni	I-PER
@@ -8167,7 +8077,6 @@ naijiria	O
 sado	B-PER
 adu	I-PER
 
-
 izaak	B-PER
 
 nozi	O
@@ -8178,7 +8087,6 @@ instagram	B-ORG
 
 nubochi	O
 toozude	B-DATE
-
 
 izaak	B-PER
 
@@ -8220,12 +8128,10 @@ onwa	B-DATE
 isii	I-DATE
 ndia	I-DATE
 
-
 mumma	O
 
 nafo	O
 2016	B-DATE
-
 
 izaak	B-PER
 
@@ -8249,7 +8155,6 @@ ala	O
 nke	O
 mba	O
 tanzania	O
-
 
 magufuli	B-PER
 
@@ -8281,7 +8186,6 @@ nke	O
 mba	O
 china	B-LOC
 
-
 aljazeera	B-ORG
 
 kpesara	O
@@ -8293,7 +8197,6 @@ okwa	O
 ochichi	O
 nafo	O
 2015	B-DATE
-
 
 magufuli	B-PER
 
@@ -8352,11 +8255,9 @@ na	O
 cape	B-LOC
 town	I-LOC
 
-
 odida	B-LOC
 anyanwu	I-LOC
 afirika	I-LOC
-
 
 nolwandle	B-LOC
 mthombeni	I-LOC
@@ -8430,9 +8331,7 @@ congo	B-LOC
 dr	O
 rwanda	B-LOC
 
-
 zambia	B-LOC
-
 
 naijiria	B-LOC
 
@@ -8681,7 +8580,6 @@ nwuchighari	O
 omoyele	B-PER
 sowore	I-PER
 
-
 n'ihe	B-DATE
 erughi	I-DATE
 awa	I-DATE
@@ -8720,7 +8618,6 @@ mmadu	O
 ahu	O
 anwuuru	O
 n'bizarre	B-LOC
-
 
 afunanya	B-PER
 
@@ -8813,7 +8710,6 @@ mebige	O
 ndi	O
 naijiria	O
 
-
 simi	B-PER
 
 na	O
@@ -8851,7 +8747,6 @@ ma	O
 dika	O
 aha	O
 otu	O
-
 
 joromi	B-PER
 
@@ -8906,10 +8801,8 @@ olenaole	I-DATE
 gara	I-DATE
 aga	I-DATE
 
-
 omoyele	B-PER
 sowore	I-PER
-
 
 bbc	B-ORG
 
@@ -8919,7 +8812,6 @@ nke	O
 africa	B-ORG
 democratic	I-ORG
 congress	I-ORG
-
 
 ralph	B-PER
 nwosu	I-PER
@@ -8940,7 +8832,6 @@ nta	O
 akuko	O
 omoyele	B-PER
 sowore	I-PER
-
 
 ngalaba	B-ORG
 nke	I-ORG
@@ -8970,7 +8861,6 @@ onu	O
 nke	O
 punch	B-ORG
 
-
 nwosu	B-PER
 
 ha	O
@@ -8998,7 +8888,6 @@ ya	O
 nubochi	O
 tuuzude	B-DATE
 
-
 banky-w	O
 kowara	O
 naijiria	O
@@ -9022,7 +8911,6 @@ site	O
 nitoghapu	O
 omoyele	B-PER
 sowore	I-PER
-
 
 naijiria	B-LOC
 
@@ -9152,7 +9040,6 @@ na	O
 onye	O
 mbiputa	O
 mkpesasahara	O
-
 
 omoyele	B-PER
 sowore	I-PER
@@ -9421,7 +9308,6 @@ iriabuo	I-DATE
 na	I-DATE
 ise	I-DATE
 
-
 mwakpo	O
 
 nke	O
@@ -9656,7 +9542,6 @@ niile	O
 n'ulo	O
 goomenti	O
 
-
 maiduguri	B-LOC
 
 nezie	O
@@ -9877,9 +9762,7 @@ gburugburu	O
 dika	O
 cameroon	B-LOC
 
-
 chad	B-LOC
-
 
 niger	B-LOC
 
@@ -9956,7 +9839,6 @@ niile	I-DATE
 atumatu	O
 ndi	O
 iswap	B-ORG
-
 
 iswap	B-ORG
 
@@ -10266,12 +10148,10 @@ gunyere	O
 niger	B-LOC
 republic	I-LOC
 
-
 chad	B-LOC
 
 na	O
 cameroon	B-LOC
-
 
 iswap	B-ORG
 
@@ -10293,7 +10173,6 @@ ma	O
 boko	B-ORG
 haram	I-ORG
 
-
 ndida	B-LOC
 borno	I-LOC
 
@@ -10313,7 +10192,6 @@ ewepu	O
 obodo	O
 dika	O
 gwoza	B-LOC
-
 
 damboa	B-PER
 
@@ -10351,7 +10229,6 @@ ike	O
 tumadi	O
 nobodo	O
 baga	B-LOC
-
 
 iswap	B-ORG
 
@@ -10589,7 +10466,6 @@ special	B-ORG
 task	I-ORG
 force	I-ORG
 
-
 stf	B-ORG
 
 na	O
@@ -10673,9 +10549,7 @@ na	O
 niger	B-LOC
 republic	I-LOC
 
-
 yobe	B-LOC
-
 
 adamawa	B-LOC
 
@@ -10753,7 +10627,6 @@ oru	O
 nezi	O
 maiduguri	B-LOC
 
-
 ano	O
 
 maobu	O
@@ -10763,12 +10636,9 @@ di	O
 na	O
 gajiram	B-LOC
 
-
 gajiganna	B-LOC
 
-
 gubio	B-LOC
-
 
 kareto	B-PER
 
@@ -10786,7 +10656,6 @@ tinyere	O
 ndi	O
 niger	B-LOC
 republic	I-LOC
-
 
 izuuka	B-DATE
 olenaole	I-DATE
@@ -11109,7 +10978,6 @@ agha	O
 dika	O
 iraq	B-LOC
 
-
 afghanistan	B-LOC
 
 ma	O
@@ -11138,7 +11006,6 @@ niyi	O
 egwu	O
 nafo	O
 2017	B-DATE
-
 
 afo	B-DATE
 gara	I-DATE
@@ -11258,7 +11125,6 @@ nke	O
 uweojii	B-ORG
 steeti	I-ORG
 ekiti	I-ORG
-
 
 sss	B-ORG
 
@@ -11398,7 +11264,6 @@ di	O
 otutu	O
 ndi	O
 naijiria	O
-
 
 rotimi	B-PER
 sankore	I-PER
@@ -11572,7 +11437,6 @@ mkporo	O
 ka	O
 bbc	B-ORG
 
-
 bashir	B-PER
 
 kwuuru	O
@@ -11704,7 +11568,6 @@ boolu	O
 nke	O
 mba	O
 uwa	O
-
 
 naijiria	B-LOC
 
@@ -11860,7 +11723,6 @@ good	O
 gods	O
 ihe	O
 mbu	O
-
 
 n'ehihie	B-DATE
 a	I-DATE
@@ -12064,7 +11926,6 @@ nke	O
 bbc	B-ORG
 afirika	I-ORG
 
-
 bbc	B-ORG
 nke	I-ORG
 mba	I-ORG
@@ -12138,7 +11999,6 @@ michelangelo	B-PER
 ekwuola	O
 m	O
 nde	O
-
 
 mide	B-PER
 ayeni	I-PER
@@ -12345,7 +12205,6 @@ ala	O
 nke	O
 amerika	B-LOC
 
-
 joseph	B-PER
 achuzie	I-PER
 
@@ -12358,9 +12217,7 @@ emeribeghi	O
 boko	B-ORG
 haram	I-ORG
 
-
 massob	B-ORG
-
 
 tottenham	B-LOC
 
@@ -12412,7 +12269,6 @@ goolu	O
 nasompi	O
 iko	O
 fa	B-ORG
-
 
 tottenham	B-LOC
 
@@ -12476,7 +12332,6 @@ na	O
 nke	O
 ise	O
 
-
 fernando	B-PER
 llorente	I-PER
 
@@ -12507,7 +12362,6 @@ kwusi	O
 boolu	O
 otu	O
 rochadale	B-ORG
-
 
 tottenham	B-LOC
 
@@ -12545,7 +12399,6 @@ iko	O
 champions	O
 league	O
 
-
 n'ubochi	B-DATE
 asaa	I-DATE
 n'onwa	I-DATE
@@ -12560,7 +12413,6 @@ gaabu	O
 ha	O
 na	O
 plymouth	B-LOC
-
 
 n'ubochi	B-DATE
 ato	I-DATE
@@ -12577,17 +12429,13 @@ mbu	O
 n	O
 england	B-LOC
 
-
 champions	O
 league	O
 
-
 neymar	B-PER
-
 
 ibrahim	B-PER
 idris	I-PER
-
 
 onyeisi	O
 ndi	O
@@ -12596,7 +12444,6 @@ uweojii	O
 bu	O
 ibrahim	B-PER
 idris	I-PER
-
 
 onyeisi	O
 ndi	O
@@ -12659,7 +12506,6 @@ bu	O
 muhammadu	B-PER
 buhari	I-PER
 
-
 idris	B-PER
 
 ngwa	O
@@ -12706,7 +12552,6 @@ nwa	O
 george	B-PER
 weah	I-PER
 
-
 timothy	B-PER
 weah	I-PER
 
@@ -12729,10 +12574,8 @@ na	O
 ruo	I-DATE
 1995	I-DATE
 
-
 timothy	B-PER
 weah	I-PER
-
 
 timothy	B-PER
 weah	I-PER
@@ -12781,12 +12624,10 @@ na	O
 christopher	B-PER
 nkunu	I-PER
 
-
 neymar	B-PER
 
 na	O
 mbappe	B-ORG
-
 
 george	B-PER
 weah	I-PER
@@ -12816,7 +12657,6 @@ o	O
 gawa	O
 ac	B-ORG
 milan	I-ORG
-
 
 psg	B-ORG
 
@@ -12866,7 +12706,6 @@ nagba	O
 nke	O
 mbu	O
 
-
 real	B-ORG
 madrid	I-ORG
 
@@ -12891,7 +12730,6 @@ icho	O
 umu	O
 dapchi	B-LOC
 
-
 otu	O
 
 nwoke	O
@@ -12900,7 +12738,6 @@ umuaka	O
 ya	O
 n	O
 awada	B-LOC
-
 
 charly	B-PER
 boy	I-PER
@@ -12915,7 +12752,6 @@ puruiche	O
 maka	O
 ichi	O
 naijiria	B-LOC
-
 
 charles	B-PER
 oputa	I-PER
@@ -12979,7 +12815,6 @@ ojoo	O
 naachi	O
 naijiria	B-LOC
 
-
 charly	B-PER
 boy	I-PER
 
@@ -13024,12 +12859,10 @@ dika	O
 charly	B-PER
 boy	I-PER
 
-
 oscar	B-PER
 
 s	O
 2018	B-DATE
-
 
 kobe	B-PER
 bryant	I-PER
@@ -13042,7 +12875,6 @@ amerika	O
 bu	O
 kobe	B-PER
 bryant	I-PER
-
 
 kobe	B-PER
 bryant	I-PER
@@ -13095,7 +12927,6 @@ nrite	O
 na	O
 oscar	B-PER
 
-
 frances	B-PER
 mcdormand	I-PER
 
@@ -13126,7 +12957,6 @@ oldman	I-PER
 maka	O
 darkest	O
 hour	O
-
 
 guillermo	B-PER
 del	I-PER
@@ -13175,10 +13005,8 @@ na	O
 walking	O
 dead	O
 
-
 daniel	B-PER
 kaluuya	I-PER
-
 
 daniel	B-PER
 kaluuya	I-PER
@@ -13208,7 +13036,6 @@ years	O
 a	O
 slave	O
 
-
 jennifer	B-PER
 lawrence	I-PER
 
@@ -13227,17 +13054,14 @@ yiri	O
 akpuruakpu	O
 oscar	B-PER
 
-
 andra	B-PER
 day	I-PER
-
 
 andra	B-PER
 day	I-PER
 
 oscars	O
 2018	B-DATE
-
 
 black	O
 panther	O
@@ -13252,14 +13076,11 @@ mbido	O
 black	O
 panther	O
 
-
 black	O
 panther	O
 
-
 tom	B-PER
 holland	I-PER
-
 
 tom	B-PER
 holland	I-PER
@@ -13270,10 +13091,8 @@ nkiri	O
 spider	B-PER
 man	I-PER
 
-
 chadwick	B-PER
 boseman	I-PER
-
 
 chadwick	B-PER
 boseman	I-PER
@@ -13298,10 +13117,8 @@ kwara	O
 bia	O
 oscars	B-ORG
 
-
 ashley	B-PER
 judd	I-PER
-
 
 ashley	B-PER
 judd	I-PER
@@ -13314,10 +13131,8 @@ ime	O
 okwu	O
 time	B-ORG
 
-
 adam	B-PER
 rippon	I-PER
-
 
 adam	B-PER
 rippon	I-PER
@@ -13362,14 +13177,11 @@ ihe	O
 nkiri	O
 fifty	O
 
-
 salman	B-PER
 hayek	I-PER
 
-
 salman	B-PER
 hayek	I-PER
-
 
 darrell	B-PER
 britt-gibson	I-PER
@@ -13389,14 +13201,12 @@ nkiri	O
 three	O
 billboards	O
 
-
 whoopi	B-PER
 goldberg	I-PER
 
 uwe	O
 whoopi	B-PER
 goldberg	I-PER
-
 
 patrick	B-PER
 stewart	I-PER
@@ -13414,14 +13224,11 @@ ntutu	O
 edere	O
 time	B-ORG
 
-
 sally	B-PER
 hawkins	I-PER
 
-
 sally	B-PER
 hawkins	I-PER
-
 
 onye	O
 britain	O
@@ -13479,7 +13286,6 @@ di	O
 afo	B-DATE
 13	I-DATE
 
-
 meryl	B-PER
 streep	I-PER
 
@@ -13497,10 +13303,8 @@ oscars	O
 ugboro	O
 21	O
 
-
 margot	B-PER
 robbie	I-PER
-
 
 margot	B-PER
 robbie	I-PER
@@ -13510,10 +13314,8 @@ ihe	O
 nkiri	O
 tonya	B-PER
 
-
 tiffany	B-PER
 haddish	I-PER
-
 
 tiffany	B-PER
 haddish	I-PER
@@ -13543,7 +13345,6 @@ ozo	O
 ji	O
 kara	O
 naijiria	B-LOC
-
 
 2018	B-DATE
 
@@ -13577,7 +13378,6 @@ nkiri	O
 nke	O
 2018	B-DATE
 
-
 bbc	O
 igbo	O
 
@@ -13603,7 +13403,6 @@ afrika	B-LOC
 na	O
 ndi	O
 naijiria	B-LOC
-
 
 bbc	B-ORG
 
@@ -13732,7 +13531,6 @@ ime	O
 otu	B-DATE
 afo	I-DATE
 
-
 hollywood	B-LOC
 
 mana	O
@@ -13786,10 +13584,8 @@ kwuru	O
 na	O
 chogm	B-ORG
 
-
 muhammadu	B-PER
 buhari	I-PER
-
 
 ndi	O
 naijiria	O
@@ -13849,7 +13645,6 @@ naijiria	O
 
 okwu	O
 ato	O
-
 
 buhari	B-PER
 
@@ -13926,7 +13721,6 @@ ohuru	O
 na	O
 commonwealth	B-ORG
 
-
 ezenwaanyi	B-PER
 elizabeth	I-PER
 
@@ -13976,7 +13770,6 @@ charles	O
 chia	O
 chogm	B-ORG
 
-
 otu	B-DATE
 ubochi	I-DATE
 
@@ -14020,7 +13813,6 @@ onyeisiala	O
 saut	B-LOC
 afirika	I-LOC
 
-
 cyril	B-PER
 ramaphosa	I-PER
 
@@ -14045,7 +13837,6 @@ okwa	O
 nke	O
 ezenwaanyi	O
 briten	B-LOC
-
 
 chimamanda	B-PER
 
@@ -14085,7 +13876,6 @@ charles	I-PER
 gini	O
 bu	O
 chogm	B-ORG
-
 
 chogm	B-ORG
 
@@ -14170,7 +13960,6 @@ naira	O
 nde	O
 iri	O
 
-
 rochas	B-PER
 okorocha	I-PER
 
@@ -14212,7 +14001,6 @@ kwuo	O
 naira	O
 puku	O
 ato	O
-
 
 ebere	B-PER
 iwuji	I-PER
@@ -14266,7 +14054,6 @@ nde	O
 naira	O
 iri	O
 
-
 nzewuji	B-PER
 
 nzewuji	O
@@ -14287,7 +14074,6 @@ akuko	O
 kachasi	O
 n'abali	B-DATE
 a	I-DATE
-
 
 buhari	B-PER
 
@@ -14380,9 +14166,7 @@ all	B-ORG
 progressives	I-ORG
 congress	I-ORG
 
-
 apc	B-ORG
-
 
 social	B-ORG
 democratic	I-ORG
@@ -14404,7 +14188,6 @@ coalition	B-ORG
 for	I-ORG
 nigeria	I-ORG
 movement	I-ORG
-
 
 cnm	B-ORG
 
@@ -14428,14 +14211,12 @@ obasanjo	B-PER
 ntuliaka	O
 2019	B-DATE
 
-
 keyamo	B-PER
 
 bu	O
 onye	O
 nkwuchiteonu	O
 buhari	B-PER
-
 
 buhari	B-PER
 
@@ -14702,7 +14483,6 @@ kariri	O
 iri	O
 ato	O
 
-
 aguleri	B-LOC
 
 na	O
@@ -14948,7 +14728,6 @@ ndigbo	O
 onyeisiala	O
 2019	B-DATE
 
-
 balarabe	B-PER
 musa	I-PER
 
@@ -15159,7 +14938,6 @@ mmiri	O
 na	O
 2019	B-DATE
 
-
 wole	B-PER
 soyinka	I-PER
 
@@ -15181,14 +14959,12 @@ nala	O
 na	O
 naijiria	B-LOC
 
-
 wole	B-PER
 soyinka	I-PER
 
 adoro	O
 ndi	O
 naijiria	O
-
 
 wole	B-PER
 soyinka	I-PER
@@ -15292,7 +15068,6 @@ duo	O
 ndi	O
 naijiria	O
 
-
 buhari	B-PER
 
 na	O
@@ -15300,7 +15075,6 @@ ndi	O
 isi	O
 otu	O
 apc	B-ORG
-
 
 wole	B-PER
 soyinka	I-PER
@@ -15331,7 +15105,6 @@ okwu	O
 izoputa	O
 ala	O
 naijiria	B-LOC
-
 
 otu	O
 
@@ -15407,13 +15180,11 @@ nwere	O
 n	O
 amerika	B-LOC
 
-
 yemi	B-PER
 osibanjo	I-PER
 
 na	O
 abuja	B-LOC
-
 
 yemi	B-PER
 osibanjo	I-PER
@@ -15505,7 +15276,6 @@ bu	O
 lai	B-PER
 mohammed	I-PER
 
-
 switzerland	B-LOC
 
 ekwetala	O
@@ -15563,7 +15333,6 @@ ghana	B-LOC
 o	O
 nwere	O
 ruwanda	B-LOC
-
 
 kenya	B-LOC
 
@@ -15754,10 +15523,8 @@ kwenyere	O
 nihe	O
 sanusi	B-PER
 
-
 lai	B-PER
 mohammed	I-PER
-
 
 mohammed	B-PER
 
@@ -15837,10 +15604,8 @@ uwa	O
 na	O
 imf	B-ORG
 
-
 lai	B-PER
 mohammed	I-PER
-
 
 ikeogu	B-PER
 oke	I-PER
@@ -15904,7 +15669,6 @@ abacha	B-PER
 mee	O
 na	O
 naijiria	B-LOC
-
 
 kemi	B-PER
 adeosun	I-PER
@@ -16062,7 +15826,6 @@ naerite	O
 na	O
 chogm	B-ORG
 
-
 ndi	O
 naijiria	O
 
@@ -16070,7 +15833,6 @@ agaghi	O
 nzuko	O
 n	O
 amerika	B-LOC
-
 
 imf	B-ORG
 
@@ -16098,7 +15860,6 @@ na	O
 inwe	O
 otutu	O
 
-
 efcc	B-ORG
 
 kwuru	O
@@ -16124,7 +15885,6 @@ imf	B-ORG
 aduola	O
 naijiria	B-LOC
 
-
 naijiria	B-LOC
 
 nwere	O
@@ -16133,7 +15893,6 @@ mpe	O
 mgbanwe	O
 ego	O
 ise	O
-
 
 otu	O
 
@@ -16144,7 +15903,6 @@ mmanu	O
 ugboala	O
 na	O
 naijiria	B-LOC
-
 
 otu	O
 
@@ -16158,7 +15916,6 @@ okwukwe	O
 na	O
 saudi	B-LOC
 arabia	I-LOC
-
 
 otu	O
 
@@ -16199,7 +15956,6 @@ kowara	O
 onyentakuko	O
 bbc	B-ORG
 
-
 pat	B-PER
 utomi	I-PER
 
@@ -16210,7 +15966,6 @@ abacha	B-PER
 nokwu	O
 ya	O
 uche	B-PER
-
 
 uwaleke	B-PER
 
@@ -16272,7 +16027,6 @@ ruru	O
 14	O
 hapuru	O
 apc	B-ORG
-
 
 uche	B-PER
 anichukwu	I-PER
@@ -16416,7 +16170,6 @@ di	O
 na	O
 makurdi	B-LOC
 
-
 benue	B-LOC
 
 steeti	O
@@ -16426,7 +16179,6 @@ a	O
 kwugbuo	O
 mmadu	O
 abuo	O
-
 
 hartuna	B-PER
 idi	I-PER
@@ -16470,10 +16222,8 @@ vikajenaraalu	O
 uka	O
 katolik	O
 
-
 n'otukpo	B-ORG
 dayosis	I-ORG
-
 
 benue	B-LOC
 
@@ -16493,7 +16243,6 @@ otukpo	B-LOC
 
 nafo	O
 2016	B-DATE
-
 
 otu	O
 
@@ -16549,7 +16298,6 @@ e	O
 gburu	O
 adeyi	B-PER
 
-
 apc	B-ORG
 
 ndi	O
@@ -16598,7 +16346,6 @@ kowara	O
 bbc	O
 igbo	O
 
-
 nnabuihe	B-PER
 
 nonu	O
@@ -16623,10 +16370,8 @@ na	O
 ndi	B-ORG
 yoruba	I-ORG
 
-
 nnamdi	B-PER
 daniels	I-PER
-
 
 nnamdi	B-PER
 daniels	I-PER
@@ -16639,7 +16384,6 @@ dada	O
 gwara	O
 bbc	O
 igbo	O
-
 
 ministri	B-ORG
 na-ahu	I-ORG
@@ -16686,13 +16430,11 @@ codiene	O
 na	O
 naijiria	B-LOC
 
-
 nafdac	B-ORG
 
 ebuliela	O
 mmachi	O
 emzor	B-ORG
-
 
 adewole	B-PER
 
@@ -16724,7 +16466,6 @@ nke	I-DATE
 afo	I-DATE
 a	I-DATE
 
-
 bbc	B-ORG
 
 nweputara	O
@@ -16738,7 +16479,6 @@ codiene	O
 naakpa	O
 na	O
 naijiria	B-LOC
-
 
 2019	B-DATE
 
@@ -16763,7 +16503,6 @@ kowara	O
 bbc	O
 igbo	O
 
-
 nnabuihe	B-PER
 
 ajo	O
@@ -16775,9 +16514,7 @@ igbo	O
 ruo	O
 taa	B-DATE
 
-
 ibi	B-LOC
-
 
 nnabuihe	B-PER
 
@@ -16799,9 +16536,7 @@ n	O
 imo	B-LOC
 steeti	I-LOC
 
-
 ihiala	B-LOC
-
 
 nnabuihe	B-PER
 
@@ -16813,7 +16548,6 @@ a	O
 noku	O
 na	O
 twitter	B-ORG
-
 
 ahmed	B-PER
 musa	I-PER
@@ -16842,7 +16576,6 @@ igafe	O
 notu	O
 al	B-PER
 nasr	I-PER
-
 
 ahmed	B-PER
 musa	I-PER
@@ -16931,7 +16664,6 @@ ndi	O
 super	B-ORG
 eagles	I-ORG
 
-
 world	O
 cup	O
 2018	O
@@ -16946,7 +16678,6 @@ ekele	O
 ahmed	B-PER
 musa	I-PER
 
-
 leicester	B-LOC
 city	I-LOC
 
@@ -16957,7 +16688,6 @@ naka	O
 otu	O
 cska	O
 moscow	B-LOC
-
 
 n'afo	B-DATE
 2016	I-DATE
@@ -16992,7 +16722,6 @@ di	O
 ugbua	O
 ahmed	B-PER
 musa	I-PER
-
 
 babatunde	B-PER
 fashola	I-PER
@@ -17054,7 +16783,6 @@ megawatt	O
 puku	O
 asaa	O
 
-
 fashola	B-PER
 
 kwuru	O
@@ -17069,7 +16797,6 @@ kros	B-LOC
 riva	I-LOC
 steeti	I-LOC
 
-
 unyaahu	B-DATE
 
 phcn	O
@@ -17078,7 +16805,6 @@ inye	O
 gi	O
 onwa	B-DATE
 ato	I-DATE
-
 
 fashola	B-PER
 
@@ -17114,7 +16840,6 @@ oru	O
 nafo	O
 2015	B-DATE
 
-
 fashola	B-PER
 
 ji	O
@@ -17126,7 +16851,6 @@ onu	O
 na	O
 goomenti	O
 buhari	B-PER
-
 
 afo	B-DATE
 ato	I-DATE
@@ -17227,9 +16951,7 @@ nime	O
 ogba	O
 thailand	B-LOC
 
-
 buhari	B-PER
-
 
 igwu	O
 mmmiri	O
@@ -17408,7 +17130,6 @@ di	O
 na	O
 yaba	B-LOC
 
-
 steeti	B-LOC
 legos	I-LOC
 
@@ -17419,11 +17140,9 @@ kwenyere	O
 nihe	O
 amos	B-PER
 
-
 ozubulu	B-ORG
 church	I-ORG
 massacre	I-ORG
-
 
 otu	B-DATE
 afo	I-DATE
@@ -17437,7 +17156,6 @@ anwuola	O
 ka	O
 ubochi	B-DATE
 itoolu	I-DATE
-
 
 ndi	B-ORG
 uweojii	I-ORG
@@ -17486,7 +17204,6 @@ nwuchichara	O
 ya	O
 n'ogostu	B-DATE
 5	I-DATE
-
 
 joseph	B-PER
 
@@ -17567,9 +17284,7 @@ ohuru	O
 n	O
 onicha	B-LOC
 
-
 taa	B-DATE
-
 
 buhari	B-PER
 
@@ -17608,7 +17323,6 @@ mama	O
 boko	B-ORG
 haram	I-ORG
 
-
 aisha	B-PER
 wakil	I-PER
 
@@ -17626,7 +17340,6 @@ ndi	O
 otu	O
 boko	B-ORG
 haram	I-ORG
-
 
 taa	B-DATE
 
@@ -17665,7 +17378,6 @@ wuru	O
 ewu	O
 n'afo	B-DATE
 2018	I-DATE
-
 
 world	O
 cup	O
@@ -17845,7 +17557,6 @@ n'onwa	B-DATE
 disemba	I-DATE
 1983	I-DATE
 
-
 1984	B-DATE
 
 ka	O
@@ -17870,7 +17581,6 @@ nafo	O
 
 nruritauka	O
 bbc	B-ORG
-
 
 buhari	B-PER
 
@@ -17951,7 +17661,6 @@ nakwa	O
 kwalite	O
 akunauba	O
 niger	B-LOC
-
 
 afo	B-DATE
 ano	I-DATE
@@ -18038,7 +17747,6 @@ naijiria	I-LOC
 dika	O
 buhari	B-PER
 
-
 buhari	B-PER
 
 bu	O
@@ -18048,7 +17756,6 @@ okoloto	O
 all	B-ORG
 progressives	I-ORG
 congress	I-ORG
-
 
 apc	B-ORG
 
@@ -18078,13 +17785,11 @@ loo	O
 nnamdi	B-PER
 kanu	I-PER
 
-
 buratai	B-PER
 
 nigeria	O
 election	O
 2019	B-DATE
-
 
 bbc	B-ORG
 
@@ -18119,10 +17824,8 @@ onyeisiala	O
 na	O
 2019	B-DATE
 
-
 bbc	B-ORG
 igbo	I-ORG
-
 
 1	O
 
@@ -18131,7 +17834,6 @@ buhari	O
 na	O
 yemi	B-PER
 osibanjo	I-PER
-
 
 buhari	B-PER
 
@@ -18183,7 +17885,6 @@ onyeisiala	O
 ugboro	O
 ato	O
 
-
 2003,	B-DATE
 2007	I-DATE
 
@@ -18223,7 +17924,6 @@ church	I-ORG
 of	I-ORG
 god	I-ORG
 
-
 rccg	B-ORG
 
 o	O
@@ -18236,9 +17936,7 @@ buhari	B-PER
 nafo	O
 2015	B-DATE
 
-
 2	O
-
 
 atiku	B-PER
 abubakar	I-PER
@@ -18395,9 +18093,7 @@ na	O
 abdul	B-PER
 ganiyu	I-PER
 
-
 galadima	B-PER
-
 
 galadima	B-PER
 
@@ -18489,7 +18185,6 @@ onye	O
 bu	O
 ganiyu	B-PER
 
-
 galadima	B-PER
 
 a	O
@@ -18525,7 +18220,6 @@ acpn	O
 nafo	O
 2015	B-DATE
 
-
 4	O
 
 moghalu	O
@@ -18539,7 +18233,6 @@ pati	O
 young	B-ORG
 progressive	I-ORG
 party	I-ORG
-
 
 ypp	B-ORG
 
@@ -18601,9 +18294,7 @@ ha	O
 bu	O
 ypp	B-ORG
 
-
 5	O
-
 
 omoyele	B-PER
 sowore	I-PER
@@ -18640,7 +18331,6 @@ isii	I-DATE
 nke	I-DATE
 onwa	I-DATE
 februwari	I-DATE
-
 
 1971	B-DATE
 
@@ -18683,9 +18373,7 @@ di	O
 na	O
 kano	B-LOC
 
-
 6	O
-
 
 fela	B-PER
 durotoye	I-PER
@@ -18706,7 +18394,6 @@ alliance	B-ORG
 for	I-ORG
 new	I-ORG
 nigeria	I-ORG
-
 
 ann	B-ORG
 
@@ -18744,7 +18431,6 @@ alliance	B-ORG
 for	I-ORG
 new	I-ORG
 nigeria	I-ORG
-
 
 ann	B-ORG
 
@@ -18909,7 +18595,6 @@ biara	O
 uche	B-PER
 nwosu	I-PER
 
-
 nwosu	B-PER
 
 gakwara	O
@@ -18943,7 +18628,6 @@ okpurukpu	O
 uche	B-PER
 nwosu	I-PER
 
-
 uche	B-PER
 nwosu	I-PER
 
@@ -18960,7 +18644,6 @@ govano	O
 nowere	O
 imo	B-LOC
 steeti	I-LOC
-
 
 nwosu	B-PER
 
@@ -18984,7 +18667,6 @@ nonwa	O
 maachi	B-DATE
 afo	I-DATE
 2019	I-DATE
-
 
 buhari	B-PER
 
@@ -19025,9 +18707,7 @@ baara	O
 ndi	B-ORG
 imo	I-ORG
 
-
 uzodimma	B-ORG
-
 
 ihedioha	B-LOC
 
@@ -19055,7 +18735,6 @@ atiku	B-PER
 na	O
 mba	O
 amerika	B-LOC
-
 
 atiku	B-PER
 
@@ -19182,9 +18861,7 @@ osisioma	B-LOC
 industrial	I-LOC
 layout	I-LOC
 
-
 aba	B-LOC
-
 
 abia	B-LOC
 steeti	I-LOC
@@ -19222,7 +18899,6 @@ benin	B-LOC
 
 nakwa	O
 ogba	B-LOC
-
 
 lagos	B-ORG
 breweries	I-ORG
@@ -19323,7 +18999,6 @@ united	I-ORG
 political	I-ORG
 parties	I-ORG
 
-
 donald	B-PER
 trump	I-PER
 
@@ -19386,7 +19061,6 @@ satode	B-DATE
 onyeisiala	O
 muhammadu	B-PER
 buhari	I-PER
-
 
 buhari	B-PER
 
@@ -19528,7 +19202,6 @@ nke	O
 ivory	B-LOC
 coast	I-LOC
 
-
 taa	B-DATE
 
 nisi	O
@@ -19607,7 +19280,6 @@ ka	O
 umu	O
 naijiria	O
 
-
 obasanjo	B-PER
 
 olusegun	O
@@ -19631,7 +19303,6 @@ goomenti	O
 a	O
 na	O
 2019	O
-
 
 obasanjo	B-PER
 
@@ -19936,10 +19607,8 @@ nigeria	O
 vs	O
 ukraine	B-LOC
 
-
 flying	B-ORG
 eagles	I-ORG
-
 
 umu	O
 naijiria	O
@@ -19948,7 +19617,6 @@ ji	O
 ogboigwe	O
 saa	O
 tijani	B-PER
-
 
 mohammed	B-PER
 
@@ -19978,7 +19646,6 @@ ha	O
 na	O
 mba	O
 ukraine	B-LOC
-
 
 naijiria	B-LOC
 
@@ -20018,7 +19685,6 @@ boolu	O
 flying	B-ORG
 eagle	I-ORG
 
-
 umu	O
 naijiria	O
 
@@ -20028,7 +19694,6 @@ na	O
 onuma	O
 gwee	O
 tijani	B-PER
-
 
 mohammed	B-PER
 
@@ -20107,7 +19772,6 @@ kwuru	O
 na	O
 tijani	B-PER
 
-
 mohammed	B-PER
 
 bu	O
@@ -20140,10 +19804,8 @@ kara	O
 iwdepu	O
 tijani	B-PER
 
-
 jane	B-PER
 ada	I-PER
-
 
 jane	B-PER
 ada	I-PER
@@ -20155,10 +19817,8 @@ bi	O
 n	O
 amerika	B-LOC
 
-
 jane	B-PER
 ada	I-PER
-
 
 jane	B-PER
 
@@ -20288,9 +19948,7 @@ ihu	O
 ahi	O
 france	B-LOC
 
-
 taa	B-DATE
-
 
 norway	B-LOC
 
@@ -20311,7 +19969,6 @@ umunwaanyi	O
 na	O
 france	B-LOC
 
-
 norway	B-LOC
 
 na	O
@@ -20324,7 +19981,6 @@ mbauwa	O
 umunwaanyi	O
 na	O
 france	B-LOC
-
 
 norway	B-LOC
 
@@ -20345,7 +20001,6 @@ nke	O
 amalitere	O
 an	O
 france	B-LOC
-
 
 taa	B-DATE
 
@@ -20373,7 +20028,6 @@ ezumike	O
 okara	O
 mbu	O
 
-
 france	B-LOC
 
 mere	O
@@ -20382,7 +20036,6 @@ falcons	I-ORG
 
 goolu	O
 norway	B-LOC
-
 
 mbu	O
 
@@ -20481,7 +20134,6 @@ iri	O
 na	O
 ato	O
 
-
 norway	B-LOC
 
 ji	O
@@ -20526,7 +20178,6 @@ na	O
 mba	O
 24	O
 
-
 naijiria	B-LOC
 
 so	O
@@ -20560,7 +20211,6 @@ gaezuta	O
 na	O
 wenezde	B-DATE
 
-
 n'elekere	B-DATE
 abuo	I-DATE
 nke	I-DATE
@@ -20571,9 +20221,7 @@ stade	B-LOC
 des	I-LOC
 alpes	I-LOC
 
-
 grenoble	B-LOC
-
 
 spain	B-LOC
 
@@ -20591,12 +20239,10 @@ ukwu	O
 n	O
 abuja	B-LOC
 
-
 nbc	B-ORG
 
 anapula	O
 ait	B-ORG
-
 
 ray	B-ORG
 power	I-ORG
@@ -20676,7 +20322,6 @@ nigeria	O
 vs	O
 norway	B-LOC
 
-
 norway	B-LOC
 
 akpochuola	O
@@ -20711,7 +20356,6 @@ ha	O
 nasompi	O
 nke	O
 mbu	O
-
 
 george	B-PER
 weah	I-PER
@@ -20749,7 +20393,6 @@ weah	O
 biara	O
 zute	O
 buhari	B-PER
-
 
 george	B-PER
 weah	I-PER
@@ -20832,7 +20475,6 @@ mbu	O
 nafo	O
 2015	B-DATE
 
-
 uloomeiwu	B-ORG
 
 a	O
@@ -20884,7 +20526,6 @@ ya	O
 isi	O
 na	O
 tuuzude	B-DATE
-
 
 ndi	B-ORG
 uweojii	I-ORG
@@ -21076,7 +20717,6 @@ meri	O
 akwa	B-ORG
 united	I-ORG
 
-
 unyaahu	B-DATE
 
 enyimba	O
@@ -21093,7 +20733,6 @@ gbara	O
 ebe	O
 reuben	B-PER
 bala	I-PER
-
 
 stanley	B-PER
 dimgba	I-PER
@@ -21157,7 +20796,6 @@ anwuchiela	O
 mmadu	O
 isi	O
 
-
 n'ubochi	B-DATE
 24	I-DATE
 nke	I-DATE
@@ -21213,7 +20851,6 @@ n	O
 imo	B-LOC
 steeti	I-LOC
 
-
 naptip	B-ORG
 
 umuaka	O
@@ -21231,7 +20868,6 @@ nwaanyi	O
 di	O
 afo	B-DATE
 isii	I-DATE
-
 
 kelechi	B-PER
 eke	I-PER
@@ -21252,7 +20888,6 @@ di	O
 afo	B-DATE
 ato	I-DATE
 
-
 ebuka	B-PER
 enwerem	I-PER
 
@@ -21260,7 +20895,6 @@ nwoke	O
 di	O
 afo	B-DATE
 ato	I-DATE
-
 
 chioma	B-PER
 enwerem	I-PER
@@ -21298,7 +20932,6 @@ n	O
 obokwu	B-LOC
 ulakwo	I-LOC
 
-
 imo	B-LOC
 steeti	I-LOC
 
@@ -21326,7 +20959,6 @@ biri	O
 na	O
 mpape	B-LOC
 abuja	I-LOC
-
 
 immaculata	B-PER
 
@@ -21356,7 +20988,6 @@ si	O
 na	O
 lokpanta	B-LOC
 
-
 abia	B-LOC
 steeti	I-LOC
 
@@ -21377,14 +21008,11 @@ iwuji	I-PER
 isong	O
 ifara	B-LOC
 
-
 immaculata	B-PER
 edward	I-PER
 
-
 grace	B-PER
 nwachukwu	I-PER
-
 
 ifeoma	B-PER
 ndubuisi	I-PER
@@ -21405,7 +21033,6 @@ mpaghara	O
 owuwa	B-LOC
 anyanwu	I-LOC
 naijiria	I-LOC
-
 
 rochas	B-PER
 okorocha	I-PER
@@ -21504,7 +21131,6 @@ atiku	B-PER
 na	O
 buhari	B-PER
 
-
 uloomeiwu	B-ORG
 
 ekwuola	O
@@ -21555,9 +21181,7 @@ bu	O
 emeka	B-PER
 unachukwu	I-PER
 
-
 unachukwu	B-PER
-
 
 unachukwu	B-PER
 
@@ -21567,7 +21191,6 @@ na	O
 ohiara	O
 ahu	O
 inec	B-ORG
-
 
 unachukwu	B-PER
 
@@ -21606,7 +21229,6 @@ day	O
 dika	O
 taa	B-DATE
 
-
 taa	B-DATE
 
 ka	O
@@ -21623,9 +21245,7 @@ blood	B-ORG
 donor	I-ORG
 day	I-ORG
 
-
 2019	B-DATE
-
 
 bbc	O
 igbo	O
@@ -21748,7 +21368,6 @@ buru	O
 kwa	O
 iko	O
 afcon	O
-
 
 o	B-DATE
 ruola	I-DATE
@@ -21925,7 +21544,6 @@ nuwe	O
 super	B-ORG
 eagles	I-ORG
 
-
 ukraine	B-LOC
 
 and	O
@@ -21933,10 +21551,8 @@ u20	O
 world	O
 cup	O
 
-
 south	B-LOC
 korea	I-LOC
-
 
 ukraine	B-LOC
 
@@ -21954,7 +21570,6 @@ ato	O
 maburu	O
 iko	O
 mbauwa	O
-
 
 ukraine	B-LOC
 
@@ -22019,7 +21634,6 @@ nke	O
 lee	B-PER
 kang	I-PER
 
-
 flying	B-ORG
 eagles	I-ORG
 
@@ -22049,7 +21663,6 @@ iri	I-DATE
 ato	I-DATE
 na	I-DATE
 ano	I-DATE
-
 
 vladyslav	B-PER
 supriaga	I-PER
@@ -22134,7 +21747,6 @@ a	O
 bu	O
 mbu	O
 
-
 ukraine	B-LOC
 
 naemetu	O
@@ -22159,9 +21771,7 @@ mkpeghari	O
 eweliela	O
 chimaroke	B-PER
 
-
 china	B-LOC
-
 
 rwanda	B-LOC
 
@@ -22198,7 +21808,6 @@ ugwu	O
 nke	O
 naijiria	B-LOC
 
-
 buhari	B-PER
 
 bidoro	O
@@ -22214,9 +21823,7 @@ nke	O
 gunyere	O
 taraba	B-LOC
 
-
 plateau	B-LOC
-
 
 benue	B-LOC
 
@@ -22327,7 +21934,6 @@ dapchi	B-LOC
 dika	O
 ochichi	O
 buhari	B-PER
-
 
 o	B-DATE
 ruola	I-DATE
@@ -22580,7 +22186,6 @@ n'ubochi	B-DATE
 6	I-DATE
 ogostu	I-DATE
 
-
 afo	B-DATE
 gara	I-DATE
 aga	I-DATE
@@ -22614,7 +22219,6 @@ ihe	O
 di	O
 umunwaanyi	O
 ozubulu	B-LOC
-
 
 nwode	B-PER
 
@@ -22845,10 +22449,8 @@ mkporo	O
 afo	B-DATE
 abuo	I-DATE
 
-
 patricia	B-PER
 ann	I-PER
-
 
 patricia	B-PER
 ann	I-PER
@@ -22909,7 +22511,6 @@ afo	B-DATE
 gara	I-DATE
 aga	I-DATE
 
-
 misty	B-PER
 spann	I-PER
 
@@ -22925,7 +22526,6 @@ ya	O
 na	O
 okaiwu	O
 ato	O
-
 
 patricia	B-PER
 ann	I-PER
@@ -22961,7 +22561,6 @@ onwe	O
 ha	O
 afo	B-DATE
 abuo	I-DATE
-
 
 misty	B-PER
 spann	I-PER
@@ -23112,7 +22711,6 @@ bekee	O
 dkta	O
 ikechukwu	B-PER
 
-
 mgbolu	B-PER
 
 osaze	O
@@ -23144,7 +22742,6 @@ biri	O
 na	O
 lagos	B-LOC
 
-
 osaze	B-PER
 
 govano	O
@@ -23169,7 +22766,6 @@ mmadu	O
 na	O
 amerika	B-LOC
 
-
 otu	O
 
 ugboala	O
@@ -23192,12 +22788,10 @@ na	O
 mba	O
 amerika	B-LOC
 
-
 uber	B-ORG
 
 ulooru	O
 uber	B-ORG
-
 
 uber	B-ORG
 
@@ -23258,12 +22852,10 @@ so	O
 so	O
 uber	B-ORG
 
-
 putin	B-PER
 
 gaachi	O
 roshia	O
-
 
 afo	B-DATE
 asaa	I-DATE
@@ -23315,7 +22907,6 @@ iso	O
 ndummodu	O
 imf	B-ORG
 
-
 uwaleke	B-PER
 
 kwuru	O
@@ -23333,7 +22924,6 @@ naerite	O
 na	O
 chogm	B-ORG
 
-
 ndi	O
 naijiria	O
 
@@ -23343,9 +22933,7 @@ egbochiela	O
 ulo	O
 dino	B-PER
 
-
 melaye	B-PER
-
 
 gloria	B-PER
 orji	I-PER
@@ -23372,7 +22960,6 @@ amaala	O
 bill	B-PER
 cosby	I-PER
 
-
 bill	B-PER
 cosby	I-PER
 
@@ -23386,10 +22973,8 @@ afo	B-DATE
 iri	I-DATE
 ato	I-DATE
 
-
 bill	B-PER
 cosby	I-PER
-
 
 bill	B-PER
 cosby	I-PER
@@ -23424,7 +23009,6 @@ iwu	O
 ka	O
 anwuchie	O
 innoson	B-ORG
-
 
 cosby	B-PER
 
@@ -23648,9 +23232,7 @@ bu	O
 j.c	B-PER
 okafor	I-PER
 
-
 okafor	B-PER
-
 
 otu	O
 
@@ -23678,7 +23260,6 @@ nafdac	B-ORG
 awakpoola	O
 ulooru	O
 ano	O
-
 
 nafdac	B-ORG
 
@@ -23713,13 +23294,11 @@ ogwu	O
 na	O
 lagos	B-LOC
 
-
 ikeja	B-LOC
 
 ilorin	O
 na	O
 kano	B-LOC
-
 
 nafdac	B-ORG
 
@@ -23778,7 +23357,6 @@ rue	O
 juunu	B-DATE
 11	I-DATE
 
-
 buhari	B-PER
 
 esila	O
@@ -23805,10 +23383,8 @@ kwusichara	O
 na	O
 london	B-LOC
 
-
 muhammadu	B-PER
 buhari	I-PER
-
 
 buhari	B-PER
 
@@ -23849,7 +23425,6 @@ azikiwe	I-ORG
 international	I-ORG
 airport	I-ORG
 
-
 abuja	B-LOC
 
 o	O
@@ -23879,13 +23454,11 @@ trump	B-PER
 uzo	O
 ano	O
 
-
 buhari	B-PER
 
 jiri	O
 yie	O
 trump	B-PER
-
 
 buhari	B-PER
 
@@ -23990,7 +23563,6 @@ gaekweta	O
 na	O
 buhari	B-PER
 
-
 nafdac	B-ORG
 
 awakpoola	O
@@ -24015,7 +23587,6 @@ naijiria	B-LOC
 onyeisiala	O
 muhammadu	O
 buhari	B-PER
-
 
 buhari	B-PER
 
@@ -24066,13 +23637,11 @@ onyeisiala	O
 gara	O
 london	B-LOC
 
-
 buhari	B-PER
 
 esila	O
 njem	O
 us	B-LOC
-
 
 buhari	B-PER
 
@@ -24081,7 +23650,6 @@ njem	O
 oru	O
 na	O
 uk	B-LOC
-
 
 taa	B-DATE
 
@@ -24093,7 +23661,6 @@ buhari	B-PER
 ji	O
 bia	O
 legos	B-LOC
-
 
 taa	B-DATE
 
@@ -24182,7 +23749,6 @@ pharmaceutical	O
 limited	O
 emzor	B-ORG
 
-
 bbc	B-ORG
 
 weputara	O
@@ -24256,7 +23822,6 @@ standard	I-ORG
 pharmaceutical	I-ORG
 limited	I-ORG
 
-
 bioraj	B-ORG
 pharmaceutical	I-ORG
 limited	I-ORG
@@ -24268,7 +23833,6 @@ ndia	O
 maka	O
 nchoputa	O
 bbc	B-ORG
-
 
 adeyeye	B-PER
 
@@ -24282,7 +23846,6 @@ gunyere	O
 ndi	O
 oru	O
 itoolu	O
-
 
 abuo	O
 
@@ -24362,7 +23925,6 @@ london	B-LOC
 
 ozo	O
 taa	B-DATE
-
 
 legos	B-LOC
 
@@ -24445,7 +24007,6 @@ nke	O
 afo	O
 2018	B-DATE
 
-
 n'ubochi	B-DATE
 asaa	I-DATE
 nke	I-DATE
@@ -24469,7 +24030,6 @@ onwa	O
 jenuwari	B-DATE
 nke	I-DATE
 2018	I-DATE
-
 
 onwa	B-DATE
 a	I-DATE
@@ -24499,7 +24059,6 @@ akuko	O
 kachasi	O
 n'ututu	B-DATE
 taa	I-DATE
-
 
 obiano	B-PER
 
@@ -24572,7 +24131,6 @@ of	I-ORG
 national	I-ORG
 planning	I-ORG
 
-
 ben	B-PER
 akabueze	I-PER
 
@@ -24604,7 +24162,6 @@ nke	I-DATE
 afo	I-DATE
 gara	I-DATE
 aga	I-DATE
-
 
 Ministri	B-ORG
 akunauba	I-ORG
@@ -24711,7 +24268,6 @@ onye	O
 ntaakuko	O
 bbc	B-ORG
 
-
 otu	O
 
 bu	O
@@ -24762,7 +24318,6 @@ of	I-ORG
 international	I-ORG
 african	I-ORG
 institute	I-ORG
-
 
 aguleri	B-LOC
 
@@ -24859,11 +24414,9 @@ enugu	O
 n'afo	B-DATE
 2017	I-DATE
 
-
 uloomeiwu	B-ORG
 nke	I-ORG
 etiti	I-ORG
-
 
 buhari	B-PER
 
@@ -24874,7 +24427,6 @@ bojet	O
 afo	O
 2018	B-DATE
 
-
 onwa	B-DATE
 isi	I-DATE
 gara	I-DATE
@@ -24882,7 +24434,6 @@ aga	I-DATE
 
 nubochi	O
 tuuzude	B-DATE
-
 
 uloomeiwu	B-ORG
 nke	I-ORG
@@ -24959,7 +24510,6 @@ abuo	O
 akpoola	O
 buhari	B-PER
 
-
 ndi	O
 naijiria	O
 
@@ -25000,7 +24550,6 @@ mba	O
 ghana	O
 na	O
 china	B-LOC
-
 
 kizito	B-PER
 obiora	I-PER
@@ -25074,7 +24623,6 @@ atumatu	O
 na	O
 ndi	O
 naijiria	O
-
 
 obiora	B-PER
 
@@ -25195,7 +24743,6 @@ gaghi	O
 agbara	O
 naijiria	O
 echi	B-DATE
-
 
 victor	B-PER
 
@@ -25374,7 +24921,6 @@ roshia	B-LOC
 na	O
 2018	B-DATE
 
-
 2019	B-DATE
 
 election	O
@@ -25443,7 +24989,6 @@ bu	O
 fred	B-PER
 ndubuisi	I-PER
 
-
 ndubuisi	B-PER
 
 mana	O
@@ -25465,12 +25010,10 @@ fifa	O
 naado	O
 naijiria	B-LOC
 
-
 2019	B-DATE
 
 election	O
 naijiria	B-LOC
-
 
 kingsley	B-PER
 
@@ -25484,7 +25027,6 @@ otutu	O
 ihe	O
 na	O
 naijiria	B-LOC
-
 
 nwa	O
 afo	O
@@ -25528,7 +25070,6 @@ mazi	O
 roncy	B-PER
 chidebe	I-PER
 
-
 canada	B-LOC
 
 etinyela	O
@@ -25562,7 +25103,6 @@ oso	O
 ndu	O
 na	O
 canada	B-LOC
-
 
 kanada	B-LOC
 
@@ -25618,7 +25158,6 @@ onu	O
 juru	O
 amerika	B-LOC
 
-
 kanada	B-LOC
 
 na	O
@@ -25628,7 +25167,6 @@ obi	O
 taa	O
 iko	O
 mbauwa	O
-
 
 2026	B-DATE
 
@@ -25750,7 +25288,6 @@ ndi	O
 mba	O
 china	B-LOC
 
-
 india	B-LOC
 
 nakwa	O
@@ -25762,7 +25299,6 @@ canadian	B-ORG
 association	I-ORG
 of	I-ORG
 refugee	I-ORG
-
 
 lorne	B-PER
 waldman	I-PER
@@ -25827,7 +25363,6 @@ akwu	O
 ndi	O
 nysc	B-ORG
 
-
 puku	O
 naira	O
 50	O
@@ -25846,7 +25381,6 @@ ndi	O
 nchekwa	O
 ndi	O
 naijiria	O
-
 
 jim	B-PER
 iyke	I-PER
@@ -25933,7 +25467,6 @@ ugboelu	O
 bu	O
 alabi	B-PER
 joseph	I-PER
-
 
 jim	B-PER
 iyke	I-PER
@@ -26175,7 +25708,6 @@ iri	O
 na	O
 asaa	O
 
-
 naijiria	B-LOC
 
 na	O
@@ -26202,7 +25734,6 @@ delta	B-LOC
 
 steeti	O
 taa	B-DATE
-
 
 otu	O
 
@@ -26300,7 +25831,6 @@ gbakoro	O
 na	O
 legos	B-LOC
 
-
 unyaahu	B-DATE
 
 maka	O
@@ -26330,14 +25860,11 @@ dika	O
 adekola	B-PER
 odunlade	I-PER
 
-
 omotola	B-PER
 jolade	I-PER
 
-
 nyce	B-PER
 wanueri	I-PER
-
 
 rotimi	B-PER
 amaechi	I-PER
@@ -26368,7 +25895,6 @@ o	O
 hoputara	O
 tonye	B-PER
 cole	I-PER
-
 
 boko	B-ORG
 haram	I-ORG
@@ -26443,7 +25969,6 @@ ruru	O
 iri	O
 ato	O
 
-
 us	B-LOC
 
 esepuola	O
@@ -26470,7 +25995,6 @@ naenye	O
 ndi	O
 palistine	B-LOC
 
-
 amerika	B-LOC
 
 kwuru	O
@@ -26495,7 +26019,6 @@ anyi	O
 n'ututu	B-DATE
 taa	I-DATE
 
-
 odo	B-LOC
 ugboelu	I-LOC
 enugu	I-LOC
@@ -26513,7 +26036,6 @@ oru	O
 odo	B-LOC
 ugboelu	I-LOC
 enugu	I-LOC
-
 
 odo	B-LOC
 ugboelu	I-LOC
@@ -26572,7 +26094,6 @@ okorie	I-PER
 bojeti	O
 2018	B-DATE
 
-
 buhari	B-PER
 
 gini	O
@@ -26599,9 +26120,7 @@ aka	O
 naachi	O
 ebonyi	B-LOC
 
-
 umahi	B-PER
-
 
 odo	B-LOC
 ugboelu	I-LOC
@@ -26726,7 +26245,6 @@ odo	B-LOC
 ugboelu	I-LOC
 enugu	I-LOC
 
-
 caf	B-ORG
 
 amapula	O
@@ -26745,7 +26263,6 @@ adagbuola	O
 nwata	O
 na	O
 delta	B-LOC
-
 
 boko	B-ORG
 haram	I-ORG
@@ -26767,7 +26284,6 @@ nkwu	O
 elu	O
 oji	B-PER
 
-
 ngawuchu	B-PER
 
 nokwu	O
@@ -26785,7 +26301,6 @@ bu	O
 chigozie	B-PER
 nnabuihe	I-PER
 
-
 nnabuihe	B-PER
 
 nkwenye	O
@@ -26798,7 +26313,6 @@ nganwuchu	B-PER
 
 dika	O
 nnabuihe	B-PER
-
 
 nnabuihe	B-PER
 
@@ -26814,9 +26328,7 @@ gwara	O
 bbc	O
 igbo	O
 
-
 nnabuihe	B-PER
-
 
 nnabuihe	B-PER
 
@@ -26841,7 +26353,6 @@ anyaoku	O
 naenye	O
 obasanjo	B-PER
 
-
 mohammadu	B-PER
 buhari	I-PER
 
@@ -26851,7 +26362,6 @@ obasanjo	B-PER
 bu	O
 na	O
 buhari	B-PER
-
 
 joe	B-PER
 igbokwe	I-PER
@@ -26878,7 +26388,6 @@ o	O
 ji	O
 katoo	O
 buhari	B-PER
-
 
 joe	B-PER
 
@@ -26992,7 +26501,6 @@ ntecha	O
 kama	O
 taa	B-DATE
 
-
 buhari	B-PER
 
 no	O
@@ -27003,9 +26511,7 @@ na	O
 nruruaka	O
 saraki	B-PER
 
-
 asuu	B-ORG
-
 
 wole	B-PER
 
@@ -27043,7 +26549,6 @@ weghara	O
 ochichi	O
 ndi	O
 naijiria	O
-
 
 wole	B-PER
 soyinka	I-PER
@@ -27112,7 +26617,6 @@ abia	B-LOC
 ndi	O
 agha	O
 naijiria	B-LOC
-
 
 ndi	B-ORG
 nhoputa	I-ORG
@@ -27259,7 +26763,6 @@ osisioma	O
 gaa	O
 ibeku	B-PER
 
-
 oshoala	B-PER
 
 abanyela	O
@@ -27291,7 +26794,6 @@ ndi	O
 mba	O
 spain	B-LOC
 
-
 abubakar	B-PER
 kamara	I-PER
 
@@ -27317,7 +26819,6 @@ ha	O
 bu	O
 aboubakar	B-PER
 kamara	I-PER
-
 
 atiku	B-PER
 abubakar	I-PER
@@ -27428,7 +26929,6 @@ david	O
 babachir	B-PER
 lawal	I-PER
 
-
 juan	B-PER
 guaido	I-PER
 
@@ -27456,7 +26956,6 @@ ndi	O
 agha	O
 venezuela	B-LOC
 
-
 juan	B-PER
 guaido	I-PER
 
@@ -27471,9 +26970,7 @@ naka	O
 mba	O
 amerika	B-LOC
 
-
 chelsea	B-ORG
-
 
 chelsea	B-ORG
 
@@ -27495,7 +26992,6 @@ ano	O
 
 n	O
 itali	B-LOC
-
 
 real	B-ORG
 madrid	I-ORG
@@ -27519,7 +27015,6 @@ ihe	O
 nkiri	O
 nke	O
 taa	B-DATE
-
 
 afcon	B-ORG
 
@@ -27668,7 +27163,6 @@ onyeisiala	O
 na	O
 2019	B-DATE
 
-
 joe	B-PER
 igbokwe	I-PER
 
@@ -27770,7 +27264,6 @@ apc	B-ORG
 mere	O
 na	O
 jalingo	B-LOC
-
 
 taraba	B-LOC
 
@@ -27916,7 +27409,6 @@ gbara	O
 n	O
 amawbia	B-LOC
 
-
 haruna	B-PER
 mohammed	I-PER
 
@@ -27960,7 +27452,6 @@ m	O
 chuks	B-PER
 benson	I-PER
 
-
 haruna	B-PER
 
 kwuru	O
@@ -27984,13 +27475,11 @@ nokiri	O
 okiri	O
 amawbia	B-LOC
 
-
 haruna	B-PER
 
 nigeria	O
 elections	O
 2019	B-DATE
-
 
 nasir	B-PER
 el-rufai	I-PER
@@ -28301,9 +27790,7 @@ na	O
 mba	O
 ghana	B-LOC
 
-
 bbc	B-ORG
-
 
 ebonyi	B-LOC
 
@@ -28320,7 +27807,6 @@ emeputa	O
 nnu	O
 n	O
 ebonyi	B-LOC
-
 
 ebonyi	B-LOC
 
@@ -28370,7 +27856,6 @@ ya	O
 nke	O
 ato	O
 
-
 inec	B-ORG
 
 oku	O
@@ -28383,7 +27868,6 @@ inec	O
 di	O
 n	O
 oka	B-LOC
-
 
 anambra	B-LOC
 
@@ -28432,7 +27916,6 @@ opuru	O
 ochichi	O
 qua'an	B-LOC
 
-
 otu	O
 
 ndiagha	O
@@ -28454,7 +27937,6 @@ imo	O
 anwuchiela	O
 umuokorobia	O
 ano	O
-
 
 otu	O
 
@@ -28546,7 +28028,6 @@ kemgbe	O
 onwa	B-DATE
 abuo	I-DATE
 
-
 asup	B-ORG
 
 gbara	O
@@ -28575,7 +28056,6 @@ afo	O
 nakwa	O
 nke	O
 2017	B-DATE
-
 
 clinton	B-PER
 
@@ -28663,7 +28143,6 @@ nokporouzo	O
 gawara	O
 nnewi	B-LOC
 
-
 okigwe	B-LOC
 
 onyeisioche	O
@@ -28714,7 +28193,6 @@ umunwaanyi	O
 choro	O
 inapu	O
 buhari	B-PER
-
 
 eunice	B-PER
 atuejide	I-PER
@@ -28788,7 +28266,6 @@ onyeisiala	O
 na	O
 naijiria	B-LOC
 
-
 sarah	B-PER
 jubrin	I-PER
 
@@ -28829,9 +28306,7 @@ jenuwari	I-DATE
 afo	I-DATE
 a	I-DATE
 
-
 1	O
-
 
 eunice	B-PER
 atuejide	I-PER
@@ -28858,7 +28333,6 @@ umuanumanu	O
 nke	O
 kano	B-LOC
 
-
 taa	B-DATE
 
 ta	O
@@ -28873,7 +28347,6 @@ gburu	O
 na	O
 echeta	O
 ubochi	B-DATE
-
 
 taa	B-DATE
 
@@ -28949,9 +28422,7 @@ nna	O
 malitere	O
 naijiria	B-LOC
 
-
 @bukolasaraki	O
-
 
 nchoputa	O
 
@@ -29005,7 +28476,6 @@ chikota	O
 mputara	O
 ntuliaka	O
 2019	B-DATE
-
 
 ukraine	B-LOC
 
@@ -29087,7 +28557,6 @@ women	O
 world	O
 cup	O
 
-
 thailand	B-LOC
 
 ji	O
@@ -29141,7 +28610,6 @@ nigeria	O
 vs	O
 norway	B-LOC
 
-
 norway	B-LOC
 
 akpochuola	O
@@ -29155,10 +28623,8 @@ bu	O
 kosovare	O
 aslani	B-PER
 
-
 fridolina	B-PER
 rolfo	I-PER
-
 
 linda	B-PER
 huritg	I-PER
@@ -29166,7 +28632,6 @@ huritg	I-PER
 na	O
 elin	B-PER
 rubensson	I-PER
-
 
 kanjana	B-PER
 sungngoen	I-PER
@@ -29189,7 +28654,6 @@ abuo	O
 a	O
 naemeri	O
 mbu	O
-
 
 thailand	B-LOC
 
@@ -29221,7 +28685,6 @@ ha	O
 na	O
 mba	O
 chile	B-LOC
-
 
 konduga	B-LOC
 
@@ -29305,7 +28768,6 @@ eruola	O
 iri	O
 ato	O
 
-
 ato	O
 
 hapula	O
@@ -29317,7 +28779,6 @@ jidere	O
 n	O
 enugwu	B-LOC
 
-
 ebere	B-PER
 amarizu	I-PER
 
@@ -29327,7 +28788,6 @@ ndi	O
 uweojii	O
 n	O
 enugwu	B-LOC
-
 
 ebere	B-PER
 amarizu	I-PER
@@ -29426,7 +28886,6 @@ afrika	I-LOC
 na	O
 jamani	B-LOC
 
-
 china	B-LOC
 
 na	O
@@ -29447,7 +28906,6 @@ gaezute	O
 mgbe	O
 naijiria	B-LOC
 
-
 waec	B-ORG
 
 oteela	O
@@ -29465,14 +28923,12 @@ bu	O
 olu	B-PER
 adenipekun	I-PER
 
-
 yoweri	B-PER
 museveni	I-PER
 
 onyeisiala	O
 mba	O
 uganda	B-LOC
-
 
 bbc	B-ORG
 
@@ -29490,7 +28946,6 @@ na	O
 copa	O
 america	B-LOC
 
-
 2019	B-DATE
 
 208bn	O
@@ -29501,13 +28956,10 @@ abughi	O
 ego	O
 asuu	B-ORG
 
-
 world	O
 cup	O
 
-
 2019	B-DATE
-
 
 naijiria	B-LOC
 
@@ -29545,7 +28997,6 @@ kamgbe	O
 afo	O
 1991	B-DATE
 
-
 super	B-ORG
 falcon	I-ORG
 
@@ -29554,7 +29005,6 @@ amaburula	O
 iko	O
 awcon	O
 2018	B-DATE
-
 
 super	B-ORG
 falcon	I-ORG
@@ -29609,7 +29059,6 @@ egwuregwu	O
 boolu	O
 naijiria	B-LOC
 
-
 asisat	B-PER
 oshoala	I-PER
 
@@ -29652,7 +29101,6 @@ oshoala	B-PER
 na	O
 afirika	B-LOC
 
-
 francisca	B-PER
 ordega	I-PER
 
@@ -29681,7 +29129,6 @@ kwuru	O
 gbasara	O
 ntuliaka	O
 2019	B-DATE
-
 
 otu	O
 
@@ -29717,14 +29164,12 @@ agaghi	O
 mgbe	O
 bbc	B-ORG
 
-
 mohamed	B-PER
 morsi	I-PER
 
 aka	O
 chiburu	O
 ijipt	B-LOC
-
 
 mohamed	B-PER
 morsi	I-PER
@@ -29750,7 +29195,6 @@ ya	O
 nuloikpe	O
 na	O
 cairo	B-LOC
-
 
 mohammed	B-PER
 
@@ -29789,7 +29233,6 @@ muo	O
 nuloikpe	O
 na	O
 cairo	B-LOC
-
 
 abdel	B-PER
 fattah	I-PER
@@ -29865,7 +29308,6 @@ delta'	I-LOC
 nke	O
 sharqiya	B-LOC
 
-
 n'afo	B-DATE
 1951	I-DATE
 
@@ -29934,7 +29376,6 @@ france	O
 agbarala	O
 naijiria	B-LOC
 
-
 super	B-ORG
 falcon	I-ORG
 
@@ -29990,12 +29431,10 @@ nigeria	O
 vs	O
 norway	B-LOC
 
-
 norway	B-LOC
 
 akpochuola	O
 naijiria	B-LOC
-
 
 nnadozie	B-PER
 
@@ -30003,7 +29442,6 @@ chetara	O
 penariti	O
 nke	O
 mbu	O
-
 
 renard	B-PER
 
@@ -30033,7 +29471,6 @@ na	O
 nkeji	B-DATE
 75	I-DATE
 
-
 norway	B-LOC
 
 ji	O
@@ -30044,7 +29481,6 @@ merie	O
 mba	O
 sawut	B-LOC
 koria	I-LOC
-
 
 france	B-LOC
 
@@ -30081,7 +29517,6 @@ mgbe	O
 ha	O
 zutere	O
 norway	B-LOC
-
 
 falcon	B-ORG
 
@@ -30231,7 +29666,6 @@ odoahia	O
 di	O
 na	O
 kumasi	B-LOC
-
 
 ghana	B-LOC
 
@@ -30393,7 +29827,6 @@ na	O
 uloikpe	B-ORG
 ukwu	I-ORG
 
-
 naijiria	B-LOC
 
 gaamalite	O
@@ -30477,7 +29910,6 @@ weputere	O
 femi	B-PER
 gbajabiamila	I-PER
 
-
 mohamed	B-PER
 morsi	I-PER
 
@@ -30516,7 +29948,6 @@ alala	O
 muo	O
 unyahu	B-DATE
 
-
 france	B-LOC
 
 emeriela	O
@@ -30536,7 +29967,6 @@ goolu	O
 merie	O
 naijiria	B-LOC
 
-
 unyahu	B-DATE
 
 ndumodu	O
@@ -30545,7 +29975,6 @@ obi	O
 nyere	O
 onyeisiala	O
 buhari	B-PER
-
 
 uk	B-LOC
 
@@ -30586,7 +30015,6 @@ na	O
 otu	O
 na	O
 naijiria	B-LOC
-
 
 sajid	B-PER
 javid	I-PER
@@ -30637,7 +30065,6 @@ ikpaike	O
 na	O
 naija	B-LOC
 delta	I-LOC
-
 
 boko	B-ORG
 haram	I-ORG
@@ -30694,7 +30121,6 @@ ibeneme	I-PER
 dika	O
 taa	B-DATE
 
-
 florence	B-PER
 ngozi	I-PER
 uchendu	I-PER
@@ -30719,9 +30145,7 @@ bu	O
 mcginger	B-PER
 ibeneme	I-PER
 
-
 sowore	B-PER
-
 
 bbc	O
 igbo	O
@@ -30735,7 +30159,6 @@ si	O
 aga	O
 n	O
 onitsha	B-LOC
-
 
 taa	B-DATE
 
@@ -30804,7 +30227,6 @@ afo	O
 onyeisiala	O
 muhammadu	B-PER
 buhari	I-PER
-
 
 biafra	B-LOC
 
@@ -30875,7 +30297,6 @@ naijiria	O
 bu	O
 ike	B-PER
 ekweremadu	I-PER
-
 
 ike	B-PER
 ekweremmadu	I-PER
@@ -30969,7 +30390,6 @@ a	O
 simone	B-PER
 biles	I-PER
 
-
 simone	B-PER
 biles	I-PER
 
@@ -30991,7 +30411,6 @@ ha	O
 bu	O
 larry	B-PER
 nassar	I-PER
-
 
 simone	B-PER
 biles	I-PER
@@ -31052,7 +30471,6 @@ mahadum	B-ORG
 steeti	I-ORG
 michigan	I-ORG
 
-
 nassar	B-PER
 
 o	O
@@ -31078,7 +30496,6 @@ enweghi	O
 oru	O
 kemgbe	O
 2016	B-DATE
-
 
 buhari	B-PER
 
@@ -31159,7 +30576,6 @@ kemgbe	O
 afo	O
 2016	B-DATE
 
-
 nbs	B-ORG
 
 kwuru	O
@@ -31182,12 +30598,10 @@ a	O
 na	O
 abuja	B-LOC
 
-
 n'uka	B-DATE
 a	I-DATE
 gara	I-DATE
 aga	I-DATE
-
 
 bbc	O
 igbo	O
@@ -31216,7 +30630,6 @@ otu	I-ORG
 ihe	I-ORG
 siri	I-ORG
 di	I-ORG
-
 
 cheta	B-PER
 
@@ -31275,7 +30688,6 @@ ka	O
 cheta	B-PER
 nwanze	I-PER
 
-
 bbc	O
 igbo	O
 
@@ -31288,7 +30700,6 @@ na	O
 nchoputa	O
 ndi	O
 nbs	B-ORG
-
 
 bbc	O
 igbo	O
@@ -31346,9 +30757,7 @@ bu	O
 stephen	B-PER
 keshi	I-PER
 
-
 google	B-ORG
-
 
 taa	B-DATE
 
@@ -31390,7 +30799,6 @@ ruru	O
 maka	O
 christian	B-PER
 chukwu	I-PER
-
 
 google	B-ORG
 africa	I-ORG
@@ -31438,7 +30846,6 @@ na	O
 ike	O
 keshi	B-PER
 
-
 keshi	B-PER
 
 meriri	O
@@ -31447,7 +30854,6 @@ mba	O
 afrika	O
 na	O
 2013	B-DATE
-
 
 mutiu	B-PER
 adepoju	I-PER
@@ -31491,7 +30897,6 @@ ezi	O
 onye	O
 ndu	O
 keshi	B-PER
-
 
 keshi	B-PER
 
@@ -31553,10 +30958,8 @@ ndi	O
 omeiwu	O
 us	B-LOC
 
-
 donald	B-PER
 trump	I-PER
-
 
 donald	B-PER
 trump	I-PER
@@ -31662,7 +31065,6 @@ mmechi	O
 oru	O
 na	O
 amerika	B-LOC
-
 
 rochas	B-PER
 okorocha	I-PER
@@ -31831,9 +31233,7 @@ oku	O
 na	O
 ojo	B-LOC
 
-
 legos	B-LOC
-
 
 ijegun	B-LOC
 
@@ -31878,7 +31278,6 @@ nojo	O
 steeti	B-LOC
 legos	I-LOC
 
-
 rasak	B-PER
 fadipe	I-PER
 
@@ -31915,7 +31314,6 @@ emergency	I-ORG
 management	I-ORG
 agency	I-ORG
 
-
 nema	B-ORG
 
 enyemaka	O
@@ -31931,7 +31329,6 @@ ato	O
 
 nke	O
 ehihe	B-DATE
-
 
 olayinka	B-PER
 ajaba	I-PER
@@ -32139,7 +31536,6 @@ a	O
 na	O
 mbu	O
 
-
 thomas	B-PER
 dennerby	I-PER
 
@@ -32166,10 +31562,8 @@ otu	O
 super	B-ORG
 falcons	I-ORG
 
-
 thomas	B-PER
 dennerby	I-PER
-
 
 thomas	B-PER
 dennerby	I-PER
@@ -32200,7 +31594,6 @@ bu	O
 thomas	B-PER
 dennerby	I-PER
 
-
 super	B-ORG
 falcons	I-ORG
 
@@ -32229,7 +31622,6 @@ ha	O
 bidoro	O
 naekele	O
 pinnick	B-PER
-
 
 dennerby	B-ORG
 
@@ -32261,7 +31653,6 @@ otu	O
 nke	O
 sweden	B-LOC
 
-
 dennerby	B-ORG
 
 rukwara	O
@@ -32280,7 +31671,6 @@ hammarby	O
 na	O
 afo	B-DATE
 2001	I-DATE
-
 
 china	B-LOC
 
@@ -32313,7 +31703,6 @@ na	O
 o	O
 gbajiela	O
 amerika	B-LOC
-
 
 donald	B-PER
 trump	I-PER
@@ -32427,7 +31816,6 @@ ekike	O
 mba	O
 afrika	B-LOC
 
-
 chadwick	B-PER
 boseman	I-PER
 
@@ -32478,10 +31866,8 @@ nyongo	O
 david	B-PER
 oyelowo	I-PER
 
-
 daniel	B-PER
 kaluuya	I-PER
-
 
 michael	B-PER
 b	I-PER
@@ -32498,7 +31884,6 @@ ekike	O
 ndi	O
 afrika	O
 
-
 david	B-PER
 oyelowo	I-PER
 
@@ -32511,7 +31896,6 @@ na	O
 nwunye	O
 bu	O
 jessica	B-PER
-
 
 janeshia	B-PER
 adams-ginyard	I-PER
@@ -32541,7 +31925,6 @@ nkiri	O
 a	O
 naakpo	O
 oscar	B-PER
-
 
 chadwick	B-PER
 boseman	I-PER
@@ -32647,7 +32030,6 @@ njiko	O
 na	O
 itali	B-LOC
 
-
 jamani	B-LOC
 
 nakwa	O
@@ -32655,7 +32037,6 @@ denmark	B-LOC
 
 mba	O
 us	B-LOC
-
 
 eu	B-ORG
 
@@ -32762,7 +32143,6 @@ afo	I-DATE
 di	I-DATE
 iri	I-DATE
 abuo	I-DATE
-
 
 us	B-LOC
 
@@ -32910,7 +32290,6 @@ no	O
 na	O
 uk	B-LOC
 
-
 bbc	O
 igbo	O
 
@@ -32956,7 +32335,6 @@ ano	O
 tinubu	O
 edemede	O
 obasanjo	B-PER
-
 
 bola	B-PER
 tinubu	I-PER
@@ -33094,7 +32472,6 @@ ugwu	O
 alex	B-PER
 ekwueme	I-PER
 
-
 rabi	B-PER
 abu-yasir	I-PER
 
@@ -33115,7 +32492,6 @@ haram	O
 bu	O
 abubakara	B-PER
 shekau	I-PER
-
 
 lafia	B-PER
 dole	I-PER
@@ -33353,10 +32729,8 @@ oru	O
 abali	B-DATE
 ise	I-DATE
 
-
 rochas	B-PER
 okorocha	I-PER
-
 
 rochas	B-PER
 okorocha	I-PER
@@ -33448,7 +32822,6 @@ philip	I-ORG
 catholic	I-ORG
 church	I-ORG
 
-
 ozubulu	B-LOC
 
 ndi	O
@@ -33478,7 +32851,6 @@ ogostu	I-DATE
 afo	O
 2017	B-DATE
 
-
 chukwujekwu	B-PER
 eze	I-PER
 
@@ -33488,7 +32860,6 @@ ukwu	O
 di	O
 na	O
 nnewi	B-LOC
-
 
 anambara	B-LOC
 steeti	I-LOC
@@ -33524,12 +32895,10 @@ catholic	I-ORG
 church,	I-ORG
 ozobulu	I-ORG
 
-
 n'onwa	B-DATE
 ogostu	I-DATE
 afo	I-DATE
 2017	I-DATE
-
 
 chukwujekwu	B-PER
 eze	I-PER
@@ -33627,7 +32996,6 @@ dobby	O
 onyemaechi	B-PER
 mbanefo	I-PER
 
-
 otu	O
 
 na	O
@@ -33674,7 +33042,6 @@ abuo	O
 na	O
 plateau	B-LOC
 
-
 dani	B-PER
 carvajal	I-PER
 
@@ -33683,7 +33050,6 @@ ogwu	O
 ga	O
 egbochi	O
 neymar	B-PER
-
 
 dani	B-PER
 carvajal	I-PER
@@ -33697,7 +33063,6 @@ uche	O
 ya	O
 nebe	O
 neymar	B-PER
-
 
 neymar	B-PER
 
@@ -33753,7 +33118,6 @@ naatu	O
 anya	O
 ka	O
 neymar	B-PER
-
 
 neymar	B-PER
 
@@ -33827,7 +33191,6 @@ uweoji	O
 nihu	O
 ulooru	O
 youtube	B-ORG
-
 
 youtube	B-ORG
 
@@ -33919,7 +33282,6 @@ oru	O
 na	O
 youtube	B-ORG
 
-
 aghadam	B-PER
 
 bubu	O
@@ -33932,7 +33294,6 @@ youtube	B-ORG
 
 katoro	O
 youtube	B-ORG
-
 
 ibrahimovic	B-PER
 
@@ -33983,7 +33344,6 @@ igbo	O
 
 nala	O
 naijiria	B-LOC
-
 
 ihe	O
 dika	O
@@ -34176,7 +33536,6 @@ korea	I-LOC
 agala	O
 ghana	B-LOC
 
-
 anthony	B-PER
 joshua	I-PER
 
@@ -34226,7 +33585,6 @@ anyi	O
 na	O
 ndi	O
 aguleri	B-LOC
-
 
 igboukwu	B-LOC
 
@@ -34300,7 +33658,6 @@ di	O
 nobodo	O
 aguleri	B-LOC
 
-
 maaida	B-PER
 bio	I-PER
 
@@ -34336,7 +33693,6 @@ ida	O
 na	O
 ntuliaka	O
 2019	B-DATE
-
 
 matthew	B-PER
 kukah	I-PER
@@ -34382,7 +33738,6 @@ ndorondoro	O
 ochichi	O
 nke	O
 2019	B-DATE
-
 
 kukah	B-PER
 
@@ -34640,12 +33995,10 @@ bu	O
 ajayi	B-PER
 okasanmi	I-PER
 
-
 aguleri	B-LOC
 
 na	O
 igboukwu	B-LOC
-
 
 bbc	O
 igbo	O
@@ -34708,7 +34061,6 @@ maka	O
 aisha	B-PER
 wakil	I-PER
 
-
 aisha	B-PER
 wakil	I-PER
 
@@ -34728,7 +34080,6 @@ wakil	I-PER
 kowachara	O
 bbc	O
 igbo	O
-
 
 france	B-LOC
 
@@ -34795,12 +34146,10 @@ na	O
 le	B-LOC
 mans	I-LOC
 
-
 france	B-LOC
 
 govano	O
 obiano	B-PER
-
 
 willie	B-PER
 obiano	I-PER
@@ -34817,7 +34166,6 @@ obiano	I-PER
 nke	O
 steeti	B-LOC
 anambra	I-LOC
-
 
 super	B-ORG
 eagles	I-ORG
@@ -34908,17 +34256,14 @@ bu	O
 mba	O
 beljom	B-LOC
 
-
 french	O
 
 open	O
 serena	B-PER
 williams	I-PER
 
-
 serena	B-PER
 williams	I-PER
-
 
 williams	B-PER
 
@@ -34999,9 +34344,7 @@ nke	O
 mba	O
 france	B-LOC
 
-
 taa	B-DATE
-
 
 serena	B-PER
 
@@ -35015,7 +34358,6 @@ asompi	O
 agba	O
 nke	O
 ano	O
-
 
 taa	B-DATE
 
@@ -35041,7 +34383,6 @@ ohi	O
 na	O
 roshia	B-LOC
 
-
 apc	B-ORG
 
 pati	O
@@ -35058,7 +34399,6 @@ na	O
 iwu	O
 ji	O
 apc	B-ORG
-
 
 owele	B-PER
 rochas	I-PER
@@ -35088,7 +34428,6 @@ all	O
 progressive	O
 congress	O
 
-
 apc	B-ORG
 
 adola	O
@@ -35101,7 +34440,6 @@ bu	O
 owelle	O
 rochas	B-PER
 okorocha	I-PER
-
 
 okorocha	B-PER
 
@@ -35218,9 +34556,7 @@ national	B-ORG
 working	I-ORG
 committee	I-ORG
 
-
 nwc	B-ORG
-
 
 apc	B-ORG
 
@@ -35272,7 +34608,6 @@ mechara	O
 nzuko	O
 n	O
 abuja	B-LOC
-
 
 n'onwa	B-DATE
 gara	I-DATE
@@ -35332,7 +34667,6 @@ bojeti	O
 nke	O
 2019	B-DATE
 
-
 alex	B-PER
 okoh	I-PER
 
@@ -35344,7 +34678,6 @@ bureau	B-ORG
 of	I-ORG
 public	I-ORG
 enterprises	I-ORG
-
 
 enugwu	B-LOC
 steeti	I-LOC
@@ -35386,7 +34719,6 @@ novemba	B-DATE
 nafo	O
 2013	B-DATE
 
-
 naijiria	B-LOC
 
 o	O
@@ -35395,7 +34727,6 @@ nihu	O
 kwuo	O
 na	O
 naijiria	B-LOC
-
 
 buhari	B-PER
 
@@ -35443,7 +34774,6 @@ ahia	O
 na	O
 naijiria	B-LOC
 
-
 super	B-ORG
 falcons	I-ORG
 
@@ -35454,10 +34784,8 @@ ama	O
 na	O
 afrika	B-LOC
 
-
 super	B-ORG
 falcons	I-ORG
-
 
 super	B-ORG
 falcons	I-ORG
@@ -35517,7 +34845,6 @@ nagba	O
 nke	O
 abuo	O
 
-
 super	B-ORG
 falcons	I-ORG
 
@@ -35529,14 +34856,11 @@ ndi	O
 super	B-ORG
 eagles	I-ORG
 
-
 bbc	O
 igbo	O
 
-
 chisom	B-PER
 mbonu-ezeoke	I-PER
-
 
 super	B-ORG
 falcons	I-ORG
@@ -35563,7 +34887,6 @@ obula	O
 ndi	O
 super	B-ORG
 falcons	I-ORG
-
 
 stephen	B-PER
 mbonu	I-PER
@@ -35625,7 +34948,6 @@ ha	O
 anwuchiela	O
 mmadu	O
 abuo	O
-
 
 world	O
 cup	O
@@ -35728,7 +35050,6 @@ n	O
 afo	B-DATE
 a	I-DATE
 
-
 taa	B-DATE
 
 bu	O
@@ -35740,10 +35061,8 @@ nna	O
 nuka	O
 anglikan	O
 
-
 bbc	O
 igbo	O
-
 
 amerika	B-LOC
 
@@ -35827,7 +35146,6 @@ umuakwukwo	O
 na	O
 benin	B-LOC
 
-
 alabi	B-PER
 
 kwuru	O
@@ -35844,7 +35162,6 @@ bu	O
 nigerian	B-ORG
 immigration	I-ORG
 service	I-ORG
-
 
 nis	B-ORG
 
@@ -35904,7 +35221,6 @@ buhari	B-PER
 gaenye	O
 anyi	O
 biafra	B-LOC
-
 
 kolawole	B-PER
 dosunmu	I-PER
@@ -36044,7 +35360,6 @@ shasha	B-LOC
 na	O
 legos	B-LOC
 
-
 mary	B-PER
 akinloye	I-PER
 
@@ -36073,7 +35388,6 @@ nde	O
 naira	O
 15	O
 
-
 bbc	O
 igbo	O
 
@@ -36100,7 +35414,6 @@ and	I-ORG
 home	I-ORG
 care	I-ORG
 services'	I-ORG
-
 
 afolabi	B-PER
 
@@ -36197,7 +35510,6 @@ bu	O
 ike	B-PER
 ekweremadu	I-PER
 
-
 ike	B-PER
 ekweremadu	I-PER
 
@@ -36243,7 +35555,6 @@ ha	O
 meri	O
 mba	O
 libya	B-LOC
-
 
 samuel	B-PER
 kalu	I-PER
@@ -36321,7 +35632,6 @@ igbo	O
 kwadoro	O
 ihe	O
 atiku	B-PER
-
 
 umu	O
 naijiria	O
@@ -36558,13 +35868,10 @@ gbasara	O
 okwu	O
 atiku	B-PER
 
-
 nnaji	B-PER
-
 
 mubowale	B-PER
 kuforiji	I-PER
-
 
 dozie	B-PER
 umekunie	I-PER
@@ -36592,7 +35899,6 @@ kporo	O
 na	O
 mbu	O
 
-
 pius	B-PER
 mordi	I-PER
 
@@ -36613,7 +35919,6 @@ eagles	I-ORG
 agwoola	O
 libya	B-LOC
 
-
 nigeria	B-LOC
 
 vs	O
@@ -36630,15 +35935,12 @@ abuo	O
 merie	O
 libya	B-LOC
 
-
 naijiria	B-LOC
 
 vs	O
 libya	B-LOC
 
-
 naijiria	B-LOC
-
 
 naijiria	B-LOC
 
@@ -36702,7 +36004,6 @@ agbara	O
 na	O
 tunisia	B-LOC
 
-
 taa	B-DATE
 
 ndi	O
@@ -36730,7 +36031,6 @@ di	O
 na	O
 victoria	B-LOC
 
-
 bafana	B-ORG
 bafana	I-ORG
 
@@ -36743,7 +36043,6 @@ ahu	O
 naagba	O
 nke	O
 mbu	O
-
 
 naijiria	B-LOC
 
@@ -36798,7 +36097,6 @@ naijiria	B-LOC
 
 odion	O
 ighalo	B-PER
-
 
 ighalo	B-PER
 
@@ -36939,7 +36237,6 @@ naijiria	O
 niko	O
 mbauwa	O
 2018	B-DATE
-
 
 ighalo	B-PER
 
@@ -37100,24 +36397,19 @@ kwuru	O
 na	O
 ighalo	B-PER
 
-
 abia	O
 pipeline	O
 
-
 hauwa	B-PER
 liman	I-PER
-
 
 nigeria	B-LOC
 
 vs	O
 libya	B-LOC
 
-
 super	B-ORG
 eagles	I-ORG
-
 
 okougbo	B-PER
 jerry	I-PER
@@ -37127,7 +36419,6 @@ gosiri	O
 bbc	O
 igbo	O
 
-
 jerry	B-PER
 oduma	I-PER
 
@@ -37136,10 +36427,8 @@ gwara	O
 bbc	O
 igbo	O
 
-
 nkechi	B-PER
 blessing	I-PER
-
 
 nkechi	B-PER
 blessing	I-PER
@@ -37239,7 +36528,6 @@ ya	O
 nafo	O
 2017	B-DATE
 
-
 oby	B-PER
 ezekwesili	I-PER
 
@@ -37318,7 +36606,6 @@ agba	O
 afo	B-DATE
 isii	I-DATE
 
-
 uche	B-PER
 anichukwu	I-PER
 
@@ -37355,7 +36642,6 @@ ndi	O
 uweojii	O
 joshak	B-PER
 habila	I-PER
-
 
 bbc	B-ORG
 
@@ -37444,12 +36730,9 @@ nchekwa	O
 nobodo	O
 naijiria	B-LOC
 
-
 nlc	B-ORG
 
-
 asuu	B-ORG
-
 
 atiku	B-PER
 abubakar	I-PER
@@ -37462,7 +36745,6 @@ enugwu	I-LOC
 atiku	O
 gara	O
 enugwu	B-LOC
-
 
 ben	B-PER
 nwabueze	I-PER
@@ -37571,7 +36853,6 @@ atiku	B-PER
 obasanjo	O
 na	O
 atiku	B-PER
-
 
 apc	B-ORG
 
@@ -37733,10 +37014,8 @@ merie	O
 ntuliaka	O
 2019	B-DATE
 
-
 osita	B-PER
 chidoka	I-PER
-
 
 kanu	B-PER
 
@@ -37839,7 +37118,6 @@ ezinaulo	O
 a	O
 kporo	O
 2018	B-DATE
-
 
 global	O
 family	O
@@ -37968,10 +37246,8 @@ vs	O
 south	B-LOC
 africa	I-LOC
 
-
 super	B-ORG
 eagles	I-ORG
-
 
 otu	O
 
@@ -38001,7 +37277,6 @@ negwuregwu	O
 ndi	O
 super	B-ORG
 eagles	I-ORG
-
 
 naijiria	B-LOC
 
@@ -38091,9 +37366,7 @@ na	O
 goolu	O
 abuo	O
 
-
 naijiria	B-LOC
-
 
 libya	B-LOC
 
@@ -38193,13 +37466,11 @@ bu	O
 nnamdi	B-PER
 azikiwe	I-PER
 
-
 saraki	B-PER
 
 kwuru	O
 na	O
 zik	B-PER
-
 
 otu	O
 
@@ -38257,21 +37528,16 @@ bu	O
 audu	B-PER
 ogbe	I-PER
 
-
 apc	B-ORG
-
 
 george	B-PER
 akum	I-PER
 
-
 atiku	B-PER
 bagudu	I-PER
 
-
 ita	B-PER
 enang	I-PER
-
 
 sani	B-PER
 daura	I-PER
@@ -38291,7 +37557,6 @@ ka	O
 inec	O
 ebonyi	B-LOC
 
-
 imo	B-LOC
 
 ndi	O
@@ -38303,7 +37568,6 @@ oku	O
 n	O
 akwa	B-LOC
 ibom	I-LOC
-
 
 rochas	B-PER
 okorocha	I-PER
@@ -38375,7 +37639,6 @@ onu	O
 naekwuru	O
 rochas	B-PER
 
-
 uwazuruike	B-PER
 
 kwuru	O
@@ -38393,10 +37656,8 @@ nwereike	O
 ikpopu	O
 inec	B-ORG
 
-
 uche	B-PER
 ekwuinife	I-PER
-
 
 ike	B-PER
 ekweremadu	I-PER
@@ -38440,7 +37701,6 @@ a	O
 zoputala	O
 mmadu	O
 40	O
-
 
 barcelona	B-LOC
 
@@ -38496,9 +37756,7 @@ nigeria	O
 election	O
 2019	B-DATE
 
-
 mbaka	B-PER
-
 
 oyedepo	B-PER
 
@@ -38528,7 +37786,6 @@ naijiria	B-LOC
 nubochi	O
 maachi	O
 17	O
-
 
 2019	B-DATE
 
@@ -38616,7 +37873,6 @@ zoro	O
 nokpuru	O
 apga	B-ORG
 
-
 adams	B-PER
 oshiomhole	I-PER
 
@@ -38641,10 +37897,8 @@ govano	O
 nokpuru	O
 ac	B-ORG
 
-
 rauf	B-PER
 aregbesola	I-PER
-
 
 rauf	B-PER
 aregbesola	I-PER
@@ -38667,7 +37921,6 @@ kwukwara	O
 na	O
 olagunsoye	B-PER
 oyinlola	I-PER
-
 
 rotimi	B-PER
 amaechi	I-PER
@@ -38733,9 +37986,7 @@ ukochukwu	O
 na	O
 naijiria	B-LOC
 
-
 mbaka	B-PER
-
 
 oyedepo	B-PER
 
@@ -38748,7 +37999,6 @@ naewu	O
 ewu	O
 n	O
 aba	B-LOC
-
 
 abia	B-LOC
 steeti	I-LOC
@@ -38803,7 +38053,6 @@ naabo	O
 otu	O
 onye	O
 nollywood	B-ORG
-
 
 ebelenna	B-PER
 
@@ -38906,7 +38155,6 @@ mgbe	O
 bbc	O
 igbo	O
 
-
 catholic	B-ORG
 church	I-ORG
 
@@ -38976,13 +38224,11 @@ nigeria	O
 vs	O
 seychelles	B-LOC
 
-
 super	B-ORG
 eagles	I-ORG
 
 aboriala	O
 seychelles	B-LOC
-
 
 super	B-ORG
 eagles	I-ORG
@@ -39013,7 +38259,6 @@ eagles	I-ORG
 
 ugo	O
 naijiria	B-LOC
-
 
 super	B-ORG
 eagles	I-ORG
@@ -39104,7 +38349,6 @@ ahula	O
 oto	O
 man	B-ORG
 utd	I-ORG
-
 
 taa	B-DATE
 
@@ -39231,7 +38475,6 @@ odida	O
 anyanwu	O
 legos	B-LOC
 
-
 clement	B-PER
 ugwu	I-PER
 
@@ -39357,10 +38600,8 @@ na	O
 kaduna	B-LOC
 steeti	I-LOC
 
-
 aisha	B-PER
 ibrahim	I-PER
-
 
 aisha	B-PER
 ibrahim	I-PER
@@ -39399,7 +38640,6 @@ warri	B-LOC
 delta	I-LOC
 steeti	I-LOC
 
-
 n'abali	B-DATE
 iri	I-DATE
 na	I-DATE
@@ -39427,7 +38667,6 @@ bukankwatu	O
 di	O
 na	O
 lafia	B-LOC
-
 
 kaduna	B-LOC
 
@@ -39496,7 +38735,6 @@ di	O
 na	O
 lafia	B-LOC
 
-
 kaduna	B-LOC
 
 o	O
@@ -39513,7 +38751,6 @@ delta	B-LOC
 steeti	O
 gawa	O
 lafia	B-LOC
-
 
 kaduna	B-LOC
 
@@ -39594,7 +38831,6 @@ inec	B-ORG
 onodu	O
 donald	B-PER
 duke	I-PER
-
 
 donald	B-PER
 duke	I-PER
@@ -39689,7 +38925,6 @@ njem	O
 na	O
 legos	B-LOC
 
-
 ebonyi	B-LOC
 steeti	I-LOC
 
@@ -39721,7 +38956,6 @@ gbara	O
 ntuliaka	O
 2019	B-DATE
 
-
 oliver	B-PER
 osi	I-PER
 
@@ -39740,9 +38974,7 @@ na	O
 ntuliaka	O
 2019	B-DATE
 
-
 taa	B-DATE
-
 
 asuu	B-ORG
 
@@ -39816,7 +39048,6 @@ anoghi	O
 na	O
 naijiria	B-LOC
 
-
 ezeani	B-PER
 
 si	O
@@ -39824,7 +39055,6 @@ na	O
 a	O
 gaenye	O
 umahi	B-PER
-
 
 ahmadu	B-PER
 fintri	I-PER
@@ -39861,7 +39091,6 @@ na	O
 adamawa	O
 uboichi	O
 tozde	B-DATE
-
 
 fintri	B-PER
 
@@ -39965,7 +39194,6 @@ adamawa	B-LOC
 n	O
 adamawa	B-LOC
 
-
 ahmadu	B-PER
 fintiri	I-PER
 
@@ -40006,14 +39234,11 @@ na	O
 uma	O
 336,386	O
 
-
 gonzalo	B-PER
 higuain	I-PER
 
-
 gonzalo	B-PER
 higuain	I-PER
-
 
 gonzalo	B-PER
 higuain	I-PER
@@ -40026,7 +39251,6 @@ igbara	O
 ndi	O
 mba	O
 ajentina	B-LOC
-
 
 higuain	B-PER
 
@@ -40111,7 +39335,6 @@ law	I-ORG
 enforcement	I-ORG
 agency	I-ORG
 
-
 ndlea	B-ORG
 
 calista	O
@@ -40119,7 +39342,6 @@ udomma	O
 meka	O
 gwara	O
 bbc	B-ORG
-
 
 ndlea	B-ORG
 
@@ -40143,7 +39365,6 @@ aha	O
 ya	O
 bu	O
 christian	O
-
 
 calista	B-PER
 
@@ -40253,7 +39474,6 @@ british	B-ORG
 broadcasting	I-ORG
 corporation	I-ORG
 
-
 bbc	B-ORG
 
 ndi	O
@@ -40329,7 +39549,6 @@ joshua	I-PER
 
 maazi	O
 joshua	B-PER
-
 
 bbc	B-ORG
 
@@ -40484,7 +39703,6 @@ olushosun	B-PER
 na	O
 friday	B-DATE
 
-
 ambode	B-PER
 
 siri	O
@@ -40494,7 +39712,6 @@ ha	O
 jiri	O
 mechie	O
 olushosun	B-PER
-
 
 bbc	O
 igbo	O
@@ -40508,7 +39725,6 @@ mkporo	O
 n	O
 ikoyi	B-LOC
 
-
 lagos	B-LOC
 
 akuko	O
@@ -40519,7 +39735,6 @@ si	O
 naka	O
 jessica	B-PER
 nwankwo	I-PER
-
 
 ike	B-PER
 ekweremadu	I-PER
@@ -40572,13 +39787,11 @@ di	O
 na	O
 naijiria	B-LOC
 
-
 asato	O
 
 di	O
 na	O
 dubai	B-LOC
-
 
 ato	O
 
@@ -40710,7 +39923,6 @@ nike	O
 na	O
 naijiria	B-LOC
 
-
 europol	B-ORG
 
 bu	O
@@ -40732,7 +39944,6 @@ a	O
 laghachi	O
 naijiria	B-LOC
 
-
 china	B-LOC
 
 na	O
@@ -40745,7 +39956,6 @@ mmadu	O
 anwuola	O
 na	O
 france	B-LOC
-
 
 bill	B-PER
 gate	I-PER
@@ -40764,7 +39974,6 @@ naachupu	O
 ndi	O
 mba	O
 roshia	O
-
 
 malcom	B-PER
 turnbull	I-PER
@@ -40854,7 +40063,6 @@ us	B-LOC
 na	O
 eu	B-ORG
 
-
 unyaahu	B-DATE
 
 mba	O
@@ -40868,17 +40076,14 @@ uk	O
 mmadu	O
 23	O
 
-
 putin	B-PER
 
 gaachi	O
 roshia	B-LOC
 
-
 afo	B-DATE
 isii	I-DATE
 ozo	I-DATE
-
 
 roshia	B-LOC
 
@@ -40903,7 +40108,6 @@ yulia	B-LOC
 
 na	O
 salisbury	B-LOC
-
 
 ostrelia	B-LOC
 
@@ -40956,7 +40160,6 @@ nnandi	O
 kanu	O
 nuloikpe	O
 abuja	B-LOC
-
 
 abaribe	B-PER
 
@@ -41094,7 +40297,6 @@ akuko	O
 mere	O
 unyaahu	B-DATE
 
-
 n'otu	B-DATE
 nkeji	I-DATE
 
@@ -41140,7 +40342,6 @@ njem	O
 ugboelu	O
 atola	O
 taa	B-DATE
-
 
 melaye	B-PER
 
@@ -41218,7 +40419,6 @@ uweoji	O
 nihu	O
 ulooru	O
 youtube	B-ORG
-
 
 youtube	B-ORG
 
@@ -41305,7 +40505,6 @@ mmadu	O
 na	O
 youtube	B-ORG
 
-
 aghadam	B-PER
 
 bubu	O
@@ -41318,7 +40517,6 @@ youtube	B-ORG
 
 katoro	O
 youtube	B-ORG
-
 
 ibrahimovic	B-PER
 
@@ -41384,7 +40582,6 @@ mere	O
 nafo	O
 2008	B-DATE
 
-
 ndi	O
 naijiria	O
 
@@ -41393,7 +40590,6 @@ pasenti	O
 nime	O
 nde	O
 169	O
-
 
 ihe	B-DATE
 kariri	I-DATE
@@ -41524,7 +40720,6 @@ nuloikpe	O
 aguoro	O
 zakzaky	B-PER
 
-
 maxwell	B-PER
 kenyon	I-PER
 
@@ -41568,7 +40763,6 @@ ka	O
 akpoghachie	O
 zakzaky	B-PER
 
-
 abuja	B-LOC
 
 nakwukwo	O
@@ -41598,7 +40792,6 @@ ihe	O
 mere	O
 zakzaky	B-PER
 
-
 bello	B-PER
 
 okporouzo	O
@@ -41614,7 +40807,6 @@ naijiria	O
 nke	O
 2018	B-DATE
 
-
 buhari	B-PER
 
 nyere	O
@@ -41624,12 +40816,10 @@ bojet	O
 afo	O
 2018	B-DATE
 
-
 onwa	B-DATE
 isi	I-DATE
 gara	I-DATE
 aga	I-DATE
-
 
 n'ubochi	B-DATE
 tusde	I-DATE
@@ -41773,7 +40963,6 @@ agba	O
 ulo	O
 apc	B-ORG
 
-
 apc	B-ORG
 
 n	O
@@ -41821,9 +41010,7 @@ ihe	O
 n'onwa	B-DATE
 a	I-DATE
 
-
 taa	B-DATE
-
 
 otu	O
 
@@ -41890,7 +41077,6 @@ akwukwo	O
 ntuliaka	O
 apc	B-ORG
 
-
 ekechi	B-PER
 
 kwuru	O
@@ -41920,7 +41106,6 @@ omeiwu	O
 nke	O
 imo	B-LOC
 steeti	I-LOC
-
 
 ekechi	B-PER
 
@@ -41954,7 +41139,6 @@ ochichi	O
 govano	O
 nafo	O
 2019	B-DATE
-
 
 bbc	O
 igbo	O
@@ -42012,10 +41196,8 @@ nke	I-DATE
 onwa	I-DATE
 mee	I-DATE
 
-
 uloogwu	B-ORG
 orthopedic	I-ORG
-
 
 enugwu	B-LOC
 
@@ -42047,7 +41229,6 @@ ma	O
 o	O
 bu	O
 atika	B-PER
-
 
 muhamadu	B-PER
 buhari	I-PER
@@ -42120,7 +41301,6 @@ buhari	B-PER
 na	O
 atiku	B-PER
 
-
 2019	B-DATE
 
 ndi	O
@@ -42155,7 +41335,6 @@ n	O
 ubochi	B-DATE
 monde	I-DATE
 
-
 atiku	B-PER
 abubakar	I-PER
 
@@ -42166,7 +41345,6 @@ onyeisiala	O
 bu	O
 garba	B-PER
 shehu	I-PER
-
 
 shehu	B-PER
 
@@ -42190,7 +41368,6 @@ onweghi	O
 ihe	O
 atiku	B-PER
 abubakar	I-PER
-
 
 bob	B-PER
 
@@ -42244,7 +41421,6 @@ nwere	O
 mkparitauka	O
 n	O
 enugwu	B-LOC
-
 
 odogwu	B-PER
 
@@ -42420,7 +41596,6 @@ di	O
 n	O
 enugwu	B-LOC
 
-
 taa	B-DATE
 
 ihe	O
@@ -42432,7 +41607,6 @@ kwuru	O
 maka	O
 umuaka	O
 taa	B-DATE
-
 
 buhari	B-PER
 
@@ -42503,7 +41677,6 @@ bu	O
 miracle	B-PER
 ikechukwu	I-PER
 
-
 oluyemi	B-PER
 fasipe	I-PER
 
@@ -42545,7 +41718,6 @@ di	O
 afo	B-DATE
 9	I-DATE
 
-
 osinachi	B-PER
 
 ji	O
@@ -42581,7 +41753,6 @@ ipob	O
 nabatara	O
 buhari	B-PER
 
-
 2019	B-DATE
 
 ndigbo	O
@@ -42605,12 +41776,10 @@ enyela	O
 maazi	O
 gassama	B-PER
 
-
 gassama	B-PER
 
 na	O
 macron	B-PER
-
 
 gassama	B-PER
 
@@ -42663,7 +41832,6 @@ a	O
 kporo	O
 mamoudu	B-PER
 gassama	I-PER
-
 
 france	B-LOC
 
@@ -42820,7 +41988,6 @@ mkpa	O
 mere	O
 taa	B-DATE
 
-
 serena	B-PER
 williams	I-PER
 
@@ -42845,7 +42012,6 @@ anoghi	O
 nogbako	O
 apc	B-ORG
 
-
 owelle	B-PER
 rochas	I-PER
 
@@ -42862,9 +42028,7 @@ apc	B-ORG
 n	O
 abuja	B-LOC
 
-
 unyahu	B-DATE
-
 
 owelle	B-PER
 
@@ -42884,7 +42048,6 @@ ahu	O
 na	O
 owuwa	B-LOC
 anyanwu	I-LOC
-
 
 boko	B-ORG
 haram	I-ORG
@@ -42921,7 +42084,6 @@ ndi	O
 agha	O
 naijiria	O
 ise	O
-
 
 texas	B-PER
 chukwu	I-PER
@@ -42994,7 +42156,6 @@ naaka	O
 mba	O
 eu	B-ORG
 
-
 canada	B-LOC
 
 na	O
@@ -43049,7 +42210,6 @@ apc	B-ORG
 gbakoro	O
 n	O
 abuja	B-LOC
-
 
 owele	B-PER
 rochas	I-PER
@@ -43160,7 +42320,6 @@ owuwa	B-LOC
 anyanwu	I-LOC
 naijiria	I-LOC
 
-
 bbc	O
 igbo	O
 
@@ -43187,10 +42346,8 @@ gunyere	O
 ken	B-PER
 nnamani	I-PER
 
-
 jim	B-PER
 nwobodo	I-PER
-
 
 orji	B-PER
 kalu	I-PER
@@ -43355,10 +42512,8 @@ onye	O
 oru	O
 bbc	B-ORG
 
-
 peter	B-PER
 okwoche	I-PER
-
 
 bbc	O
 igbo	O
@@ -43376,7 +42531,6 @@ naahu	O
 na	O
 naijiria	B-LOC
 
-
 nnabuihe	B-PER
 
 akuko	O
@@ -43384,13 +42538,11 @@ di	O
 mkpa	O
 taa	B-DATE
 
-
 china	B-LOC
 
 choro	O
 inye	O
 naijiria	B-LOC
-
 
 60b	O
 
@@ -43406,12 +42558,9 @@ shekarau	O
 gbababuru	O
 pdp	B-ORG
 
-
 salisu	B-PER
 
-
 yusuf	B-PER
-
 
 n	O
 
@@ -43427,10 +42576,8 @@ cheta	O
 na	O
 bbc	B-ORG
 
-
 salisu	B-PER
 yusuf	I-PER
-
 
 salisu	B-PER
 yusuf	I-PER
@@ -43464,7 +42611,6 @@ nff	O
 dara	O
 salisu	B-PER
 yusuf	I-PER
-
 
 nff	B-ORG
 
@@ -43544,7 +42690,6 @@ boolu	O
 salisu	B-PER
 yusuf	I-PER
 
-
 nff	B-ORG
 
 kwuru	O
@@ -43611,7 +42756,6 @@ tupu	O
 onwa	B-DATE
 ato	I-DATE
 
-
 colins	B-PER
 udoh	I-PER
 
@@ -43629,13 +42773,11 @@ a	O
 na	O
 twitter	B-ORG
 
-
 china	B-LOC
 
 choro	O
 inye	O
 naijiria	B-LOC
-
 
 60b	O
 
@@ -43680,7 +42822,6 @@ naijiria	B-LOC
 na	O
 china	B-LOC
 
-
 umu	O
 naijiria	O
 
@@ -43714,7 +42855,6 @@ ahu	O
 n'izuuka	B-DATE
 a	I-DATE
 
-
 buhari	B-PER
 
 gara	O
@@ -43732,14 +42872,12 @@ a	O
 kporo	O
 2018	B-DATE
 
-
 china	O
 beijing	O
 summit	O
 of	O
 the	O
 forum	O
-
 
 buhari	B-PER
 
@@ -43766,7 +42904,6 @@ na	O
 ebube	O
 naagwa	O
 buhari	B-PER
-
 
 idama	B-PER
 
@@ -43810,7 +42947,6 @@ kwuru	O
 na	O
 ugwo	O
 naijiria	B-LOC
-
 
 abrahama	B-PER
 
@@ -43998,7 +43134,6 @@ electricity	I-ORG
 distribution	I-ORG
 company	I-ORG
 
-
 eedc	B-ORG
 
 nokwu	O
@@ -44022,7 +43157,6 @@ buhari	B-PER
 
 nafo	O
 2019	B-DATE
-
 
 bbc	O
 igbo	O
@@ -44272,7 +43406,6 @@ niile	O
 ochichi	O
 apc	B-ORG
 
-
 apc	B-ORG
 
 ruturu	O
@@ -44308,7 +43441,6 @@ na	O
 ulooru	O
 abuo	O
 
-
 beverly	B-PER
 osu	I-PER
 
@@ -44321,7 +43453,6 @@ uwe	O
 ndi	O
 katolik	O
 
-
 george	B-PER
 weah	I-PER
 
@@ -44330,7 +43461,6 @@ bu	O
 charles	B-PER
 ogbu	I-PER
 
-
 cristiano	B-PER
 ronaldo	I-PER
 
@@ -44338,7 +43468,6 @@ akpawala	O
 ike	O
 na	O
 juventus	B-ORG
-
 
 cristiano	B-PER
 ronaldo	I-PER
@@ -44357,10 +43486,8 @@ ya	O
 bu	O
 juventus	B-ORG
 
-
 cristiano	B-PER
 ronaldo	I-PER
-
 
 juventus	B-ORG
 
@@ -44370,7 +43497,6 @@ paund	O
 992	O
 zuta	O
 ronaldo	B-PER
-
 
 nwa	O
 potugaal	O
@@ -44435,7 +43561,6 @@ abuo	O
 a	O
 satara	O
 otu	O
-
 
 ronaldo	B-PER
 
@@ -44569,7 +43694,6 @@ aga	O
 gunyere	O
 15	O
 
-
 juventus	B-ORG
 
 ihe	O
@@ -44606,7 +43730,6 @@ naka	O
 jessica	B-PER
 nwankwo	I-PER
 
-
 chimamanda	B-PER
 adichie	I-PER
 
@@ -44623,7 +43746,6 @@ obula	O
 chimamanda	B-PER
 ngozi	I-PER
 adichie	I-PER
-
 
 bbc	B-ORG
 
@@ -44669,13 +43791,11 @@ emere	O
 na	O
 ikoyi	B-LOC
 
-
 ubochi	B-DATE
 24	I-DATE
 nke	I-DATE
 onwa	I-DATE
 septemba	I-DATE
-
 
 chimamanda	B-PER
 
@@ -44899,13 +44019,10 @@ naakwado	O
 atiku	B-PER
 abubakar	I-PER
 
-
 garba	B-PER
-
 
 umu	O
 naijiria	O
-
 
 umu	O
 naijiria	O
@@ -44916,7 +44033,6 @@ obi	O
 na	O
 ebe	O
 buhari	B-PER
-
 
 shehu	B-PER
 
@@ -44963,13 +44079,10 @@ cheta	O
 na	O
 obasanjo	B-PER
 
-
 atiku	B-PER
-
 
 bishop	B-PER
 oyedepo	I-PER
-
 
 bishop	B-PER
 kuka	I-PER
@@ -44983,7 +44096,6 @@ mkparita	O
 uka	O
 na	O
 abeokuta	B-LOC
-
 
 ogun	B-LOC
 
@@ -45015,7 +44127,6 @@ ha	O
 mere	O
 taa	B-DATE
 
-
 obasanjo	B-PER
 
 atiku	O
@@ -45045,10 +44156,8 @@ steeti	O
 bu	O
 otunba	B-PER
 
-
 gbenga	B-PER
 daniels	I-PER
-
 
 uche	B-PER
 secondus	I-PER
@@ -45118,7 +44227,6 @@ atiku	O
 kelere	O
 bishop	B-PER
 oyedepo	I-PER
-
 
 apc	B-ORG
 
@@ -45209,7 +44317,6 @@ okwa	O
 govano	O
 n	O
 apc	B-ORG
-
 
 imo	B-LOC
 steeti	I-LOC
@@ -45308,7 +44415,6 @@ kpaara	O
 mohammed	B-PER
 dewji	I-PER
 
-
 n'isi	B-DATE
 ututu	I-DATE
 a	I-DATE
@@ -45337,7 +44443,6 @@ itoolu	I-DATE
 na	I-DATE
 ano	I-DATE
 
-
 ellis	B-PER
 
 si	O
@@ -45365,10 +44470,8 @@ nkiri	O
 nke	O
 taa	B-DATE
 
-
 cristiano	B-PER
 ronald	I-PER
-
 
 cristiano	B-PER
 ronaldo	I-PER
@@ -45426,7 +44529,6 @@ bu	O
 baseey	B-PER
 akpan	I-PER
 
-
 muhammadu	B-PER
 buhari	I-PER
 
@@ -45469,7 +44571,6 @@ akpaala	O
 mkpamkpa	O
 n	O
 us	B-LOC
-
 
 hurrican	B-PER
 michael	I-PER
@@ -45515,7 +44616,6 @@ nkiri	O
 nke	O
 taa	B-DATE
 
-
 pdp	B-ORG
 
 aputala	O
@@ -45559,7 +44659,6 @@ naekwuchitere	O
 otu	O
 pdp	B-ORG
 
-
 diran	B-PER
 odeyemi	I-PER
 
@@ -45582,7 +44681,6 @@ owuwa	O
 anyanwu	O
 ka	O
 atiku	B-PER
-
 
 apc	B-ORG
 
@@ -45737,7 +44835,6 @@ kachasi	O
 n'abali	B-DATE
 a	I-DATE
 
-
 atiku	B-PER
 
 dika	O
@@ -45810,7 +44907,6 @@ bu	O
 gerald	B-PER
 okpara	I-PER
 
-
 apc	B-ORG
 
 eboola	O
@@ -45830,13 +44926,11 @@ nigeria	O
 vs	O
 libya	B-LOC
 
-
 super	B-ORG
 eagles	I-ORG
 
 agwoola	O
 libya	B-LOC
-
 
 amaju	B-PER
 pinnick	I-PER
@@ -45871,7 +44965,6 @@ bu	O
 'national	B-ORG
 interest	I-ORG
 party	I-ORG
-
 
 nip	B-ORG
 
@@ -45908,7 +45001,6 @@ mass	B-ORG
 action	I-ORG
 joint	I-ORG
 alliance	I-ORG
-
 
 maja	B-ORG
 
@@ -45975,7 +45067,6 @@ pati	O
 national	B-ORG
 action	I-ORG
 council	I-ORG
-
 
 nac	B-ORG
 
@@ -46095,10 +45186,8 @@ kwesiri	O
 ime	O
 taa	B-DATE
 
-
 nigeria	B-ORG
 elections	I-ORG
-
 
 2019	B-DATE
 
@@ -46110,7 +45199,6 @@ buhari	B-PER
 pdp	O
 na	O
 apc	B-ORG
-
 
 apc	B-ORG
 
@@ -46151,7 +45239,6 @@ jiri	O
 mee	O
 ka	O
 inec	B-ORG
-
 
 uche	B-PER
 secondus	I-PER
@@ -46214,17 +45301,14 @@ ubochi	B-DATE
 nke	I-DATE
 maachi	I-DATE
 
-
 tosin	B-PER
 olugbenga	I-PER
 
 naakpo	O
 nysc	B-ORG
 
-
 bashir	B-PER
 ahmad	I-PER
-
 
 canada	B-LOC
 
@@ -46250,7 +45334,6 @@ ha	O
 choro	O
 igbaga	O
 canada	B-LOC
-
 
 canada	B-LOC
 
@@ -46316,7 +45399,6 @@ ndi	O
 otu	O
 rochas	B-PER
 
-
 ibeawuchi	B-PER
 izuchukwu	I-PER
 
@@ -46344,7 +45426,6 @@ na	O
 govano	O
 okorocha	B-PER
 
-
 bbc	O
 igbo	O
 
@@ -46352,7 +45433,6 @@ gbara	O
 onye	O
 oru	O
 rochas	B-PER
-
 
 ebere	B-PER
 nzewuji	I-PER
@@ -46446,7 +45526,6 @@ oshodi	B-LOC
 na	O
 okota	B-LOC
 
-
 legos	B-LOC
 
 udo	O
@@ -46510,7 +45589,6 @@ pati	O
 ahu	O
 na	O
 legos	B-LOC
-
 
 igbokwe	B-PER
 
@@ -46606,10 +45684,8 @@ bi	O
 na	O
 legos	B-LOC
 
-
 leicester	B-LOC
 city	I-LOC
-
 
 brendan	B-PER
 rogers	I-PER
@@ -46631,10 +45707,8 @@ mmeri	O
 muhammadu	B-PER
 buhari	I-PER
 
-
 brendan	B-PER
 rogers	I-PER
-
 
 leicester	B-LOC
 city	I-LOC
@@ -46686,7 +45760,6 @@ afo	I-DATE
 n	O
 arsenal	B-ORG
 
-
 liverpool	B-ORG
 
 na	O
@@ -46699,7 +45772,6 @@ nchikota	O
 ndi	O
 leicester	B-LOC
 city	I-LOC
-
 
 leicester	B-LOC
 city	I-LOC
@@ -46782,7 +45854,6 @@ aloghachila	O
 ichi	O
 naijiria	B-LOC
 
-
 afo	B-DATE
 ano	I-DATE
 ozo	I-DATE
@@ -46825,7 +45896,6 @@ a	O
 presidential	O
 election	O
 2019	B-DATE
-
 
 buhari	B-PER
 
@@ -46897,7 +45967,6 @@ indoneshia	B-LOC
 goolu	O
 abuo	O
 
-
 angel	B-PER
 di	I-PER
 maria	I-PER
@@ -46929,7 +45998,6 @@ gere	O
 akuko	O
 bbc	B-ORG
 
-
 n'otu	B-DATE
 nkeji	I-DATE
 
@@ -46956,9 +46024,7 @@ ga	O
 mba	O
 briten	B-LOC
 
-
 amerika	B-LOC
-
 
 christmas	B-DATE
 
@@ -46970,7 +46036,6 @@ canada	B-LOC
 ugbua	O
 mba	O
 briten	B-LOC
-
 
 amerika	B-LOC
 
@@ -46996,7 +46061,6 @@ tupu	O
 i	O
 hapu	O
 naijiria	B-LOC
-
 
 anne	B-PER
 ifedigbo	I-PER
@@ -47049,14 +46113,11 @@ buru	O
 na	O
 london	B-LOC
 
-
 osimiri	B-LOC
 thames	I-LOC
 
-
 nu	B-LOC
 yok	I-LOC
-
 
 liberty	O
 statue	O
@@ -47079,7 +46140,6 @@ charles	B-PER
 na	O
 briten	B-LOC
 
-
 sentralu	B-LOC
 london	I-LOC
 
@@ -47096,7 +46156,6 @@ dika	O
 tom	B-PER
 hilger	I-PER
 
-
 tezeni	B-PER
 
 woolrich	O
@@ -47108,7 +46167,6 @@ imo	O
 state	O
 election	B-DATE
 2019	I-DATE
-
 
 uche	B-PER
 nwosu	I-PER
@@ -47149,7 +46207,6 @@ a	O
 gaeme	O
 nubochi	O
 satode	B-DATE
-
 
 uche	B-PER
 nwosu	I-PER
@@ -47200,9 +46257,7 @@ di	O
 mkpa	O
 taa	B-DATE
 
-
 nwosu	B-PER
-
 
 jones	B-PER
 
@@ -47251,7 +46306,6 @@ enugu	O
 na	O
 ebonyi	B-LOC
 
-
 manchester	B-LOC
 city	I-LOC
 
@@ -47264,7 +46318,6 @@ imo	B-LOC
 
 na	O
 abia	B-LOC
-
 
 election	B-DATE
 2019	I-DATE
@@ -47404,7 +46457,6 @@ ka	O
 inec	O
 ebonyi	B-LOC
 
-
 uche	B-PER
 nwosu	I-PER
 
@@ -47519,7 +46571,6 @@ di	O
 n	O
 abulado	B-LOC
 
-
 sochimaoge	B-PER
 madubo	I-PER
 
@@ -47549,7 +46600,6 @@ okwa	O
 govano	O
 na	O
 satode	B-DATE
-
 
 election	B-DATE
 2019	I-DATE
@@ -47656,7 +46706,6 @@ si	O
 notu	O
 pdp	B-ORG
 
-
 rotimi	B-PER
 amaechi	I-PER
 
@@ -47723,7 +46772,6 @@ nokpuru	O
 otu	O
 apc	B-ORG
 
-
 rochas	B-PER
 okorocha	I-PER
 
@@ -47757,7 +46805,6 @@ gbafee	O
 n	O
 apc	B-ORG
 
-
 chris	B-PER
 ngige	I-PER
 
@@ -47772,7 +46819,6 @@ govano	O
 nokpuru	O
 pdp	B-ORG
 
-
 n'afo	B-DATE
 2003	I-DATE
 ruo	I-DATE
@@ -47785,7 +46831,6 @@ minista	O
 naahu	O
 maka	O
 oru	B-ORG
-
 
 godswill	B-PER
 akpabio	I-PER
@@ -47813,7 +46858,6 @@ sineto	O
 nokpuru	O
 apc	B-ORG
 
-
 nasir	B-PER
 el	I-PER
 rufai	I-PER
@@ -47837,7 +46881,6 @@ aka	O
 naachi	O
 kaduna	B-LOC
 
-
 umar	B-PER
 ganduje	I-PER
 
@@ -47858,7 +46901,6 @@ steeti	O
 ahu	O
 nokpuru	O
 apc	B-ORG
-
 
 audu	B-PER
 ogbeh	I-PER
@@ -47888,7 +46930,6 @@ oru	O
 ugbo	O
 nala	O
 naijiria	B-LOC
-
 
 udoma	B-PER
 udo	I-PER
@@ -47924,7 +46965,6 @@ ihe	O
 na	O
 naijiria	B-LOC
 
-
 heineken	B-PER
 lokpobiri	I-PER
 
@@ -47944,39 +46984,30 @@ rue	O
 nokpuru	O
 pdp	B-ORG
 
-
 solomon	B-PER
 lalong	I-PER
-
 
 bello	B-PER
 masari	I-PER
 
-
 abiola	B-PER
 ajimobi	I-PER
 
-
 isa	B-PER
 yuguda	I-PER
-
 
 ali	B-PER
 modu	I-PER
 sheriff	I-PER
 
-
 ita	B-PER
 enang	I-PER
-
 
 kashim	B-PER
 shettima	I-PER
 
-
 aliyu	B-PER
 wamakko	I-PER
-
 
 mcginger	B-PER
 
@@ -48094,7 +47125,6 @@ na	O
 south	B-LOC
 africa	I-LOC
 
-
 south	B-LOC
 africa	I-LOC
 
@@ -48136,7 +47166,6 @@ lome	B-LOC
 isiobodo	O
 togo	B-LOC
 
-
 bbc	O
 igbo	O
 
@@ -48162,9 +47191,7 @@ di	O
 na	O
 lome	B-LOC
 
-
 togo	B-LOC
-
 
 otu	O
 
@@ -48236,7 +47263,6 @@ na	O
 mba	O
 togo	B-LOC
 
-
 lagos	B-LOC
 
 o	O
@@ -48289,7 +47315,6 @@ na	O
 steeti	B-LOC
 legos	I-LOC
 
-
 abali	B-DATE
 ano	I-DATE
 gara	I-DATE
@@ -48315,7 +47340,6 @@ apapa	B-LOC
 na	O
 legos	B-LOC
 
-
 otedola	B-PER
 
 ereela	O
@@ -48339,7 +47363,6 @@ ama	O
 dika	O
 forte	B-ORG
 oil	I-ORG
-
 
 otedola	B-PER
 
@@ -48428,7 +47451,6 @@ lome	B-LOC
 isiobodo	O
 togo	B-LOC
 
-
 naijiria	B-LOC
 
 argentina	O
@@ -48448,7 +47470,6 @@ n'ubochi	B-DATE
 fraide	I-DATE
 izu	I-DATE
 a	I-DATE
-
 
 victor	B-PER
 moses	I-PER
@@ -48494,7 +47515,6 @@ irī	O
 nwatakiri	O
 nobodo	O
 umuna	B-LOC
-
 
 queen	B-PER
 imoh	I-PER
@@ -48612,7 +47632,6 @@ di	O
 otu	B-DATE
 afo	I-DATE
 
-
 godson	B-PER
 ikeokwu	I-PER
 
@@ -48661,7 +47680,6 @@ na	O
 mba	B-LOC
 amerika	I-LOC
 
-
 2018	B-DATE
 
 asompi	O
@@ -48685,7 +47703,6 @@ naijiria	B-LOC
 amalitela	O
 n	O
 onicha	B-LOC
-
 
 anambra	B-LOC
 steeti	I-LOC
@@ -48730,7 +47747,6 @@ nkwado	O
 ndi	O
 united	B-ORG
 nations	I-ORG
-
 
 uche	B-PER
 onwuamaegbu	I-PER
@@ -48833,7 +47849,6 @@ abakaliki	O
 ebonyi	B-LOC
 steeti	I-LOC
 
-
 uche	B-PER
 onwuamaegbu	I-PER
 ugwu	I-PER
@@ -48864,10 +47879,8 @@ minsiter	O
 nke	O
 britain	B-LOC
 
-
 boris	B-PER
 johnson	I-PER
-
 
 jeremy	B-PER
 hunt	I-PER
@@ -48994,7 +48007,6 @@ vote	O
 merie	O
 jeremy	B-PER
 hunt	I-PER
-
 
 michael	B-PER
 gover	I-PER
@@ -49125,7 +48137,6 @@ nigeria	O
 vs	O
 norway	B-LOC
 
-
 norway	B-LOC
 
 akpochuola	O
@@ -49198,7 +48209,6 @@ si	O
 kowara	O
 bbc	B-ORG
 igbo	I-ORG
-
 
 amaraizu	B-PER
 
@@ -49396,7 +48406,6 @@ iko	O
 mba	O
 afrika	O
 
-
 mele	B-PER
 kolo	I-PER
 kyari	I-PER
@@ -49416,7 +48425,6 @@ kyari	I-PER
 dika	O
 onyeisi	O
 nnpc	B-ORG
-
 
 kyari	B-PER
 
@@ -49459,7 +48467,6 @@ of	O
 petroleum	O
 exporting	O
 countries	O
-
 
 opec	B-ORG
 
@@ -49690,7 +48697,6 @@ najiria	O
 na	O
 ghana	B-LOC
 
-
 super	B-ORG
 falcons	I-ORG
 
@@ -49706,7 +48712,6 @@ nke	O
 bu	O
 ugboro	O
 abuo	O
-
 
 super	B-ORG
 falcons	I-ORG
@@ -49893,7 +48898,6 @@ bbc	B-ORG
 afcon	O
 2019	B-DATE
 
-
 ghana	B-LOC
 
 arrests	O
@@ -49933,10 +48937,8 @@ ka	O
 nke	O
 ghana	B-LOC
 
-
 austin	B-PER
 nwagbara	I-PER
-
 
 austin	B-PER
 nwagbara	I-PER
@@ -50138,7 +49140,6 @@ kainji	B-LOC
 netiti	O
 naijiria	B-LOC
 
-
 boko	B-ORG
 haram	I-ORG
 
@@ -50159,7 +49160,6 @@ nde	O
 na	O
 mpaghara	O
 naijiria	B-LOC
-
 
 chad	B-LOC
 
@@ -50295,7 +49295,6 @@ na	O
 mpaghara	O
 naijiria	B-LOC
 
-
 chad	B-LOC
 
 i	O
@@ -50321,7 +49320,6 @@ anwuola	O
 n	O
 amerika	B-LOC
 
-
 otu	O
 
 onye	O
@@ -50345,7 +49343,6 @@ ebe	B-DATE
 elekere	I-DATE
 abuo	I-DATE
 n'ehihe	I-DATE
-
 
 unyaahu	B-DATE
 
@@ -50403,7 +49400,6 @@ mgbede	B-DATE
 anwuchiri	O
 cruz	B-PER
 
-
 otu	O
 
 onye	O
@@ -50428,7 +49424,6 @@ ugboro	O
 iri	O
 na	O
 asato	O
-
 
 naptip	B-ORG
 
@@ -50477,7 +49472,6 @@ aha	O
 ichafu	O
 anuchiela	O
 otu	O
-
 
 naptip	B-ORG
 
@@ -50597,7 +49591,6 @@ naijiria	B-LOC
 
 elekshion	O
 us	B-LOC
-
 
 2016	B-DATE
 
@@ -50845,9 +49838,7 @@ na	O
 chimezie	B-PER
 ucheagbo	I-PER
 
-
 edochie	B-PER
-
 
 edochie	B-PER
 
@@ -50861,7 +49852,6 @@ igbo	O
 ya	O
 mere	O
 bbc	B-ORG
-
 
 pete	B-PER
 edochie	I-PER
@@ -50900,7 +49890,6 @@ anyi	O
 na	O
 pete	B-PER
 edochie	I-PER
-
 
 wole	B-PER
 soyinka	I-PER
@@ -50956,7 +49945,6 @@ ndi	O
 ntaakuko	O
 bbc	B-ORG
 
-
 buhari	B-PER
 
 kedu	O
@@ -50980,7 +49968,6 @@ nokwu	O
 ka	O
 chuoro	O
 naijiria	B-LOC
-
 
 muhammadu	B-PER
 buhari	I-PER
@@ -51012,7 +49999,6 @@ aka	O
 mee	O
 ka	O
 naijiria	B-LOC
-
 
 buhari	B-PER
 
@@ -51052,9 +50038,7 @@ nwunye	O
 nnamdi	B-PER
 kanu	I-PER
 
-
 iceland	B-LOC
-
 
 buhari	B-PER
 
@@ -51109,7 +50093,6 @@ nwunye	O
 nnamdi	B-PER
 kanu	I-PER
 
-
 uchechi	B-PER
 kanu	I-PER
 
@@ -51121,7 +50104,6 @@ bu	O
 onyeisi	O
 ndi	O
 ipob	B-ORG
-
 
 uchechi	B-PER
 kanu	I-PER
@@ -51379,7 +50361,6 @@ di	O
 ya	O
 ipob	B-ORG
 
-
 uchechi	B-PER
 kanu	I-PER
 
@@ -51387,10 +50368,8 @@ na	O
 nnamdi	B-PER
 kanu	I-PER
 
-
 uchechi	B-PER
 kanu	I-PER
-
 
 nnamdi	B-PER
 kanu	I-PER
@@ -51571,7 +50550,6 @@ mkpuru	B-DATE
 ubochi	I-DATE
 isii	I-DATE
 
-
 leicester	B-LOC
 city	I-LOC
 
@@ -51587,7 +50565,6 @@ na	O
 ngwucha	B-DATE
 izuuka	I-DATE
 a	I-DATE
-
 
 kelechi	B-PER
 iheanacho	I-PER
@@ -51625,7 +50602,6 @@ na	O
 stoke	B-LOC
 city	I-LOC
 
-
 newcastle	B-LOC
 
 na	O
@@ -51648,12 +50624,10 @@ watford	B-ORG
 na	O
 everton	B-ORG
 
-
 google	B-ORG
 
 ekpupurula	O
 keshi	B-PER
-
 
 oliseh	O
 
@@ -51681,13 +50655,11 @@ negwuregwu	O
 nke	O
 unyaahu	B-DATE
 
-
 ostersunds	B-ORG
 fk	I-ORG
 
 meriri	O
 arsenal	B-ORG
-
 
 arsene	B-PER
 wenger	I-PER
@@ -51709,13 +50681,11 @@ izuuka	B-DATE
 gara	I-DATE
 aga	I-DATE
 
-
 newcastle	B-LOC
 
 na	O
 afc	O
 bournemouth	B-ORG
-
 
 newcastle	B-LOC
 
@@ -51753,12 +50723,10 @@ ga	O
 uzo	O
 abuo	O
 
-
 bournemouth	B-ORG
 
 na	O
 newscastle	B-LOC
-
 
 stehen	B-PER
 mbonu	I-PER
@@ -51780,7 +50748,6 @@ west	B-ORG
 ham	I-ORG
 united	I-ORG
 
-
 stephen	B-PER
 
 nwere	O
@@ -51790,7 +50757,6 @@ ndi	O
 egwuregwu	O
 mohamed	B-PER
 sala	I-PER
-
 
 sadio	B-PER
 mane	I-PER
@@ -51992,7 +50958,6 @@ nime	O
 ohia	O
 sambisa	B-LOC
 
-
 konel	B-PER
 nwachukwu	I-PER
 
@@ -52002,7 +50967,6 @@ ndi	O
 agha	O
 naijiria	O
 abuo	O
-
 
 nwachukwu	B-PER
 
@@ -52032,7 +50996,6 @@ ogbunigwe	O
 ndi	O
 boko	B-ORG
 haram	I-ORG
-
 
 konel	B-PER
 nwachukwu	I-PER
@@ -52092,7 +51055,6 @@ nari	O
 na	O
 ise	O
 
-
 lai	B-PER
 mohammed	I-PER
 
@@ -52124,13 +51086,11 @@ naefu	O
 na	O
 dapchi	B-LOC
 
-
 yobe	B-LOC
 
 umu	O
 akwukwo	O
 dapchi	B-LOC
-
 
 lai	B-PER
 mohammed	I-PER
@@ -52152,7 +51112,6 @@ college	O
 di	O
 na	O
 dapchi	B-LOC
-
 
 yobe	B-LOC
 
@@ -52233,7 +51192,6 @@ naefu	O
 na	O
 dapchi	B-LOC
 
-
 mohammed	B-PER
 
 kwuputara	O
@@ -52270,7 +51228,6 @@ nwere	O
 na	O
 damaturu	B-LOC
 
-
 taa	B-DATE
 
 o	O
@@ -52298,7 +51255,6 @@ ya	O
 na	O
 umuakwukwo	O
 906	O
-
 
 ipob	B-ORG
 
@@ -52436,7 +51392,6 @@ icheiche	O
 nala	O
 naijiria	B-LOC
 
-
 nnamdi	B-PER
 kanu	I-PER
 
@@ -52549,7 +51504,6 @@ maka	O
 otu	O
 ipob	B-ORG
 
-
 bbc	B-ORG
 
 ukwu	O
@@ -52564,7 +51518,6 @@ stgermain	O
 na	O
 real	B-ORG
 madrid	I-ORG
-
 
 neymar	B-PER
 da	I-PER
@@ -52582,7 +51535,6 @@ neymar	B-PER
 
 nafo	O
 2017	B-DATE
-
 
 neymar	B-PER
 da	I-PER
@@ -52624,7 +51576,6 @@ stgermain	O
 na	O
 marseille	B-LOC
 
-
 nff	B-ORG
 
 oliseh	O
@@ -52637,7 +51588,6 @@ dokinta	O
 ekwubeghi	O
 oge	O
 neymar	B-PER
-
 
 neymar	B-PER
 
@@ -52742,7 +51692,6 @@ n'izuuka	B-DATE
 gara	I-DATE
 aga	I-DATE
 
-
 eu	B-ORG
 
 ndi	O
@@ -52813,7 +51762,6 @@ ogbaghara	O
 gaada	O
 na	O
 2019	B-DATE
-
 
 kukah	B-PER
 
@@ -52988,7 +51936,6 @@ germany	O
 na	O
 2011	B-DATE
 
-
 france	B-LOC
 
 bidoro	O
@@ -53080,7 +52027,6 @@ ezumike	O
 nkeji	O
 54	O
 
-
 desire	B-PER
 oparanozie	I-PER
 
@@ -53153,7 +52099,6 @@ nke	O
 mezuru	O
 ya	O
 asato	O
-
 
 ghana	B-LOC
 
@@ -53283,7 +52228,6 @@ mechara	O
 na	O
 satode	B-DATE
 
-
 ghana	B-LOC
 
 naeme	O
@@ -53332,7 +52276,6 @@ bu	O
 n'onwa	B-DATE
 disemba	I-DATE
 
-
 nnia	B-PER
 nwodo	I-PER
 
@@ -53355,10 +52298,8 @@ bu	O
 joe	B-PER
 achuzia	I-PER
 
-
 joe	B-PER
 achuzia	I-PER
-
 
 joe	B-PER
 achuzia	I-PER
@@ -53397,7 +52338,6 @@ bu	O
 joe	B-PER
 achuzia	I-PER
 
-
 nnia	B-PER
 nwodo	I-PER
 
@@ -53430,7 +52370,6 @@ achuzia	B-PER
 nasaba	O
 unyaahu	B-DATE
 
-
 joe	B-PER
 achuzia	I-PER
 
@@ -53439,7 +52378,6 @@ akwamozu	O
 konel	B-PER
 joe	I-PER
 achuzia	I-PER
-
 
 nwodo	B-PER
 
@@ -53460,7 +52398,6 @@ ugwu	O
 dinyere	O
 achuzia	B-PER
 
-
 obiano	B-PER
 
 gaeme	O
@@ -53475,7 +52412,6 @@ buhari	B-PER
 gaenye	O
 anyi	O
 biafra	B-LOC
-
 
 taa	B-DATE
 
@@ -53499,7 +52435,6 @@ ozo	O
 mba	O
 amerika	B-LOC
 
-
 uk	B-LOC
 
 akuko	O
@@ -53508,7 +52443,6 @@ kachasi	O
 mkpa	O
 mere	O
 taa	B-DATE
-
 
 taa	B-DATE
 
@@ -53519,7 +52453,6 @@ ano	I-DATE
 
 nubochi	O
 taa	B-DATE
-
 
 naijiria	B-LOC
 
@@ -53601,7 +52534,6 @@ afara	B-LOC
 ukwu	I-LOC
 ibeku	I-LOC
 
-
 abia	B-LOC
 
 praim	O
@@ -53609,7 +52541,6 @@ minista	O
 odinala	O
 nke	O
 umuobasi	B-LOC
-
 
 isiama	B-LOC
 afara	I-LOC
@@ -53633,7 +52564,6 @@ ha	O
 bu	O
 isreal	O
 
-
 okwu	B-PER
 kanu	I-PER
 
@@ -53655,9 +52585,7 @@ obieze	B-PER
 eze	O
 isreal	O
 
-
 okwu	B-PER
-
 
 kanu	B-PER
 
@@ -53688,12 +52616,10 @@ commonwealth	B-ORG
 mba	O
 amerika	B-LOC
 
-
 uk	B-LOC
 
 mba	O
 amerika	B-LOC
-
 
 united	B-LOC
 kingdom	I-LOC
@@ -53732,7 +52658,6 @@ nwetarala	O
 negwuregwu	O
 commonwealth	B-ORG
 
-
 naijiria	B-LOC
 
 bu	O
@@ -53751,7 +52676,6 @@ agupu	O
 mba	O
 saut	B-LOC
 afrika	I-LOC
-
 
 umu	O
 naijiria	O
@@ -53904,7 +52828,6 @@ west	I-LOC
 nke	O
 enugwu	B-LOC
 
-
 oruola	B-DATE
 afo	I-DATE
 ano	I-DATE
@@ -53912,9 +52835,7 @@ ano	I-DATE
 mba	O
 amerika	B-LOC
 
-
 uk	B-LOC
-
 
 donald	B-PER
 trump	I-PER
@@ -53979,7 +52900,6 @@ umu	O
 afo	O
 naijiria	O
 
-
 buhari	B-PER
 
 onyeisiala	O
@@ -53988,9 +52908,7 @@ bu	O
 muhammadu	B-PER
 buhari	I-PER
 
-
 buhari	B-PER
-
 
 muhammadu	B-PER
 buhari	I-PER
@@ -54016,7 +52934,6 @@ naijiria	O
 bu	O
 muhammadu	B-PER
 buhari	I-PER
-
 
 adesina	B-PER
 
@@ -54046,7 +52963,6 @@ a	O
 kporo	O
 buhari	B-PER
 
-
 diaspora	B-ORG
 support	I-ORG
 organization'	I-ORG
@@ -54061,7 +52977,6 @@ bu	O
 charles	B-PER
 efe	I-PER
 sylvester	I-PER
-
 
 buhari	B-PER
 
@@ -54102,7 +53017,6 @@ votu	O
 nafo	O
 2015	B-DATE
 
-
 buhari	B-PER
 
 aga	O
@@ -54118,7 +53032,6 @@ obasanjo	B-PER
 
 degara	O
 buhari	B-PER
-
 
 bbc	B-ORG
 
@@ -54223,7 +53136,6 @@ nwoke	O
 bu	O
 yusuf	B-PER
 
-
 otu	O
 
 nri	O
@@ -54249,27 +53161,19 @@ oyo	O
 osun	O
 ogun	B-LOC
 
-
 ebonyi	B-LOC
-
 
 zamfara	B-LOC
 
-
 delta	B-LOC
-
 
 abia	B-LOC
 
-
 benue	B-LOC
-
 
 plateau	B-LOC
 
-
 bauchi	B-LOC
-
 
 kaduna	B-ORG
 
@@ -54291,7 +53195,6 @@ siri	O
 kwuo	O
 naijiria	B-LOC
 
-
 enwetarula	O
 7000	O
 
@@ -54312,7 +53215,6 @@ nzuko	O
 ugbua	O
 na	O
 london	B-LOC
-
 
 bbc	B-ORG
 
@@ -54391,7 +53293,6 @@ rwanda	B-LOC
 mana	O
 uk	B-LOC
 
-
 rwanda	B-LOC
 
 na	O
@@ -54466,22 +53367,17 @@ nime	O
 ha	O
 lesotho	B-LOC
 
-
 swaziland	B-LOC
-
 
 brunei	B-LOC
 darussalam	I-LOC
 
-
 malaysia	B-LOC
-
 
 samoa	B-LOC
 
 na	O
 tonga	B-LOC
-
 
 tonga	B-LOC
 
@@ -54493,7 +53389,6 @@ mba	O
 kachasi	O
 bu	O
 canada	B-LOC
-
 
 india	B-LOC
 
@@ -54510,9 +53405,7 @@ obere	O
 dika	O
 nauru	B-LOC
 
-
 samoa	B-LOC
-
 
 tuvalu	B-LOC
 
@@ -54522,9 +53415,7 @@ vanuatu	B-LOC
 na	O
 dominica	B-LOC
 
-
 canada	B-LOC
-
 
 nauru	B-LOC
 
@@ -54589,20 +53480,15 @@ bu	O
 australia	O
 canada	B-LOC
 
-
 india	B-LOC
-
 
 new	B-LOC
 zealand	I-LOC
 
-
 pakistan	B-LOC
-
 
 south	B-LOC
 africa	I-LOC
-
 
 sri	B-LOC
 lanka	I-LOC
@@ -54610,7 +53496,6 @@ lanka	I-LOC
 na	O
 mba	O
 britain	B-LOC
-
 
 india	B-LOC
 
@@ -54645,7 +53530,6 @@ bu	O
 7	O
 commonwealth	B-ORG
 
-
 commonwealth	B-ORG
 
 nke	O
@@ -54656,7 +53540,6 @@ nwere	O
 nzuko	O
 na	O
 minsk	B-LOC
-
 
 belarus	B-LOC
 
@@ -54697,7 +53580,6 @@ midia	O
 gwara	O
 bbc	B-ORG
 
-
 chibuike	B-PER
 josh	I-PER
 alfred	I-PER
@@ -54710,10 +53592,8 @@ mara	O
 gwara	O
 bbc	B-ORG
 
-
 amarachi	B-PER
 atama	I-PER
-
 
 amarachi	B-PER
 atama	I-PER
@@ -54737,10 +53617,8 @@ okwu	O
 onyeisiala	O
 buhari	B-PER
 
-
 muhammadu	B-PER
 buhari	I-PER
-
 
 buhari	B-PER
 
@@ -54771,9 +53649,7 @@ nwere	O
 na	O
 westminister	B-LOC
 
-
 london	B-LOC
-
 
 buhari	B-PER
 
@@ -54859,7 +53735,6 @@ dola	O
 iri	O
 isii	O
 
-
 60	O
 
 ebe	O
@@ -54888,7 +53763,6 @@ gwara	O
 ogbako	O
 commonwealth	B-ORG
 
-
 kelly	B-PER
 
 kwuru	O
@@ -54904,7 +53778,6 @@ ulooru	O
 onyeisiala	O
 muhammadu	B-PER
 buhari	I-PER
-
 
 buhari	B-PER
 
@@ -54974,7 +53847,6 @@ naijiria	B-LOC
 okwu	O
 ato	O
 
-
 buhari	B-PER
 
 ji	O
@@ -55010,7 +53882,6 @@ gaabu	O
 mmasi	O
 onyeisiala	O
 naijiria	B-LOC
-
 
 adesina	B-PER
 
@@ -55092,7 +53963,6 @@ naekwu	O
 na	O
 naijiria	B-LOC
 
-
 adesina	B-PER
 
 cheta	O
@@ -55110,7 +53980,6 @@ ndi	O
 mba	O
 commonwealth	B-ORG
 
-
 not	B-LOC
 koria	I-LOC
 
@@ -55120,7 +53989,6 @@ nzuko	O
 ha	O
 na	O
 trump	B-PER
-
 
 trump	B-PER
 
@@ -55168,10 +54036,8 @@ west	B-LOC
 african	I-LOC
 states	I-LOC
 
-
 dino	B-PER
 melaye	I-PER
-
 
 us	B-LOC
 
@@ -55249,9 +54115,7 @@ buhari	B-PER
 na	O
 trump	B-PER
 
-
 plateau	B-LOC
-
 
 plateau	B-LOC
 
@@ -55316,7 +54180,6 @@ akporo	O
 babawo	O
 idris	B-PER
 
-
 boko	B-ORG
 haram	I-ORG
 
@@ -55337,7 +54200,6 @@ nde	O
 na	O
 mpaghara	O
 naijiria	B-LOC
-
 
 chad	B-LOC
 
@@ -55420,7 +54282,6 @@ di	O
 na	O
 funtua	B-LOC
 
-
 katsina	B-LOC
 
 ndi	O
@@ -55433,7 +54294,6 @@ mkpa	O
 ike	O
 na	O
 bama	B-LOC
-
 
 konduga	B-LOC
 
@@ -55449,7 +54309,6 @@ damaturu	B-LOC
 di	O
 na	O
 yobe	B-LOC
-
 
 mohammed	B-PER
 
@@ -55471,7 +54330,6 @@ a	O
 nwuchiri	O
 nafo	O
 2009	B-DATE
-
 
 mohammed	B-PER
 
@@ -55536,7 +54394,6 @@ ndi	O
 boko	B-ORG
 haram	I-ORG
 
-
 banzana	B-PER
 yusuf	I-PER
 
@@ -55559,7 +54416,6 @@ umu	O
 chibok	O
 nafo	O
 2014	B-DATE
-
 
 otu	O
 
@@ -55665,7 +54521,6 @@ icheiche	O
 na	O
 naijiria	B-LOC
 
-
 world	O
 cup	O
 2018	O
@@ -55726,7 +54581,6 @@ emma	O
 powerful	O
 zitara	O
 bbc	B-ORG
-
 
 ipob	B-ORG
 
@@ -55844,7 +54698,6 @@ ha	O
 na	O
 brazil	B-LOC
 
-
 furtado	B-PER
 
 na	O
@@ -55882,7 +54735,6 @@ rio	B-LOC
 de	I-LOC
 janeiro	I-LOC
 
-
 lilian	B-PER
 calixto	I-PER
 
@@ -55890,7 +54742,6 @@ a	O
 gaekpe	O
 denis	B-PER
 furtado	I-PER
-
 
 buhari	B-PER
 
@@ -55944,7 +54795,6 @@ ka	O
 ejidechere	O
 ya	O
 unyahu	B-DATE
-
 
 furtado	B-PER
 
@@ -56036,14 +54886,11 @@ aririo	O
 joe	B-PER
 igbokwe	I-PER
 
-
 joe	B-PER
 igbokwe	I-PER
 
-
 joe	B-PER
 igbokwe	I-PER
-
 
 joe	B-PER
 igbokwe	I-PER
@@ -56058,7 +54905,6 @@ apc	I-ORG
 
 na	O
 legos	B-LOC
-
 
 joe	B-PER
 igbokwe	I-PER
@@ -56080,7 +54926,6 @@ o	O
 dere	O
 nelu	O
 facebook	B-ORG
-
 
 otu	O
 
@@ -56140,7 +54985,6 @@ ha	O
 zara	O
 n	O
 abuja	B-LOC
-
 
 igbokwe	B-PER
 
@@ -56270,7 +55114,6 @@ afcon	O
 flying	B-ORG
 eagles	I-ORG
 
-
 flying	B-ORG
 eagles	I-ORG
 
@@ -56281,7 +55124,6 @@ na	O
 kwa	O
 ihe	O
 gowon	B-PER
-
 
 flying	B-ORG
 eagles	I-ORG
@@ -56326,7 +55168,6 @@ iche	O
 iche	O
 gaasompi	O
 afcon	B-ORG
-
 
 miyetti	B-ORG
 
@@ -56406,7 +55247,6 @@ otu	O
 miyetti	B-ORG
 allah	I-ORG
 
-
 o'diakpo	B-PER
 obire	I-PER
 
@@ -56469,7 +55309,6 @@ japan	B-LOC
 goomenti	O
 ala	O
 japan	B-LOC
-
 
 ike	B-PER
 ekweremadu	I-PER
@@ -56541,7 +55380,6 @@ legos	B-LOC
 n	O
 afrika	B-LOC
 
-
 alex	B-PER
 iwobi	I-PER
 
@@ -56601,7 +55439,6 @@ bu	O
 michael	B-PER
 okonkwo	I-PER
 
-
 okonkwo	B-PER
 
 gwara	O
@@ -56646,7 +55483,6 @@ emergency	I-ORG
 management	I-ORG
 agency	I-ORG
 
-
 nema	B-ORG
 
 na	O
@@ -56680,27 +55516,21 @@ ndi	O
 dika	O
 njikoka	B-LOC
 
-
 ayamelum	B-LOC
 
 owuwaanyanwu	O
 anambara	O
 anaocha	B-LOC
 
-
 aguata	B-LOC
-
 
 ugwu	B-LOC
 idemili	I-LOC
 
-
 ogbaru	B-LOC
-
 
 ugwu	B-LOC
 onicha	I-LOC
-
 
 ugwu	B-LOC
 orumba	I-LOC
@@ -56808,16 +55638,12 @@ na	O
 idemmiri	O
 katsina	B-LOC
 
-
 mobil	B-ORG
-
 
 bukola	B-PER
 saraki	I-PER
 
-
 saraki	B-PER
-
 
 saraki	B-PER
 
@@ -56856,7 +55682,6 @@ ruru	O
 mmadu	O
 17	O
 
-
 saraki	B-PER
 
 kwuru	O
@@ -56871,10 +55696,8 @@ bu	O
 ibrahim	B-PER
 idris	I-PER
 
-
 bukola	B-PER
 saraki	I-PER
-
 
 saraki	B-PER
 
@@ -56906,7 +55729,6 @@ naekwuchitere	O
 ya	O
 deputara	O
 unyaahu	B-DATE
-
 
 saraki	B-PER
 
@@ -56986,7 +55808,6 @@ puo	O
 n	O
 apc	B-ORG
 
-
 saraki	B-PER
 
 kwukwara	O
@@ -57003,7 +55824,6 @@ gaakpoputa	O
 nuloikpe	O
 n	O
 ilorin	B-LOC
-
 
 kwara	B-LOC
 
@@ -57115,7 +55935,6 @@ gbasara	O
 ohi	O
 offa	B-LOC
 
-
 saraki	B-PER
 
 aga	O
@@ -57130,7 +55949,6 @@ oshiomole	B-PER
 nagbanyeghi	O
 na	O
 saraki	B-PER
-
 
 dino	B-PER
 melaye	I-PER
@@ -57147,7 +55965,6 @@ agafeela	O
 otu	O
 pati	O
 pdp	B-ORG
-
 
 apc	B-ORG
 
@@ -57177,7 +55994,6 @@ ole	I-DATE
 na	I-DATE
 ole	I-DATE
 gara	I-DATE
-
 
 bukola	B-PER
 saraki	I-PER
@@ -57230,7 +56046,6 @@ mmadu	O
 
 ahapula	O
 apc	B-ORG
-
 
 saraki	B-PER
 
@@ -57292,7 +56107,6 @@ pdp	O
 gunyere	O
 dino	B-PER
 melaye	I-PER
-
 
 rabiu	B-PER
 kwankwaso	I-PER
@@ -57357,15 +56171,12 @@ nuhu	O
 mark	B-PER
 gbilah	I-PER
 
-
 razak	B-PER
 atunwa	I-PER
-
 
 ahmed	B-PER
 garba	I-PER
 bichi	I-PER
-
 
 abdulsamad	B-PER
 dasuk	I-PER
@@ -57380,14 +56191,11 @@ bu	O
 sani	B-PER
 rano	I-PER
 
-
 barry	B-PER
 mpigi	I-PER
 
-
 ali	B-PER
 madaki	I-PER
-
 
 dickson	B-PER
 tackighir	I-PER
@@ -57570,7 +56378,6 @@ ozokwa	O
 gunyere	O
 apc	B-ORG
 
-
 christian	B-ORG
 association	I-ORG
 of	I-ORG
@@ -57746,7 +56553,6 @@ afrika	O
 nafo	O
 2019	B-DATE
 
-
 super	B-ORG
 eagles	I-ORG
 
@@ -57833,10 +56639,8 @@ bu	O
 valentine	B-PER
 obienyem	I-PER
 
-
 uloikpe	B-ORG
 ukwu	I-ORG
-
 
 uloikpe	B-ORG
 ukwu	I-ORG
@@ -57894,10 +56698,8 @@ oru	O
 na	O
 naijiria	B-LOC
 
-
 emmanuel	B-PER
 macron	I-PER
-
 
 emmanuel	B-PER
 macron	I-PER
@@ -57916,7 +56718,6 @@ bu	O
 emmanuel	B-PER
 macron	I-PER
 
-
 macron	B-PER
 
 kwuru	O
@@ -57925,14 +56726,12 @@ a	O
 na	O
 berlin	B-LOC
 
-
 saut	B-LOC
 afrika	I-LOC
 
 gbara	O
 super	B-ORG
 falcons	I-ORG
-
 
 1	O
 
@@ -57967,7 +56766,6 @@ maka	O
 alvan	B-PER
 ikoku	I-PER
 
-
 tosyn	B-PER
 bucknor	I-PER
 
@@ -57979,7 +56777,6 @@ ya	O
 bu	O
 tosyn	B-PER
 bucknor	I-PER
-
 
 tosyn	B-PER
 bucknor	I-PER
@@ -57995,7 +56792,6 @@ oru	O
 n	O
 inspiration	B-ORG
 fm	I-ORG
-
 
 tosyn	B-PER
 bucknor	I-PER
@@ -58164,19 +56960,15 @@ na	O
 ndi	O
 igbo	O
 
-
 chiagozie	B-PER
 nnabuihe	I-PER
 
-
 nnabuihe	B-PER
-
 
 nnabuihe	B-PER
 
 awcon	O
 2018	B-DATE
-
 
 falcons	B-ORG
 
@@ -58280,7 +57072,6 @@ guinea	I-LOC
 ji	O
 abuo	O
 
-
 south	B-LOC
 africa	I-LOC
 
@@ -58317,7 +57108,6 @@ asompi	O
 nke	O
 2018	B-DATE
 a	I-DATE
-
 
 ihe	O
 kariri	O
@@ -58392,7 +57182,6 @@ nke	O
 tochukwu	B-PER
 oluehi	I-PER
 
-
 oluehi	B-PER
 
 naeyi	O
@@ -58419,7 +57208,6 @@ ya	O
 nafo	O
 1987	B-DATE
 
-
 tochukwu	B-PER
 oluehi	I-PER
 
@@ -58431,18 +57219,13 @@ ruru	I-DATE
 afo	I-DATE
 asato	I-DATE
 
-
 2	O
-
 
 christy	B-PER
 
-
 udogadi	B-PER
 
-
 ohiaeriaku	B-PER
-
 
 ohiaeriaku	B-LOC
 
@@ -58465,9 +57248,7 @@ nafo	O
 chiamaka	B-PER
 cynthia	I-PER
 
-
 nnadozie	B-PER
-
 
 nnadozie	B-PER
 
@@ -58481,7 +57262,6 @@ muru	O
 ya	O
 nafo	O
 2000	B-DATE
-
 
 chiamaka	B-PER
 
@@ -58508,7 +57288,6 @@ nafo	O
 onome	B-PER
 ebi	I-PER
 
-
 ebi	B-PER
 
 naeyi	O
@@ -58534,14 +57313,11 @@ ya	O
 nafo	O
 1983	B-DATE
 
-
 5	O
-
 
 osinachi	B-PER
 marvis	I-PER
 ohale	I-PER
-
 
 ohale	B-PER
 
@@ -58567,7 +57343,6 @@ nafo	O
 glory	B-PER
 ogbonna	I-PER
 
-
 ogbonna	B-PER
 
 naagba	O
@@ -58587,13 +57362,10 @@ ya	O
 nafo	O
 1998	B-DATE
 
-
 7	O
-
 
 josephine	B-PER
 chukwunonye	I-PER
-
 
 chukwunonye	B-PER
 
@@ -58608,7 +57380,6 @@ muru	O
 ya	O
 nafo	O
 1992	B-DATE
-
 
 ebere	B-PER
 
@@ -58628,7 +57399,6 @@ ya	O
 nafo	O
 1991	B-DATE
 
-
 ebere	B-PER
 
 so	O
@@ -58646,12 +57416,9 @@ nafo	O
 9	O
 faith	B-PER
 
-
 ikidi	B-PER
 
-
 michael	B-PER
-
 
 ikidi	B-PER
 
@@ -58677,13 +57444,10 @@ boolu	O
 nafo	O
 2004	B-DATE
 
-
 10	O
-
 
 sarah	B-PER
 nnodim	I-PER
-
 
 nnodim	B-PER
 
@@ -58706,9 +57470,7 @@ nafo	O
 11	O
 ngozi	B-PER
 
-
 okobi	B-PER
-
 
 okobi	B-PER
 
@@ -58733,7 +57495,6 @@ nafo	O
 anam	B-LOC
 imo	I-LOC
 
-
 imo	B-LOC
 
 naagba	O
@@ -58756,7 +57517,6 @@ nafo	O
 halimatu	B-LOC
 ayinde	I-LOC
 
-
 ayinde	B-PER
 
 naagba	O
@@ -58775,7 +57535,6 @@ nafo	O
 rita	B-PER
 chikwelu	I-PER
 
-
 chikwelu	B-PER
 
 naagba	O
@@ -58790,13 +57549,10 @@ ya	O
 nafo	O
 1988	B-DATE
 
-
 15	O
-
 
 amarachi	B-PER
 okoronkwo	I-PER
-
 
 okoronkwo	B-PER
 
@@ -58819,7 +57575,6 @@ nafo	O
 16	O
 asisat	B-PER
 oshoala	I-PER
-
 
 oshoala	B-PER
 
@@ -58867,14 +57622,11 @@ ya	O
 nafo	O
 1994	B-DATE
 
-
 17	O
-
 
 desire	B-PER
 ugochi	I-PER
 oparanozie	I-PER
-
 
 oparanozie	B-PER
 
@@ -58918,13 +57670,10 @@ ya	O
 nafo	O
 1993	B-DATE
 
-
 18	O
-
 
 francisca	B-PER
 ordega	I-PER
-
 
 ordega	B-PER
 
@@ -58976,9 +57725,7 @@ ato	O
 nafo	O
 2010	B-DATE
 
-
 2014	B-DATE
-
 
 2016	B-DATE
 
@@ -58988,13 +57735,10 @@ ya	O
 nafo	O
 1993	B-DATE
 
-
 19	O
-
 
 rasheedat	B-ORG
 ajibade	I-ORG
-
 
 ajibade	B-PER
 
@@ -59039,7 +57783,6 @@ chinwendu	B-PER
 vera	I-PER
 ihezuo	I-PER
 
-
 ihezuo	B-PER
 
 naagbara	O
@@ -59078,13 +57821,10 @@ ya	O
 nafo	O
 1997	B-DATE
 
-
 21	O
-
 
 chinaza	B-LOC
 uchendu	I-LOC
-
 
 uchendu	B-PER
 
@@ -59106,7 +57846,6 @@ ya	O
 nafo	O
 1997	B-DATE
 
-
 thomas	B-PER
 dennerby	I-PER
 
@@ -59121,9 +57860,7 @@ jenuwari	B-DATE
 nke	I-DATE
 2018	I-DATE
 
-
 naptip	B-ORG
-
 
 ndi	B-ORG
 'ukochukwu	I-ORG
@@ -59143,7 +57880,6 @@ ndi	O
 nne	O
 nigeria	B-LOC
 
-
 uche	B-PER
 nwosu	I-PER
 
@@ -59156,7 +57892,6 @@ okorocha	I-PER
 a	O
 hapula	O
 apc	B-ORG
-
 
 uche	B-PER
 nwosu	I-PER
@@ -59265,9 +58000,7 @@ gbaso	O
 uche	B-PER
 nwosu	I-PER
 
-
 dss	B-ORG
-
 
 chris	B-PER
 kehinde	I-PER
@@ -59279,7 +58012,6 @@ bu	O
 chris	B-PER
 kehinde	I-PER
 nwandu	I-PER
-
 
 chris	B-PER
 kehinde	I-PER
@@ -59296,7 +58028,6 @@ eweputara	O
 nafo	O
 2015	B-DATE
 
-
 nwandu	B-PER
 
 kwuru	O
@@ -59311,7 +58042,6 @@ onye	O
 kwuo	O
 uche	O
 ya	O
-
 
 2018	B-DATE
 
@@ -59414,7 +58144,6 @@ naijiria	O
 bu	O
 buhari	B-PER
 
-
 bbc	B-ORG
 igbo	I-ORG
 
@@ -59461,7 +58190,6 @@ naijiria	O
 bu	O
 buhari	B-PER
 
-
 bbc	B-ORG
 igbo	I-ORG
 
@@ -59481,7 +58209,6 @@ gwara	O
 peter	B-PER
 obi	I-PER
 
-
 mbaka	B-PER
 
 kwuru	O
@@ -59493,7 +58220,6 @@ atiku	B-PER
 
 fada	O
 mbaka	B-PER
-
 
 mbaka	B-PER
 
@@ -59512,7 +58238,6 @@ nke	O
 mere	O
 nonwa	O
 februwari	B-DATE
-
 
 taa	B-DATE
 
@@ -59699,7 +58424,6 @@ area	B-LOC
 1	I-LOC
 garki	I-LOC
 
-
 abuja	B-LOC
 
 ndi	O
@@ -59756,7 +58480,6 @@ ise	I-DATE
 bbog	O
 na	O
 buhari	B-PER
-
 
 buhari	B-PER
 
@@ -59904,7 +58627,6 @@ ijeri	O
 naira	O
 abuo	O
 
-
 joseph	B-PER
 daudu	I-PER
 
@@ -59982,7 +58704,6 @@ dina	O
 nogbako	O
 bbc	B-ORG
 
-
 christine	B-PER
 lagarde	I-PER
 
@@ -60027,9 +58748,7 @@ na	O
 mba	O
 amerika	B-LOC
 
-
 largarde	B-PER
-
 
 ndi	O
 naijiria	O
@@ -60117,7 +58836,6 @@ kachasi	O
 kuchapuru	O
 ikpe	O
 apc	B-ORG
-
 
 arsenal	B-ORG
 
@@ -60217,7 +58935,6 @@ na	O
 mba	O
 france	B-LOC
 
-
 umu	O
 naijiria	O
 
@@ -60232,7 +58949,6 @@ ahu	O
 maka	O
 okwu	O
 waec	B-ORG
-
 
 priscilla	B-PER
 ekwueme	I-PER
@@ -60258,7 +58974,6 @@ mbinyeaka	O
 ekwueme	B-PER
 eleje	I-PER
 
-
 priscilla	B-PER
 ekwueme	I-PER
 eleje	I-PER
@@ -60272,7 +58987,6 @@ ya	O
 naaputa	O
 nego	O
 naijiria	B-LOC
-
 
 n	O
 
@@ -60323,7 +59037,6 @@ ebe	O
 niile	O
 na	O
 naijiria	B-LOC
-
 
 efcc	B-ORG
 
@@ -60383,7 +59096,6 @@ na	O
 mba	O
 amerika	B-LOC
 
-
 priscillia	B-PER
 
 gaesonye	O
@@ -60399,7 +59111,6 @@ umunwaanyi	O
 naijiria	O
 abuo	O
 
-
 barcelona	B-LOC
 
 child	O
@@ -60412,7 +59123,6 @@ mgbochi	O
 iba	O
 na	O
 malawi	B-LOC
-
 
 who	B-ORG
 
@@ -60442,7 +59152,6 @@ iba	O
 amalitela	O
 na	O
 malawi	B-LOC
-
 
 malawi	B-LOC
 
@@ -60546,7 +59255,6 @@ muru	O
 oba	B-PER
 ogunwusi	I-PER
 adeyeye	I-PER
-
 
 otu	B-ORG
 egwuregwu	I-ORG
@@ -60795,13 +59503,11 @@ company	I-ORG
 of	I-ORG
 naijiria	I-ORG
 
-
 tcn	B-ORG
 
 onye	O
 isi	O
 tuc	B-ORG
-
 
 enugwu	B-LOC
 
@@ -60823,7 +59529,6 @@ gi	O
 onwa	B-DATE
 ato	I-DATE
 
-
 igbokwe	B-PER
 
 kwuru	O
@@ -60843,7 +59548,6 @@ ndi	O
 isi	O
 ulooru	O
 tcn	B-ORG
-
 
 otu	O
 
@@ -60869,7 +59573,6 @@ ha	O
 bu	O
 ug	B-PER
 mohammed	I-PER
-
 
 ogbonna	B-PER
 
@@ -60972,7 +59675,6 @@ bu	O
 salau	B-PER
 tajudeen	I-PER
 
-
 mohammed	B-PER
 salah	I-PER
 
@@ -60986,7 +59688,6 @@ gaekekorita	O
 okpueze	O
 golden	O
 boot'	O
-
 
 mohammed	B-PER
 salah	I-PER
@@ -61011,7 +59712,6 @@ ka	O
 bu	O
 29	B-DATE
 mee	I-DATE
-
 
 garba	B-PER
 shehu	I-PER
@@ -61049,7 +59749,6 @@ ya	O
 ruo	B-DATE
 juun	I-DATE
 12	I-DATE
-
 
 shehu	B-PER
 
@@ -61156,7 +59855,6 @@ authority	I-ORG
 of	I-ORG
 nigeria	I-ORG
 
-
 faan	B-ORG
 
 minista	O
@@ -61261,7 +59959,6 @@ nke	I-DATE
 onwe	I-DATE
 mee	I-DATE
 
-
 bayern	B-ORG
 munich	I-ORG
 
@@ -61276,7 +59973,6 @@ bundusliga	O
 nke	O
 ugboro	O
 asaa	O
-
 
 taa	B-DATE
 
@@ -61305,7 +60001,6 @@ otu	O
 were	O
 napu	O
 frankfurt	B-LOC
-
 
 osinbajo	B-PER
 
@@ -61393,7 +60088,6 @@ mancity	B-ORG
 gaezute	O
 waford	B-ORG
 
-
 n'ama	B-LOC
 egwuregwu	I-LOC
 wembley	I-LOC
@@ -61403,7 +60097,6 @@ ise	O
 nke	O
 mgbede	O
 taa	B-DATE
-
 
 mancity	B-ORG
 
@@ -61428,7 +60121,6 @@ emechiela	O
 ulooru	O
 ogwu	O
 ato	O
-
 
 kano	B-LOC
 
@@ -61640,7 +60332,6 @@ ya	O
 n	O
 abali	B-DATE
 
-
 taa	B-DATE
 
 o	O
@@ -61649,7 +60340,6 @@ obere	O
 umu	O
 nwaanyi	O
 abuo	O
-
 
 naani	B-DATE
 otu	I-DATE
@@ -61716,7 +60406,6 @@ and	I-ORG
 matriculation	I-ORG
 board	I-ORG
 
-
 oladosu	B-PER
 
 bu	O
@@ -61737,9 +60426,7 @@ mahadum	I-ORG
 nke	I-ORG
 ibadan	I-ORG
 
-
 ibadan	B-LOC
-
 
 naijiria	B-LOC
 
@@ -61777,7 +60464,6 @@ ugboelu	O
 iga	O
 naijiria	B-LOC
 
-
 fela	B-PER
 
 o	O
@@ -61812,7 +60498,6 @@ hotspur	I-ORG
 bu	O
 onye	O
 belgium	O
-
 
 toby	B-PER
 alderweireld	I-PER
@@ -61852,7 +60537,6 @@ disemba	B-DATE
 15,	I-DATE
 2019	I-DATE
 
-
 tottenham	B-LOC
 
 meriri	O
@@ -61864,7 +60548,6 @@ ahu	O
 1	O
 paul	B-PER
 ellis	I-PER
-
 
 afp	B-ORG
 
@@ -62079,7 +60762,6 @@ ka	O
 nkeji	B-DATE
 eight	I-DATE
 
-
 rui	B-PER
 patricio	I-PER
 
@@ -62111,7 +60793,6 @@ mbo	O
 di	O
 ala	O
 traore	B-PER
-
 
 diogo	B-PER
 jota	I-PER
@@ -62175,9 +60856,7 @@ pam	O
 ihapuru	O
 nani	O
 
-
 patricio	B-PER
-
 
 jota	B-PER
 
@@ -62243,7 +60922,6 @@ na	O
 20	O
 yaadi	O
 
-
 tottenham	B-LOC
 
 wolves	O
@@ -62289,7 +60967,6 @@ n	O
 akuku	O
 eriksen	B-PER
 
-
 manish	B-PER
 rohtagi	I-PER
 
@@ -62300,7 +60977,6 @@ ulo	B-ORG
 oru	I-ORG
 simba	I-ORG
 group	I-ORG
-
 
 simba	B-ORG
 group	I-ORG
@@ -62328,7 +61004,6 @@ ihe	O
 bu	O
 simba	B-ORG
 group	I-ORG
-
 
 simba	B-ORG
 group	I-ORG
@@ -62367,7 +61042,6 @@ nke	O
 tvs	B-ORG
 motors	I-ORG
 
-
 india	B-LOC
 
 bu	O
@@ -62399,15 +61073,12 @@ design	I-ORG
 development	I-ORG
 council	I-ORG
 
-
 naddac	B-ORG
-
 
 national	B-ORG
 directorate	I-ORG
 of	I-ORG
 employment	I-ORG
-
 
 nde	B-ORG
 
@@ -62478,7 +61149,6 @@ si	O
 central	B-ORG
 bank	I-ORG
 
-
 naijiria	B-LOC
 
 csr	O
@@ -62517,7 +61187,6 @@ centre	I-ORG
 for	I-ORG
 women	I-ORG
 development	I-ORG
-
 
 ncwd	B-ORG
 
@@ -62594,7 +61263,6 @@ and	O
 melinda	B-ORG
 gates	I-ORG
 
-
 onye	O
 naijiria	O
 
@@ -62626,7 +61294,6 @@ oru	O
 di	O
 n	O
 akure	B-LOC
-
 
 300km	O
 
@@ -62704,7 +61371,6 @@ tunyere	O
 ndi	O
 naijiria	O
 
-
 lai	B-PER
 olurode	I-PER
 
@@ -62727,10 +61393,8 @@ nigeria	B-ORG
 customs	I-ORG
 service	I-ORG
 
-
 hameed	B-PER
 ali	I-PER
-
 
 olurode	B-PER
 
@@ -62792,7 +61456,6 @@ abuja	O
 n	O
 ubochi	O
 tozdee	B-DATE
-
 
 nan	B-ORG
 
@@ -62937,7 +61600,6 @@ for	I-ORG
 diseased	I-ORG
 control	I-ORG
 
-
 ncdc	B-ORG
 
 na	O
@@ -62958,12 +61620,10 @@ na	O
 steeti	O
 ise	O
 
-
 ise	O
 
 n	O
 ondo	B-LOC
-
 
 abuo	O
 
@@ -62973,7 +61633,6 @@ edo	B-LOC
 otu	O
 n	O
 ebonyi	B-LOC
-
 
 bauchi	B-LOC
 
@@ -63011,7 +61670,6 @@ egwuregwu	O
 national	O
 stadium	O
 
-
 otu	O
 
 onye	O
@@ -63019,7 +61677,6 @@ a	O
 naakpo	O
 sadiq	B-PER
 yusuf	I-PER
-
 
 26	O
 
@@ -63045,7 +61702,6 @@ egwuregwu	O
 national	O
 stadium	O
 
-
 surulere	B-LOC
 
 ndi	O
@@ -63068,7 +61724,6 @@ abuo	I-DATE
 na	I-DATE
 isii	I-DATE
 
-
 sadiq	B-PER
 yusuf	I-PER
 
@@ -63084,7 +61739,6 @@ naegwu	O
 egwu	O
 national	O
 stadium	O
-
 
 onye	O
 uwe	O
@@ -63162,7 +61816,6 @@ david	B-PER
 osinachi	I-PER
 nwankwo	I-PER
 
-
 david	B-PER
 
 dere	O
@@ -63219,13 +61872,11 @@ n	O
 abia	B-LOC
 steeti	I-LOC
 
-
 ulo	B-ORG
 omebe	I-ORG
 iwu	I-ORG
 nke	I-ORG
 nasarawa	I-ORG
-
 
 ulo	B-ORG
 omebe	I-ORG
@@ -63312,7 +61963,6 @@ n	O
 okpuru	O
 ochichi	O
 njikoka	B-LOC
-
 
 dunukofia	B-LOC
 
@@ -63405,10 +62055,8 @@ na	O
 rochas	B-PER
 okorocha	I-PER
 
-
 obiora	B-PER
 okonkwo	I-PER
-
 
 naijiria	B-LOC
 
@@ -63634,7 +62282,6 @@ n	O
 afo	O
 2018	B-DATE
 
-
 naijiria	B-LOC
 
 gbara	O
@@ -63700,7 +62347,6 @@ ceo	O
 nke	O
 lapo	B-ORG
 
-
 godwin	B-PER
 ehigiamusoe	I-PER
 
@@ -63731,9 +62377,7 @@ people	I-ORG
 of	I-ORG
 biafra	I-ORG
 
-
 ipob	B-ORG
-
 
 nnamdi	B-PER
 kanu	I-PER
@@ -63806,7 +62450,6 @@ anyanwu	O
 na	O
 odida	B-LOC
 
-
 otu	O
 
 anwuola	O
@@ -63869,7 +62512,6 @@ agency	I-ORG
 of	I-ORG
 nigeria	I-ORG
 
-
 nan	B-ORG
 
 o	O
@@ -63889,7 +62531,6 @@ ya	O
 si	O
 abeokuta	B-LOC
 
-
 oseni	B-PER
 
 gukwuazi	O
@@ -63903,7 +62544,6 @@ meruru	O
 ahu	O
 n	O
 anambra	B-LOC
-
 
 oseni	B-PER
 
@@ -63993,7 +62633,6 @@ a	O
 n	O
 aguleri	B-LOC
 
-
 anambra	B-LOC
 steeti	I-LOC
 
@@ -64046,7 +62685,6 @@ chikobara	O
 n	O
 enugwu	B-LOC
 aguleri	I-LOC
-
 
 anambra	B-LOC
 steeti	I-LOC
@@ -64186,7 +62824,6 @@ nna	O
 anyi	O
 eri	B-PER
 
-
 taa	B-DATE
 
 ana	O
@@ -64241,7 +62878,6 @@ professional	O
 football	O
 league	O
 
-
 enaholo	B-PER
 
 esonyerela	O
@@ -64277,7 +62913,6 @@ oru	O
 otu	O
 kano	B-ORG
 pillars	I-ORG
-
 
 surajo	B-PER
 shuaibu	I-PER
@@ -64390,7 +63025,6 @@ na	O
 10,	B-DATE
 2019	I-DATE
 
-
 nwokocha	B-PER
 
 ozokwa	O
@@ -64398,7 +63032,6 @@ na	O
 november	B-DATE
 10,	I-DATE
 2019	I-DATE
-
 
 nwokocha	B-PER
 
@@ -64422,7 +63055,6 @@ di	O
 na	O
 banki	O
 rodu	O
-
 
 umuahia	B-LOC
 
@@ -64524,7 +63156,6 @@ nkwekorita	O
 nke	O
 naijiria	B-LOC
 
-
 ulo	B-ORG
 omebe	I-ORG
 
@@ -64558,7 +63189,6 @@ omebe	O
 iwu	O
 nkem	B-PER
 abonta	I-PER
-
 
 pdp	B-LOC
 abia	I-LOC
@@ -64938,12 +63568,9 @@ na	O
 muson	O
 centre	O
 
-
 onikan	B-LOC
 
-
 legos	B-LOC
-
 
 oduah	B-PER
 
@@ -65144,7 +63771,6 @@ national	B-ORG
 youth	I-ORG
 service	I-ORG
 corp	I-ORG
-
 
 nysc	B-ORG
 
@@ -65367,7 +63993,6 @@ ha	O
 na	O
 nysc	B-ORG
 
-
 fasakin	B-PER
 
 o	O
@@ -65444,7 +64069,6 @@ odoziaku	O
 ruth	B-PER
 jacob	I-PER
 
-
 jacob	B-PER
 
 emelitere	O
@@ -65507,7 +64131,6 @@ eze	O
 n	O
 ututu	O
 fraide	B-DATE
-
 
 vanguard	B-ORG
 
@@ -65595,7 +64218,6 @@ bu	O
 govano	O
 oyo	B-LOC
 steeti	I-LOC
-
 
 okpuru	B-ORG
 ochichi	I-ORG
@@ -65692,7 +64314,6 @@ n	O
 afo	O
 2007	B-DATE
 
-
 economic	B-ORG
 and	I-ORG
 financial	I-ORG
@@ -65761,7 +64382,6 @@ ulo	O
 oru	O
 kalu	B-PER
 
-
 slok	B-ORG
 nigeria	I-ORG
 limited	I-ORG
@@ -65795,9 +64415,7 @@ accounts	O
 n	O
 abia	B-LOC
 
-
 guardian	B-ORG
-
 
 nysc	B-ORG
 zamfara	I-ORG
@@ -65824,7 +64442,6 @@ national	I-ORG
 youth	I-ORG
 service	I-ORG
 corp	I-ORG
-
 
 nysc	B-ORG
 
@@ -65875,7 +64492,6 @@ tsafe	B-LOC
 n	O
 ubochi	B-DATE
 monde	I-DATE
-
 
 karayom	B-PER
 
@@ -65976,7 +64592,6 @@ n	O
 afo	O
 2019	B-DATE
 
-
 matawalle	B-PER
 
 onye	O
@@ -66013,12 +64628,10 @@ steeti	O
 a	O
 840	O
 
-
 news	B-ORG
 agency	I-ORG
 of	I-ORG
 nigeria	I-ORG
-
 
 nan	B-ORG
 
@@ -66027,7 +64640,6 @@ na	O
 majie	O
 aisha	B-PER
 jibril	I-PER
-
 
 opekata	O
 mpe	O
@@ -66107,7 +64719,6 @@ ebe	O
 mmadu	O
 asaa	O
 
-
 misubishi	B-ORG
 
 bosu	O
@@ -66137,7 +64748,6 @@ nkpo	I-LOC
 onye	O
 oru	O
 frsc	B-ORG
-
 
 betty	B-PER
 akeredolu	I-PER
@@ -66247,7 +64857,6 @@ umu	O
 nwaanyi	O
 na	O
 naijiria	O
-
 
 akeredolu	B-PER
 
@@ -66542,11 +65151,9 @@ digital	B-ORG
 encode	I-ORG
 ltd	I-ORG
 
-
 long	B-PER
 lee	I-PER
 shih	I-PER
-
 
 ighoakpo	B-PER
 eduje	I-PER
@@ -66655,7 +65262,6 @@ university	I-ORG
 teaching	I-ORG
 hospital	I-ORG
 
-
 oka	B-LOC
 
 oku	O
@@ -66696,7 +65302,6 @@ oku	O
 gbara	O
 n	O
 onicha	B-LOC
-
 
 unyaahu	B-DATE
 
@@ -66761,7 +65366,6 @@ mgbawa	O
 tanka	O
 n	O
 onicha	B-LOC
-
 
 anambra	B-LOC
 steeti	I-LOC
@@ -66899,7 +65503,6 @@ m	O
 akpo	O
 ministri	B-ORG
 njem	I-ORG
-
 
 federal	B-ORG
 road	I-ORG
@@ -67066,7 +65669,6 @@ jerome	O
 udeoji	O
 seketeriet	O
 
-
 oka	B-LOC
 
 dokita	O
@@ -67108,7 +65710,6 @@ n	O
 uzo	B-LOC
 mkpi	I-LOC
 aroma	I-LOC
-
 
 oka	B-LOC
 
@@ -67202,7 +65803,6 @@ vio	O
 maazi	O
 emenike	B-PER
 
-
 atuegbunam	B-PER
 
 ndi	O
@@ -67227,7 +65827,6 @@ nke	I-ORG
 ondo	I-ORG
 steeti	I-ORG
 
-
 akure	B-LOC
 
 onye	O
@@ -67238,7 +65837,6 @@ queens	I-ORG
 boolu	O
 esther	B-PER
 michael	I-PER
-
 
 michael	B-PER
 
@@ -67299,7 +65897,6 @@ boolu	O
 james	B-PER
 moses	I-PER
 
-
 moses	B-PER
 
 onye	O
@@ -67310,7 +65907,6 @@ ofufe	O
 ya	O
 ikpo	O
 okomu	B-PER
-
 
 sunshine	B-ORG
 
@@ -67336,7 +65932,6 @@ egwuregwu	I-ORG
 boolu	I-ORG
 steeti	I-ORG
 ondo	I-ORG
-
 
 akinyemi	B-PER
 
@@ -67380,7 +65975,6 @@ afo	I-DATE
 asato	I-DATE
 na	I-DATE
 asato	I-DATE
-
 
 muyinat	B-PER
 mimiko	I-PER
@@ -67433,7 +66027,6 @@ ogwu	O
 egwu	O
 onye	O
 naijiria	O
-
 
 david	B-PER
 adeleke	I-PER
@@ -67596,7 +66189,6 @@ umu	O
 nwoke	O
 abuo	O
 
-
 economic	B-ORG
 and	I-ORG
 financial	I-ORG
@@ -67718,7 +66310,6 @@ n	O
 uloakwukwo	O
 taa	B-DATE
 
-
 wenezde	B-DATE
 
 ka	O
@@ -67787,7 +66378,6 @@ gwara	O
 sahara	B-ORG
 reports	I-ORG
 
-
 boluwatife	B-ORG
 adekunle	I-ORG
 
@@ -67799,7 +66389,6 @@ university	I-LOC
 of	I-LOC
 technology'	I-LOC
 akure	I-LOC
-
 
 ondo	B-LOC
 steeti	I-LOC
@@ -67892,7 +66481,6 @@ university	I-ORG
 of	I-ORG
 agriculture	I-ORG
 
-
 abeokuta	B-LOC
 
 maka	O
@@ -67929,7 +66517,6 @@ diri	O
 mmadu	O
 omoyele	B-PER
 sowore	I-PER
-
 
 shehu	B-PER
 sani	I-PER
@@ -68028,7 +66615,6 @@ alhaji	O
 lawan	B-PER
 ibrahim	I-PER
 
-
 otu	B-ORG
 hisbah	I-ORG
 nke	I-ORG
@@ -68074,7 +66660,6 @@ ngaghari	O
 ndi	O
 agha	O
 hisbah	B-PER
-
 
 railway	B-ORG
 
@@ -68223,10 +66808,8 @@ nlekota	O
 federal	B-ORG
 polytechnic	I-ORG
 
-
 ado	B-LOC
 ekiti	I-LOC
-
 
 ekiti	B-LOC
 steeti	I-LOC
@@ -68641,7 +67224,6 @@ okammuta	O
 grace	B-PER
 alele	I-PER
 
-
 williams	B-PER
 
 choro	O
@@ -68732,7 +67314,6 @@ oge	O
 nke	O
 ugboro	O
 abuo	O
-
 
 babangida	B-PER
 
@@ -69066,7 +67647,6 @@ na	O
 okammuta	O
 alele	B-PER
 
-
 williams	B-PER
 
 gaara	O
@@ -69137,12 +67717,9 @@ bode	B-LOC
 thomas	I-LOC
 street	I-LOC
 
-
 surulere	B-LOC
 
-
 legos	B-LOC
-
 
 kunle	B-PER
 ajibade	I-PER
@@ -69181,7 +67758,6 @@ na	O
 of	I-ORG
 nigerian	I-ORG
 authors	I-ORG
-
 
 annual	B-DATE
 
@@ -69320,7 +67896,6 @@ ochichi	O
 aka	O
 ike	O
 babangida	B-PER
-
 
 abacha	B-PER
 
@@ -69464,9 +68039,7 @@ na	O
 mkporo	O
 babangida	B-PER
 
-
 abacha	B-PER
-
 
 ajibade	B-PER
 
@@ -69629,7 +68202,6 @@ na	O
 mba	O
 afrika	B-LOC
 
-
 ifowodo	B-PER
 
 ode	O
@@ -69783,7 +68355,6 @@ meghariri	O
 ya	O
 na	O
 2011	B-DATE
-
 
 sss	B-ORG
 
@@ -69944,9 +68515,7 @@ legos	B-LOC
 i	O
 ogun	B-LOC
 
-
 ondo	B-LOC
-
 
 cross	B-LOC
 river	I-LOC
@@ -70142,7 +68711,6 @@ of	I-ORG
 criminal	I-ORG
 justice	I-ORG
 act	I-ORG
-
 
 2015	B-DATE
 
@@ -70372,10 +68940,8 @@ osun	B-ORG
 polis	I-ORG
 komandi	I-ORG
 
-
 folasade	B-PER
 odoro	I-PER
-
 
 odoro	B-PER
 
@@ -70448,7 +69014,6 @@ nloghachi	O
 anthony	B-PER
 joshua	I-PER
 
-
 joshua	B-PER
 
 obi	O
@@ -70502,7 +69067,6 @@ di	O
 mkpa	O
 na	O
 2019	B-DATE
-
 
 andy	B-PER
 ruiz	I-PER
@@ -70622,14 +69186,11 @@ sonyeere	O
 muhammad	B-PER
 ali	I-PER
 
-
 lennox	B-PER
 lewis	I-PER
 
-
 evander	B-PER
 holyfield	I-PER
-
 
 floyd	B-PER
 patterson	I-PER
@@ -70637,7 +69198,6 @@ patterson	I-PER
 na	O
 mike	B-PER
 tyson	I-PER
-
 
 fela	B-PER
 kuti	I-PER
@@ -70657,7 +69217,6 @@ ruiz	O
 na	O
 saudi	B-LOC
 arabia	I-LOC
-
 
 joshua	B-PER
 
@@ -70870,7 +69429,6 @@ nke	O
 ugboro	O
 abuo	O
 
-
 joshua	B-PER
 
 nke	O
@@ -70940,7 +69498,6 @@ ya	O
 na	O
 onye	O
 mexico	O
-
 
 joshua	B-PER
 
@@ -71100,7 +69657,6 @@ mbu	O
 mike	B-PER
 tyson	I-PER
 
-
 joshua	B-PER
 
 osho	O
@@ -71115,9 +69671,7 @@ oha	O
 si	O
 canada	B-LOC
 
-
 taa	B-DATE
-
 
 ndi	O
 naijiria	O
@@ -71203,7 +69757,6 @@ oscar	I-ORG
 selection	I-ORG
 committee	I-ORG
 
-
 nosc	B-ORG
 
 mere	O
@@ -71215,9 +69768,7 @@ n	O
 oscars	O
 2020	B-DATE
 
-
 taa	B-DATE
-
 
 ndi	O
 naijiria	O
@@ -71265,7 +69816,6 @@ nke	O
 nwaanyi	O
 okachamara	O
 nollywood	B-ORG
-
 
 genevieve	B-PER
 nnaji	I-PER
@@ -71466,7 +70016,6 @@ goomenti	O
 jidere	O
 sowore	B-PER
 
-
 modiu	B-PER
 olaguro	I-PER
 
@@ -71572,7 +70121,6 @@ ichefu	O
 ebe	O
 naijiria	B-LOC
 
-
 naijiria	B-LOC
 
 kedu	O
@@ -71586,10 +70134,8 @@ okammuta	O
 wole	B-PER
 soyinka	I-PER
 
-
 chinua	B-PER
 achebe	I-PER
-
 
 pius	B-PER
 adesami	I-PER
@@ -71748,7 +70294,6 @@ kanu	O
 na	O
 julai	B-DATE
 
-
 otu	O
 
 n	O
@@ -71773,7 +70318,6 @@ indigenous	B-ORG
 people	I-ORG
 of	I-ORG
 biafra	I-ORG
-
 
 ipob	B-ORG
 
@@ -71843,7 +70387,6 @@ onodu	O
 na	O
 naijiria	B-LOC
 
-
 amerika	B-LOC
 
 n	O
@@ -71912,7 +70455,6 @@ ka	O
 adolf	B-PER
 hitler	I-PER
 
-
 donald	B-PER
 trump	I-PER
 
@@ -71946,7 +70488,6 @@ ndi	O
 ha	O
 na	O
 amerika	B-LOC
-
 
 donald	B-PER
 trump	I-PER
@@ -72202,7 +70743,6 @@ hapuru	O
 ituputa	O
 eagleton	B-ORG
 
-
 spiro	B-PER
 agnew	I-PER
 
@@ -72212,7 +70752,6 @@ ala	O
 nyere	O
 richard	B-PER
 nixon	I-PER
-
 
 joseph	B-PER
 biden	I-PER
@@ -72382,7 +70921,6 @@ obama	O
 n	O
 amerika	B-LOC
 
-
 republicans	O
 
 weputara	O
@@ -72424,7 +70962,6 @@ etiti	O
 ehihie	O
 na	O
 manhattan	B-LOC
-
 
 republicans	O
 
@@ -72491,7 +71028,6 @@ kariri	I-DATE
 afo	I-DATE
 iri	I-DATE
 abuo	I-DATE
-
 
 republicans	O
 
@@ -72569,7 +71105,6 @@ cia	B-ORG
 na	O
 fbi	B-ORG
 
-
 republicans	O
 
 hoputara	O
@@ -72591,7 +71126,6 @@ amerika	O
 nke	O
 abuo	O
 
-
 republicans	O
 
 ahoputala	O
@@ -72609,7 +71143,6 @@ di	O
 ka	O
 vladimir	B-PER
 putin	I-PER
-
 
 republicans	O
 
@@ -72660,7 +71193,6 @@ n	O
 etiti	B-LOC
 owuwa	I-LOC
 anyanwu	I-LOC
-
 
 republicans	O
 
@@ -73030,7 +71562,6 @@ n	O
 afo	O
 1986	B-DATE
 
-
 alozie	B-PER
 ogugbuaja	I-PER
 
@@ -73079,9 +71610,7 @@ ajose	O
 crescent	O
 surulere	B-LOC
 
-
 lagos	B-LOC
-
 
 fawehimi	B-PER
 
@@ -73361,9 +71890,7 @@ na	O
 afo	O
 iri	O
 
-
 tinubu	B-PER
-
 
 bola	B-PER
 tinubu	I-PER
@@ -73425,7 +71952,6 @@ oru	O
 komishon	O
 na	O
 yaba	B-LOC
-
 
 lagos	B-LOC
 mainland	I-LOC
@@ -73670,9 +72196,7 @@ ahia	O
 gbara	O
 saraki	B-PER
 
-
 atiku	B-PER
-
 
 amuda	B-PER
 adeleke	I-PER
@@ -73682,7 +72206,6 @@ ahia	O
 na	O
 victoria	B-LOC
 island	I-LOC
-
 
 adeleke	B-PER
 
@@ -73713,7 +72236,6 @@ high	O
 court	O
 na	O
 ikoyi	B-LOC
-
 
 legos	B-LOC
 
@@ -73995,7 +72517,6 @@ okwa	O
 na	O
 2020	O
 
-
 joe	B-PER
 biden	I-PER
 
@@ -74047,7 +72568,6 @@ ala	O
 nke	O
 2016	B-DATE
 
-
 hannatu	B-PER
 musawa	I-PER
 
@@ -74097,7 +72617,6 @@ nke	O
 
 nke	O
 us	B-LOC
-
 
 johnson	B-PER
 
@@ -74367,7 +72886,6 @@ nke	O
 37	O
 richard	B-PER
 
-
 nixon	B-PER
 
 gbaliri	O
@@ -74476,9 +72994,7 @@ ogostu	B-DATE
 9	I-DATE
 1974	I-DATE
 
-
 nixon	B-PER
-
 
 watergate	O
 
@@ -74506,7 +73022,6 @@ amerika	B-LOC
 n	O
 oktoba	B-DATE
 8,1998	I-DATE
-
 
 ulo	B-ORG
 nnochiteanya	I-ORG
@@ -74668,7 +73183,6 @@ itunyere	O
 votu	O
 227	O
 
-
 hillary	B-PER
 clinton	I-PER
 
@@ -74791,7 +73305,6 @@ azo	O
 okwa	O
 na	O
 2020	O
-
 
 joe	B-PER
 biden	I-PER
@@ -74930,10 +73443,8 @@ ekpem	O
 ikpe	O
 trump	B-PER
 
-
 hannatu	B-PER
 musawa	I-PER
-
 
 ugbo	B-ORG
 elu	I-ORG
@@ -75087,7 +73598,6 @@ i	O
 na	O
 abuja	B-LOC
 
-
 ugbo	B-ORG
 elu	I-ORG
 turkey	I-ORG
@@ -75116,7 +73626,6 @@ legos	B-LOC
 i	O
 na	O
 abuja	B-LOC
-
 
 ncaa	B-ORG
 
@@ -75168,7 +73677,6 @@ nnamdi	B-ORG
 azikiwe	I-ORG
 international	I-ORG
 airport	I-ORG
-
 
 abuja	B-LOC
 
@@ -75258,7 +73766,6 @@ emergency	I-ORG
 management	I-ORG
 agency	I-ORG
 
-
 lasema	B-ORG
 
 na	O
@@ -75270,12 +73777,9 @@ ozo	O
 na	O
 legos	B-LOC
 
-
 uduaghan	B-PER
 
-
 ogboru	B-PER
-
 
 great	B-PER
 ogboru	I-PER
@@ -75293,7 +73797,6 @@ na	O
 ntuli	O
 aka	O
 2019	B-DATE
-
 
 delta	B-LOC
 steeti	I-LOC
@@ -75326,7 +73829,6 @@ mere	O
 na	O
 march	B-DATE
 9	I-DATE
-
 
 emmanuel	B-PER
 uduaghan	I-PER
@@ -75395,7 +73897,6 @@ mepuru	O
 na	O
 februwari	B-DATE
 
-
 23	O
 
 n	O
@@ -75407,7 +73908,6 @@ ogboru	I-PER
 
 ji	O
 apc	B-ORG
-
 
 goomenti	B-ORG
 'united	I-ORG
@@ -75536,7 +74036,6 @@ mandela	B-ORG
 washington	I-ORG
 fellowship	I-ORG
 
-
 otu	O
 
 ihe	O
@@ -75664,7 +74163,6 @@ oji	O
 egbe	O
 abuo	O
 
-
 kogi	B-ORG
 steeti	I-ORG
 komandi	I-ORG
@@ -75733,13 +74231,10 @@ ka	O
 mmadu	O
 abuo	O
 
-
 victor	B-PER
 uwaifo	I-PER
 
-
 uwaifo	B-PER
-
 
 victor	B-PER
 uwaifo	I-PER
@@ -75772,11 +74267,9 @@ ogwu	O
 onye	O
 naijiria	O
 
-
 simisola	B-PER
 bolatito	I-PER
 ogunleye	I-PER
-
 
 uwaifo	B-PER
 
@@ -75823,7 +74316,6 @@ afo	I-DATE
 gara	I-DATE
 aga	I-DATE
 
-
 uwaifo	B-PER
 
 gwara	O
@@ -75868,7 +74360,6 @@ naakwado	O
 ibia	O
 benin	B-LOC
 
-
 benin	B-LOC
 
 onwe	O
@@ -75893,7 +74384,6 @@ nlafo	O
 chi	O
 ndi	O
 naijiria	O
-
 
 amerika	B-LOC
 
@@ -76062,7 +74552,6 @@ chi	O
 ndi	O
 naijiria	O
 
-
 amerika	B-LOC
 
 ndi	O
@@ -76090,7 +74579,6 @@ onye	O
 ahu	O
 naijiria	B-LOC
 
-
 walter	B-PER
 
 n	O
@@ -76103,13 +74591,11 @@ ibanye	O
 people's	B-ORG
 club	I-ORG
 
-
 otu	B-DATE
 ubochi	I-DATE
 
 nne	O
 walter	B-PER
-
 
 walter	B-PER
 
@@ -76161,7 +74647,6 @@ onye	O
 nyere	O
 ya	O
 50	O
-
 
 walter	B-PER
 
@@ -76222,7 +74707,6 @@ na	O
 nl	O
 afo	B-DATE
 
-
 rudolf	B-PER
 ogoo	I-PER
 okonkwo	I-PER
@@ -76277,7 +74761,6 @@ egwuregwu	I-ORG
 boolu	I-ORG
 naijiria	I-ORG
 
-
 amaju	B-PER
 pinnick	I-PER
 
@@ -76295,7 +74778,6 @@ obia	O
 na	O
 channels	B-ORG
 television's	I-ORG
-
 
 sunrise	B-ORG
 daily	I-ORG
@@ -76405,7 +74887,6 @@ jos,	B-LOC
 plateau	I-LOC
 state	I-LOC
 
-
 emmanuel	B-PER
 ugolee	I-PER
 
@@ -76446,10 +74927,8 @@ nke	O
 gunyere	O
 ruggedman	B-PER
 
-
 plantation	B-PER
 boiz	I-PER
-
 
 sound	B-PER
 sultan	I-PER
@@ -76554,7 +75033,6 @@ nwanyi	O
 onye	O
 britain	O
 
-
 jackie	B-PER
 armstrong	I-PER
 
@@ -76618,7 +75096,6 @@ burton	I-PER
 
 gwara	O
 mailonline	B-ORG
-
 
 jackie	B-PER
 
@@ -76764,7 +75241,6 @@ ma	O
 ndi	O
 naijiria	O
 
-
 igwe	B-PER
 
 onye	O
@@ -76831,7 +75307,6 @@ kwa	I-DATE
 afo	I-DATE
 obula	I-DATE
 
-
 ubochi	O
 nka	O
 omuma	O
@@ -76874,7 +75349,6 @@ ama	O
 ka	O
 ndi	O
 afrika	O
-
 
 rommy	B-PER
 ezeonwuka	I-PER
@@ -76966,7 +75440,6 @@ ama	B-LOC
 egwuregwu	I-LOC
 achebe	I-LOC
 
-
 fegge	B-LOC
 
 na	O
@@ -77055,7 +75528,6 @@ ezeonwuka	O
 kowara	O
 rojenny	B-PER
 
-
 bahrain	B-LOC
 
 kporo	O
@@ -77090,7 +75562,6 @@ gaakwusiriri	O
 ndi	O
 odida	B-LOC
 anyanwu	I-LOC
-
 
 rojenny	B-PER
 
@@ -77138,7 +75609,6 @@ bu	O
 onyeisi	O
 otu	O
 swan	O
-
 
 anthony	B-PER
 oji	I-PER
@@ -77378,7 +75848,6 @@ maazi	O
 chukwuowo	B-PER
 jerry	I-PER
 
-
 afo	B-DATE
 18	I-DATE
 
@@ -77403,7 +75872,6 @@ gbara	O
 onye	O
 nke	O
 abuo	O
-
 
 ayegba	B-PER
 
@@ -77463,12 +75931,10 @@ ato	O
 naanochiteanya	O
 borno	B-LOC
 
-
 news	B-ORG
 agency	I-ORG
 of	I-ORG
 nigeria	I-ORG
-
 
 nan	B-ORG
 
@@ -77579,7 +76045,6 @@ agency	I-ORG
 of	I-ORG
 nigeria	I-ORG
 
-
 nan	B-ORG
 
 gbara	O
@@ -77589,7 +76054,6 @@ tozdee	B-DATE
 
 n	O
 abuja	B-LOC
-
 
 nan	B-ORG
 
@@ -77743,7 +76207,6 @@ anyi	O
 national	O
 stadium	O
 
-
 otu	O
 
 sodiq	O
@@ -77839,7 +76302,6 @@ ohia	O
 n	O
 abia	B-LOC
 
-
 david	B-PER
 
 dere	O
@@ -77896,9 +76358,7 @@ aba	O
 abia	B-LOC
 steeti	I-LOC
 
-
 taa	B-DATE
-
 
 ulo	B-ORG
 omebe	I-ORG
@@ -77958,7 +76418,6 @@ kachasi	O
 na	O
 mpaghara	O
 njikoka	B-LOC
-
 
 dunukofia	B-LOC
 
@@ -78049,13 +76508,10 @@ na	O
 rochas	B-PER
 okorocha	I-PER
 
-
 obiora	B-PER
 okonkwo	I-PER
 
-
 naijiria	B-LOC
-
 
 chukwuma	B-PER
 soludo	I-PER
@@ -78225,14 +76681,12 @@ n	O
 anambra	B-LOC
 steeti	I-LOC
 
-
 osarenren	B-PER
 emokpae	I-PER
 
 n	O
 afo	O
 2018	B-DATE
-
 
 naijiria	B-LOC
 
@@ -78273,7 +76727,6 @@ officer	O
 ceo	O
 lapo	B-ORG
 
-
 godwin	B-PER
 ehigiamusoe	I-PER
 
@@ -78306,9 +76759,7 @@ people	I-ORG
 of	I-ORG
 biafra	I-ORG
 
-
 ipob	B-ORG
-
 
 nnamdi	B-PER
 kanu	I-PER
@@ -78384,7 +76835,6 @@ anyanwu	O
 na	O
 odida	B-LOC
 
-
 otu	O
 
 nwuru	O
@@ -78413,7 +76863,6 @@ agency	I-ORG
 of	I-ORG
 nigeria	I-ORG
 
-
 nan	B-ORG
 
 o	O
@@ -78426,7 +76875,6 @@ akara	O
 ndebanye	O
 si	O
 abeokuta	B-LOC
-
 
 oseni	B-PER
 
@@ -78468,7 +76916,6 @@ ahu	O
 n	O
 anambra	B-LOC
 
-
 oseni	B-PER
 
 ochiagha	O
@@ -78497,7 +76944,6 @@ oriri	O
 eri	O
 n	O
 aguleri	B-LOC
-
 
 anambra	B-LOC
 steeti	I-LOC
@@ -78600,7 +77046,6 @@ emepe	I-LOC
 dr	O
 chile	B-LOC
 
-
 obidigbo	B-PER
 
 onyeisioche	O
@@ -78681,7 +77126,6 @@ kwusi	O
 n	O
 aguleri	B-LOC
 
-
 taa	B-DATE
 
 anyi	O
@@ -78707,7 +77151,6 @@ eme	O
 nna	O
 anyi	O
 eri	B-PER
-
 
 taa	B-DATE
 
@@ -78738,7 +77181,6 @@ ekpeziela	O
 esemokwu	O
 banyere	O
 enaholo	B-PER
-
 
 nigeria	O
 professional	O
@@ -78771,7 +77213,6 @@ goolu	O
 mbu	O
 joshua	B-PER
 enaholo	I-PER
-
 
 enaholo	B-PER
 
@@ -78816,7 +77257,6 @@ ochichi	O
 boodu	O
 kano	B-ORG
 pillars	I-ORG
-
 
 surajo	B-PER
 shuaibu	I-PER
@@ -78930,7 +77370,6 @@ novemba	O
 na	O
 10,	B-DATE
 2019	I-DATE
-
 
 nwokocha	B-PER
 
@@ -79087,7 +77526,6 @@ irucha	O
 ajaokuta	B-ORG
 'steel	I-ORG
 company	I-ORG
-
 
 nkem	B-PER
 abonta	I-PER
@@ -79459,7 +77897,6 @@ ogige	O
 muson	O
 onikan	B-LOC
 
-
 legos	B-LOC
 
 ochicho	O
@@ -79555,7 +77992,6 @@ etiti	I-ORG
 nkeji	O
 15	O
 
-
 willie	B-PER
 obiano	I-PER
 
@@ -79630,7 +78066,6 @@ akporo	O
 nigerian	B-ORG
 bar	I-ORG
 association	I-ORG
-
 
 nba	B-ORG
 
@@ -79750,7 +78185,6 @@ odida	B-LOC
 anyanwu	I-LOC
 idemili	I-LOC
 
-
 adigwe	B-PER
 
 nyochaputa	O
@@ -79771,7 +78205,6 @@ nke	O
 
 dr	O
 okpala	B-PER
-
 
 adigwe	B-PER
 
@@ -79851,7 +78284,6 @@ na	O
 john	B-PER
 ndu	I-PER
 
-
 odommiri	B-LOC
 ogbaukwu	I-LOC
 
@@ -79902,7 +78334,6 @@ garalu	O
 onu	O
 na	O
 anambra	B-LOC
-
 
 mbanefo	B-PER
 
@@ -79967,7 +78398,6 @@ ya	O
 nafo	O
 2018	B-DATE
 
-
 ndi	B-ORG
 okaikpe	I-ORG
 nke	I-ORG
@@ -80025,7 +78455,6 @@ obiano	B-PER
 onyeisi	O
 oka	B-LOC
 
-
 otu	O
 
 ihe	O
@@ -80070,7 +78499,6 @@ site	O
 naka	O
 enoch	B-PER
 uzuegbunam	I-PER
-
 
 mbanefo	B-PER
 
@@ -80138,7 +78566,6 @@ akunuba	O
 nke	O
 naijiria	B-LOC
 
-
 ministiri	B-ORG
 ahuike	I-ORG
 nke	I-ORG
@@ -80199,7 +78626,6 @@ uto	O
 akunuba	O
 nke	O
 naijiria	B-LOC
-
 
 nwosu	B-PER
 
@@ -80316,7 +78742,6 @@ ruo	I-DATE
 na	I-DATE
 onwa	I-DATE
 januwari	I-DATE
-
 
 mbanefo	B-PER
 
@@ -80785,7 +79210,6 @@ mere	O
 na	O
 nteje	B-LOC
 
-
 okpuru	B-LOC
 ochichi	I-LOC
 oyi	I-LOC
@@ -80812,12 +79236,10 @@ site	O
 naka	O
 agf	B-ORG
 
-
 malami	B-LOC
 
 otu	O
 agf	B-ORG
-
 
 sss	B-ORG
 
@@ -80828,7 +79250,6 @@ uloike	O
 na	O
 okpukpu	O
 sowore	B-PER
-
 
 ahmed	B-PER
 lawan	I-PER
@@ -80936,7 +79357,6 @@ ndi	O
 oru	O
 apc	B-ORG
 
-
 ahmed	B-PER
 lawan	I-PER
 
@@ -81007,9 +79427,7 @@ na	O
 south	B-LOC
 yola	I-LOC
 
-
 numan	B-LOC
-
 
 lamurde	B-LOC
 
@@ -81026,7 +79444,6 @@ nta	I-ORG
 nke	I-ORG
 mustapha	I-ORG
 
-
 bako	B-ORG
 ward	I-ORG
 
@@ -81040,7 +79457,6 @@ apc	B-ORG
 
 ugbuaotu	O
 apc	B-ORG
-
 
 apc	B-ORG
 
@@ -81120,7 +79536,6 @@ onwa	I-DATE
 march,	I-DATE
 afo	I-DATE
 2019	I-DATE
-
 
 abuo	O
 
@@ -81248,7 +79663,6 @@ nwere	O
 na	O
 yola	B-LOC
 
-
 steeti	B-LOC
 adamawa	I-LOC
 
@@ -81334,7 +79748,6 @@ abuo	O
 na	O
 ato	O
 
-
 joe	B-PER
 kyari	I-PER
 gadzama	I-PER
@@ -81347,7 +79760,6 @@ ukwuu	O
 di	O
 na	O
 abuja	B-LOC
-
 
 unyahu	B-DATE
 
@@ -81429,7 +79841,6 @@ ara	O
 ruo	B-DATE
 onwa	I-DATE
 isii	I-DATE
-
 
 cbn	B-ORG
 
@@ -81693,7 +80104,6 @@ streeti	O
 ala	O
 10	O
 
-
 awada	B-LOC
 
 ufodu	O
@@ -81706,10 +80116,8 @@ meers	B-PER
 herbert	I-PER
 okolie	I-PER
 
-
 nathaniel	B-PER
 obiefuna	I-PER
-
 
 abuchi	B-PER
 chinedu	I-PER
@@ -81767,9 +80175,7 @@ ubochi	O
 abuo	O
 n'abakiliki	B-LOC
 
-
 ebonyi	B-LOC
-
 
 otu	O
 
@@ -81782,7 +80188,6 @@ nwa	B-PER
 eze	I-PER
 sam	I-PER
 ezeanyika	I-PER
-
 
 cbn	B-ORG
 
@@ -81873,7 +80278,6 @@ a	O
 gaemenwu	O
 na	O
 naijiria	B-LOC
-
 
 otu	B-ORG
 jikotara	I-ORG
@@ -81995,7 +80399,6 @@ ome	O
 ihe	O
 nkiri	O
 bollywood	B-ORG
-
 
 sridevi	B-PER
 kapoor	I-PER
@@ -82125,9 +80528,7 @@ uwa	O
 na	O
 geneva	B-LOC
 
-
 switzerland	B-LOC
-
 
 guterres	B-PER
 
@@ -82174,7 +80575,6 @@ orofia	I-LOC
 di	O
 n	O
 abagana	B-LOC
-
 
 ezinne	B-PER
 oyibo	I-PER
@@ -82393,7 +80793,6 @@ amaka	B-PER
 chibuzor	I-PER
 okoye	I-PER
 
-
 cbn	B-ORG
 
 ode	O
@@ -82421,12 +80820,10 @@ naedu	O
 ndi	O
 steeti	B-LOC
 
-
 ndi	B-ORG
 oru	I-ORG
 nchekwa	I-ORG
 uzo	I-ORG
-
 
 china	B-LOC
 
@@ -82764,7 +81161,6 @@ mazi	O
 emmanuel	B-PER
 udeagha	I-PER
 
-
 ndi	B-ORG
 oru	I-ORG
 nchekwa	I-ORG
@@ -82803,7 +81199,6 @@ ozi	O
 gaa	O
 n'ulo	B-ORG
 uka	I-ORG
-
 
 ulo	B-ORG
 akwukwo	I-ORG
@@ -82875,7 +81270,6 @@ puru	O
 iche	O
 ekwi	B-PER
 ajide	I-PER
-
 
 ubochi	B-DATE
 oria	I-DATE
@@ -83327,7 +81721,6 @@ ruo	B-DATE
 onwa	I-DATE
 isii	I-DATE
 
-
 cbn	B-ORG
 
 keere	O
@@ -83613,10 +82006,8 @@ meers	B-PER
 herbert	I-PER
 okolie	I-PER
 
-
 nathaniel	B-PER
 obiefuna	I-PER
-
 
 abuchi	B-PER
 chinedu	I-PER
@@ -83674,7 +82065,6 @@ nkuzi	O
 ubochi	O
 abuo	O
 n'abakiliki	B-LOC
-
 
 ebonyi	B-LOC
 
@@ -83740,7 +82130,6 @@ mpaghara	I-LOC
 owuwa	I-LOC
 anyanwu	I-LOC
 
-
 otu	O
 
 onye	O
@@ -83761,7 +82150,6 @@ ruputa	O
 ihe	O
 di	O
 egwu	O
-
 
 cbn	B-ORG
 
@@ -83849,7 +82237,6 @@ a	O
 gaemenwu	O
 na	O
 naijiria	B-LOC
-
 
 otu	B-ORG
 jikotara	I-ORG
@@ -84014,7 +82401,6 @@ ihe	O
 nkiri	O
 bollywood	B-ORG
 
-
 sridevi	B-PER
 kapoor	I-PER
 
@@ -84127,9 +82513,7 @@ uwa	O
 na	O
 geneva	B-LOC
 
-
 switzerland	B-LOC
-
 
 guterres	B-PER
 
@@ -84174,7 +82558,6 @@ orofia	I-LOC
 di	O
 n	O
 abagana	B-LOC
-
 
 ezinne	B-PER
 oyibo	I-PER
@@ -84420,7 +82803,6 @@ amaka	B-PER
 chibuzor	I-PER
 okoye	I-PER
 
-
 cbn	B-ORG
 
 ode	O
@@ -84434,12 +82816,10 @@ onu	O
 bu	O
 guterres	B-PER
 
-
 ndi	B-ORG
 oru	I-ORG
 nchekwa	I-ORG
 uzo	I-ORG
-
 
 china	B-LOC
 
@@ -84751,7 +83131,6 @@ odeakwukwo	O
 mazi	O
 emmanuel	B-PER
 udeagha	I-PER
-
 
 ndi	B-ORG
 oru	I-ORG
@@ -85407,7 +83786,6 @@ nna	O
 ndi	O
 alakuba	O
 
-
 bukola	B-PER
 saraki	I-PER
 
@@ -85493,7 +83871,6 @@ otu	O
 sinet	O
 taa	B-DATE
 
-
 unyaahu	B-DATE
 
 mazi	O
@@ -85525,7 +83902,6 @@ isi	O
 oche	O
 otu	O
 apc	B-ORG
-
 
 adams	B-PER
 oshiomhole	I-PER
@@ -85576,7 +83952,6 @@ na	O
 gulf	B-LOC
 nke	I-LOC
 guinea	I-LOC
-
 
 naani	B-DATE
 sonde	I-DATE
@@ -85703,7 +84078,6 @@ yana	O
 iwu	B-ORG
 ulo	I-ORG
 ogwu	I-ORG
-
 
 unyaahu	B-DATE
 
@@ -86039,7 +84413,6 @@ machi	B-DATE
 3,	I-DATE
 2020	I-DATE
 
-
 moi	B-ORG
 
 onye	O
@@ -86057,7 +84430,6 @@ na	O
 steeti	O
 anambra	O
 airs	B-ORG
-
 
 david	B-PER
 nzekwu	I-PER
@@ -86082,7 +84454,6 @@ nke	O
 ngaghari	O
 mgbasa	O
 ozi	O
-
 
 nzekwu	B-PER
 
@@ -86174,12 +84545,9 @@ abuja	B-LOC
 asaba	O
 benin	B-LOC
 
-
 ibadan	B-LOC
 
-
 kaduna	B-LOC
-
 
 lagos	B-LOC
 
@@ -86194,7 +84562,6 @@ na	O
 www	O
 smile	B-ORG
 
-
 ndi	B-ORG
 nyocha	I-ORG
 ulo	I-ORG
@@ -86202,15 +84569,12 @@ oru	I-ORG
 goomenti	I-ORG
 anambra	I-ORG
 
-
 agbto	B-ORG
-
 
 ndi	B-ORG
 orufederal	I-ORG
 inland	I-ORG
 revenue	I-ORG
-
 
 firs	B-ORG
 
@@ -86237,9 +84601,7 @@ isi	O
 nke	O
 naijiria	B-LOC
 
-
 citn	B-ORG
-
 
 firs	B-ORG
 
@@ -86285,7 +84647,6 @@ nke	O
 a	O
 na	O
 abuja	B-LOC
-
 
 chude	B-PER
 
@@ -86425,7 +84786,6 @@ manafa	I-PER
 na	O
 naijiria	B-LOC
 
-
 manafa	B-PER
 
 o	O
@@ -86505,7 +84865,6 @@ ala	O
 ime	O
 ala	O
 naijiria	B-LOC
-
 
 naijiria	B-LOC
 
@@ -86588,13 +84947,11 @@ ozo	O
 gunyere	O
 bida	B-LOC
 
-
 gongola	B-LOC
 
 sokoto	O
 benue	B-LOC
 trough	I-LOC
-
 
 anambra	B-LOC
 
@@ -86682,7 +85039,6 @@ na	O
 uto	O
 ncprd	B-ORG
 
-
 otu	B-ORG
 ike	I-ORG
 nke	I-ORG
@@ -86709,7 +85065,6 @@ abubakar	I-ORG
 tafawa	I-ORG
 balewa	I-ORG
 
-
 bauchi	B-LOC
 
 onye	O
@@ -86718,10 +85073,8 @@ ochichi	O
 nke	O
 nnpc	B-ORG
 
-
 mele	B-PER
 kyari	I-PER
-
 
 kyari	B-PER
 
@@ -86744,7 +85097,6 @@ utu	I-ORG
 agumakwukwo	I-ORG
 na	I-ORG
 nkuzi	I-ORG
-
 
 kyari	B-PER
 
@@ -86793,7 +85145,6 @@ nleta	O
 onye	O
 isi	O
 citn	B-ORG
-
 
 dame	B-PER
 gladys	I-PER
@@ -87126,7 +85477,6 @@ oru	O
 a	O
 propcom	B-ORG
 
-
 felicia	B-PER
 nzomisaki	I-PER
 
@@ -87354,7 +85704,6 @@ aru	I-ORG
 oru	I-ORG
 ugbo	I-ORG
 
-
 umar	B-PER
 danbatta	I-PER
 
@@ -87386,16 +85735,12 @@ consumer	B-ORG
 affairs	I-ORG
 bureau	I-ORG
 
-
 cab	B-ORG
-
 
 ncc	B-ORG
 
-
 felicia	B-PER
 onwuegbuchulam	I-PER
-
 
 danbatta	B-PER
 
@@ -87430,7 +85775,6 @@ kpoo	O
 akara	O
 ncc	B-ORG
 
-
 622	O
 
 nefu	O
@@ -87456,7 +85800,6 @@ a	O
 ka	O
 ndi	O
 ncc	B-ORG
-
 
 danbatta	B-PER
 
@@ -87484,7 +85827,6 @@ uzo	O
 mgbazi	O
 nke	O
 ncc	B-ORG
-
 
 danbatta	B-PER
 
@@ -87544,7 +85886,6 @@ nwetara	O
 na	O
 ncc	B-ORG
 
-
 unyaahu	B-DATE
 
 nnyocha	O
@@ -87568,7 +85909,6 @@ oktoba	I-DATE
 nime	O
 mkpesa	O
 19,977	O
-
 
 ncc	B-ORG
 
@@ -87779,9 +86119,7 @@ aku	I-ORG
 nke	I-ORG
 naijiria	I-ORG
 
-
 cbn	B-ORG
-
 
 godwin	B-PER
 emefiele	I-PER
@@ -87817,9 +86155,7 @@ aku	I-ORG
 nke	I-ORG
 naijiria	I-ORG
 
-
 cbn	B-ORG
-
 
 godwin	B-PER
 emefiele	I-PER
@@ -88150,7 +86486,6 @@ uwa	O
 na	O
 naijiria	B-LOC
 
-
 taa	B-DATE
 
 omo	O
@@ -88167,7 +86502,6 @@ omo	O
 a	O
 akowaputara	O
 naijiria	B-LOC
-
 
 cbn	B-ORG
 
@@ -88388,9 +86722,7 @@ dika	O
 exxon	B-ORG
 mobil	I-ORG
 
-
 shell	B-ORG
-
 
 china	B-ORG
 petroleum	I-ORG
@@ -88404,7 +86736,6 @@ ugbu	O
 a	O
 bu	O
 google	B-ORG
-
 
 microsoft	B-ORG
 
@@ -88534,7 +86865,6 @@ di	O
 na	O
 daura	B-ORG
 
-
 garba	B-PER
 shehu	I-PER
 
@@ -88613,7 +86943,6 @@ abuja	O
 nututu	O
 satode	B-DATE
 
-
 buhari	B-PER
 
 enweghi	O
@@ -88622,7 +86951,6 @@ gbasara	O
 nkato	O
 ndi	O
 us	B-LOC
-
 
 uk	B-LOC
 
@@ -88634,7 +86962,6 @@ kwukwara	O
 na	O
 goomenti	B-ORG
 naijiria	I-ORG
-
 
 femi	B-PER
 adesina	I-PER
@@ -88694,7 +87021,6 @@ aza	O
 ajuju	O
 us	B-LOC
 
-
 uk	B-LOC
 
 ma	O
@@ -88718,7 +87044,6 @@ na	O
 goomenti	B-ORG
 naijiria	I-ORG
 
-
 adesina	B-PER
 
 kwukwara	O
@@ -88735,7 +87060,6 @@ naasopuru	O
 oka	O
 mmuta	O
 soyinka	B-PER
-
 
 buhari	B-PER
 
@@ -88800,9 +87124,7 @@ na	O
 twit	O
 buhari	B-PER
 
-
 taa	B-DATE
-
 
 buhari	B-PER
 
@@ -88817,7 +87139,6 @@ tozdee	B-DATE
 
 na	O
 akure	B-LOC
-
 
 giwa	B-PER
 
@@ -88890,7 +87211,6 @@ tozdee	B-DATE
 
 na	O
 akure	B-LOC
-
 
 giwa	B-PER
 
@@ -89064,7 +87384,6 @@ buhari	B-PER
 egbochiri	O
 hitler	B-PER
 
-
 ochichi	B-LOC
 soviet	I-LOC
 
@@ -89124,7 +87443,6 @@ otu	O
 na	O
 madrid	B-LOC
 
-
 spain	B-LOC
 
 naezube	O
@@ -89168,7 +87486,6 @@ ndi	O
 otu	O
 na	O
 madrid	B-LOC
-
 
 spain	B-LOC
 
@@ -89566,7 +87883,6 @@ akaebe	O
 na	O
 nde	O
 
-
 ndi	O
 naijiria	O
 
@@ -89789,7 +88105,6 @@ megidere	O
 akuku	O
 301	O
 
-
 412	O
 
 na	O
@@ -89998,7 +88313,6 @@ mgbe	O
 afo	B-DATE
 ato	I-DATE
 gachara	I-DATE
-
 
 mgbasa	B-ORG
 azumahia	I-ORG
@@ -90388,7 +88702,6 @@ umu	O
 nwanyi	O
 abuo	O
 
-
 onye	O
 naijiria	O
 
@@ -90443,9 +88756,7 @@ bu	O
 onye	O
 mbu	O
 
-
 davido	B-PER
-
 
 chioma	B-PER
 
@@ -90458,7 +88769,6 @@ na	O
 mba	O
 united	B-LOC
 kingdom	I-LOC
-
 
 onye	O
 naijiria	O
@@ -90507,14 +88817,11 @@ de	O
 david	B-PER
 adedeji	I-PER
 
-
 ifeanyi	B-PER
 adeleke	I-PER
 jr	I-PER
 
-
 davido	B-PER
-
 
 wizkid	B-PER
 
@@ -90528,7 +88835,6 @@ a	O
 hoputara	O
 egwu	O
 burna	B-PER
-
 
 ndi	O
 naijiria	O
@@ -90590,7 +88896,6 @@ ninwe	O
 omalicha	O
 afo	B-DATE
 
-
 nathalie	B-PER
 joachim	I-PER
 
@@ -90598,14 +88903,12 @@ na	O
 spektral	B-PER
 quartet	I-PER
 
-
 fanm	B-PER
 d'ayiti	I-PER
 
 na	O
 angelique	B-PER
 kidjo	I-PER
-
 
 celia	B-PER
 
@@ -90650,7 +88953,6 @@ ochichi	O
 nke	O
 naijiria	B-LOC
 
-
 oktoba	B-DATE
 1,	I-DATE
 1960	I-DATE
@@ -90664,16 +88966,13 @@ ha	O
 naka	O
 britain	B-LOC
 
-
 jenuwari	B-DATE
 15,	I-DATE
 1966	I-DATE
 
-
 julai	B-DATE
 6,	I-DATE
 1967	I-DATE
-
 
 jenuwari	B-DATE
 15,	I-DATE
@@ -90857,7 +89156,6 @@ ubochi	B-DATE
 ato	I-DATE
 gachara	I-DATE
 
-
 may	B-DATE
 30,	I-DATE
 1967	I-DATE
@@ -90897,7 +89195,6 @@ anyanwu	I-LOC
 
 na	O
 naijiria	B-LOC
-
 
 ojukwu	B-PER
 
@@ -90968,17 +89265,13 @@ akauntu	O
 nke	O
 biafra	B-LOC
 
-
 guardian	B-ORG
-
 
 mee	B-DATE
 4,	I-DATE
 2000	I-DATE
 
-
 otu	O
-
 
 abuo	O
 
@@ -91000,7 +89293,6 @@ agha	O
 bu	O
 adewale	B-PER
 ademoyega	I-PER
-
 
 ano	O
 
@@ -91229,7 +89521,6 @@ enwere	O
 na	O
 aburi	B-LOC
 
-
 ghana	B-LOC
 
 nke	O
@@ -91366,7 +89657,6 @@ e	O
 kwuputachara	O
 biafra	B-LOC
 
-
 n'ubochi	B-DATE
 ole	I-DATE
 na	I-DATE
@@ -91423,7 +89713,6 @@ nke	O
 michael	B-PER
 collins	I-PER
 
-
 afo	B-DATE
 iri	I-DATE
 na	I-DATE
@@ -91431,10 +89720,8 @@ asaa	I-DATE
 gara	I-DATE
 aga	I-DATE
 
-
 edwin	B-PER
 madunagu	I-PER
-
 
 umu	O
 naijiria	O
@@ -91886,7 +90173,6 @@ naachi	O
 na	O
 naijiria	B-LOC
 
-
 gowon	B-PER
 
 kemgbe	O
@@ -92010,7 +90296,6 @@ cross	B-LOC
 river	I-LOC
 state	I-LOC
 
-
 afo	B-DATE
 iri	I-DATE
 
@@ -92033,7 +90318,6 @@ ihe	O
 gen	O
 ibrahim	B-PER
 babangida	I-PER
-
 
 babangida	B-PER
 
@@ -92068,7 +90352,6 @@ ndoro	O
 ndoro	O
 ochichi	O
 taa	B-DATE
-
 
 naijiria	B-LOC
 
@@ -92217,7 +90500,6 @@ pesent	O
 iri	O
 ise	O
 
-
 taa	B-DATE
 
 gini	O
@@ -92250,7 +90532,6 @@ o	O
 bu	O
 obere	O
 naijiria	B-LOC
-
 
 otu	O
 
@@ -92324,9 +90605,7 @@ bu	O
 steeti	O
 ise	O
 
-
 abia	B-LOC
-
 
 anambra	B-LOC
 
@@ -92351,7 +90630,6 @@ naijiria	B-LOC
 gunyere	O
 rivers	O
 bayelsa	B-LOC
-
 
 delta	B-LOC
 
@@ -93180,7 +91458,6 @@ ahu	O
 ngosiputa	O
 amaechi	B-PER
 
-
 ulo	B-ORG
 akwukwo	I-ORG
 nke	I-ORG
@@ -93190,7 +91467,6 @@ njem	I-ORG
 di	O
 na	O
 zaria	B-LOC
-
 
 goomenti	B-ORG
 etiti	I-ORG
@@ -93296,7 +91572,6 @@ mahadum	O
 nke	O
 naijiria	B-LOC
 
-
 vc	B-ORG
 
 kwuru	O
@@ -93373,7 +91648,6 @@ worth	O
 na	O
 houston	B-LOC
 
-
 erughi	B-DATE
 nkeji	I-DATE
 90	I-DATE
@@ -93410,7 +91684,6 @@ naijiria	B-LOC
 ruo	O
 taa	B-DATE
 
-
 afrika	B-LOC
 
 dika	O
@@ -93443,7 +91716,6 @@ jikoro	I-ORG
 mahadum	I-ORG
 nke	I-ORG
 afrika	I-ORG
-
 
 afrika	B-LOC
 
@@ -93514,7 +91786,6 @@ ike	O
 ime	O
 ka	O
 naijiria	B-LOC
-
 
 china	B-LOC
 
@@ -93780,7 +92051,6 @@ hapuru	O
 ala	O
 naijiria	O
 guardian	B-ORG
-
 
 oktoba	B-DATE
 4,	I-DATE
@@ -94104,7 +92374,6 @@ ochichi	O
 obodo	O
 ato	O
 
-
 n'oge	B-DATE
 mmiri	I-DATE
 
@@ -94209,7 +92478,6 @@ owuwa	O
 anyanwu	O
 naijiria	B-LOC
 
-
 afo	B-DATE
 a	I-DATE
 
@@ -94259,10 +92527,8 @@ ugbu	O
 a	O
 batonon	B-PER
 
-
 n'abali	B-DATE
 tuzdee	I-DATE
-
 
 ogost	B-DATE
 20	I-DATE
@@ -94651,7 +92917,6 @@ uwe	O
 ndi	O
 dss	B-ORG
 
-
 marshall	B-PER
 
 bu	O
@@ -94727,9 +92992,7 @@ nkwari	I-ORG
 transcorp	I-ORG
 hilton	I-ORG
 
-
 abuja	B-LOC
-
 
 n'otu	B-DATE
 ubochi	I-DATE
@@ -94829,7 +93092,6 @@ jikoro	O
 omoyele	B-PER
 sowore	I-PER
 
-
 dss	B-ORG
 
 aha	O
@@ -94885,7 +93147,6 @@ nkiri	O
 omere	O
 nke	O
 nollywood	B-ORG
-
 
 genevieve	B-PER
 nnaji	I-PER
@@ -95061,7 +93322,6 @@ nke	O
 mere	O
 anyi	O
 otu	O
-
 
 naijiria	B-LOC
 
@@ -95251,10 +93511,8 @@ eto	O
 ndi	O
 naijiria	O
 
-
 tai	B-PER
 solarin	I-PER
-
 
 tai	B-PER
 solarin	I-PER
@@ -95284,7 +93542,6 @@ ugbua	B-DATE
 
 ndi	O
 naijiria	B-LOC
-
 
 tai	B-PER
 solarin	I-PER
@@ -95327,7 +93584,6 @@ otu	B-ORG
 mba	I-ORG
 naijiria	I-ORG
 
-
 npn	B-ORG
 
 putara	O
@@ -95345,7 +93601,6 @@ nke	O
 otu	B-ORG
 njiko	I-ORG
 naijiria	I-ORG
-
 
 upn	B-ORG
 
@@ -95509,7 +93764,6 @@ na	O
 mahadum	B-ORG
 ife	I-ORG
 
-
 mahadum	B-ORG
 obafemi	I-ORG
 awolowo	I-ORG
@@ -95529,7 +93783,6 @@ ndi	I-ORG
 ozuzu	I-ORG
 ndi	I-ORG
 mmuta	I-ORG
-
 
 alps	B-ORG
 
@@ -95603,7 +93856,6 @@ abuo	O
 
 na	O
 mbu	O
-
 
 tai	B-PER
 solarin	I-PER
@@ -95712,7 +93964,6 @@ agbanweta	O
 netiti	O
 tai	B-PER
 solarin	I-PER
-
 
 tai	B-PER
 solarin	I-PER
@@ -95944,7 +94195,6 @@ dere	O
 si	O
 kalaba	B-LOC
 
-
 kros	B-LOC
 riva	I-LOC
 steeti	I-LOC
@@ -95981,7 +94231,6 @@ ntoghapu	B-ORG
 ndi	I-ORG
 afrika	I-ORG
 
-
 alexander	B-PER
 hammond	I-PER
 
@@ -96016,7 +94265,6 @@ ghoo	O
 paradais	O
 amerika	B-LOC
 
-
 us	B-LOC
 
 tinyere	O
@@ -96047,7 +94295,6 @@ out	O
 jikoro	O
 united	B-ORG
 nations	I-ORG
-
 
 taa	B-DATE
 
@@ -96106,7 +94353,6 @@ afrika	I-ORG
 
 nke	O
 moscow	B-LOC
-
 
 us	B-LOC
 
@@ -96298,7 +94544,6 @@ isi	O
 ala	O
 ethiopia	O
 
-
 abiy	B-PER
 ahmed	I-PER
 
@@ -96319,10 +94564,8 @@ anya	O
 nikwaga	O
 afrika	B-LOC
 
-
 phumlani	B-PER
 m	I-PER
-
 
 majozi	B-PER
 
@@ -96389,7 +94632,6 @@ toyin	O
 street	O
 ikeja	B-LOC
 
-
 legos	B-LOC
 
 mgbe	O
@@ -96397,7 +94639,6 @@ anyi	O
 biarutere	O
 shi	B-PER
 shi	I-PER
-
 
 eh	B-PER
 eh	I-PER
@@ -96488,7 +94729,6 @@ ugbo	I-ORG
 mmiri	I-ORG
 na	I-ORG
 naijiria	I-ORG
-
 
 daily	B-ORG
 trust	I-ORG
@@ -96925,10 +95165,8 @@ isi	O
 nke	O
 mbu	O
 
-
 seyi	B-PER
 akinwunmi	I-PER
-
 
 dikko	B-PER
 
@@ -96969,7 +95207,6 @@ ha	O
 horo	O
 oduko	B-PER
 
-
 bichi	B-PER
 
 bu	O
@@ -96984,7 +95221,6 @@ oduko	B-PER
 maka	O
 charles	B-PER
 etim	I-PER
-
 
 oduko	B-PER
 
@@ -97023,7 +95259,6 @@ ntoakuko	O
 nke	O
 nff	B-ORG
 
-
 demola	B-PER
 olajire	I-PER
 
@@ -97041,7 +95276,6 @@ naaga	O
 nihu	O
 mana	O
 bichi	B-PER
-
 
 ndi	B-ORG
 uwe	I-ORG
@@ -97142,7 +95376,6 @@ national	I-ORG
 electoral	I-ORG
 commission	I-ORG
 
-
 inec	B-ORG
 
 juru	O
@@ -97222,7 +95455,6 @@ independent	B-ORG
 national	I-ORG
 electoral	I-ORG
 commission	I-ORG
-
 
 inec	B-ORG
 
@@ -97342,7 +95574,6 @@ all	O
 progressive	O
 congress	O
 
-
 apc	B-ORG
 
 kwuru	O
@@ -97427,7 +95658,6 @@ na	O
 saudi	B-LOC
 arabia	I-LOC
 
-
 onye	O
 naijiria	O
 
@@ -97439,10 +95669,8 @@ britain	O
 kuchara	O
 ruiz	B-PER
 
-
 anthony	B-PER
 joshua	I-PER
-
 
 n'abali	B-DATE
 satode	I-DATE
@@ -97466,7 +95694,6 @@ na	O
 saudi	B-LOC
 arabia	I-LOC
 
-
 onye	O
 naijiria	O
 
@@ -97478,7 +95705,6 @@ na	O
 britain	O
 kuchara	O
 ruiz	B-PER
-
 
 joshua	B-PER
 tiri	I-PER
@@ -97562,9 +95788,7 @@ mmadu	O
 saudi	B-LOC
 arabia	I-LOC
 
-
 joshua	B-PER
-
 
 n'abali	B-DATE
 
@@ -97596,7 +95820,6 @@ abuo	O
 
 na	O
 fraide	B-DATE
-
 
 roshia	B-LOC
 
@@ -97668,7 +95891,6 @@ nke	O
 na	O
 qatar	B-LOC
 
-
 bbc	B-ORG
 
 komitii	O
@@ -97683,7 +95905,6 @@ notu	O
 nzuko	O
 na	O
 lausanne	B-LOC
-
 
 switzerland	B-LOC
 
@@ -97763,7 +95984,6 @@ dg	O
 yusuf	B-PER
 bichi	I-PER
 
-
 premium	B-ORG
 times	I-ORG
 
@@ -97779,7 +95999,6 @@ onye	O
 isi	O
 ndi	O
 dss	B-ORG
-
 
 premium	B-ORG
 times	I-ORG
@@ -97859,7 +96078,6 @@ akuko	O
 na	O
 fraide	B-DATE
 
-
 premium	B-ORG
 times	I-ORG
 
@@ -97900,12 +96118,10 @@ oru	I-ORG
 nchebe	I-ORG
 obodo	I-ORG
 
-
 7	O
 
 na	O
 abuja	B-LOC
-
 
 isi	B-ORG
 ngalaba	I-ORG
@@ -98176,9 +96392,7 @@ anambra	O
 west	O
 oyi	B-LOC
 
-
 dunukofia	B-LOC
-
 
 awka	B-LOC
 north	I-LOC
@@ -98191,12 +96405,9 @@ orumba	O
 south	O
 aguata	B-LOC
 
-
 ihiala	B-LOC
 
-
 ogbaru	B-LOC
-
 
 odida	B-LOC
 anyanwu	I-LOC
@@ -98245,7 +96456,6 @@ bi	O
 na	O
 madrid	B-LOC
 
-
 spain	B-LOC
 
 o	O
@@ -98264,7 +96474,6 @@ ulo	O
 oru	O
 nkwado	O
 abuo	O
-
 
 world	B-ORG
 bank	I-ORG
@@ -98285,13 +96494,10 @@ na	O
 steeti	O
 ise	O
 
-
 anambra,	B-LOC
 borno	I-LOC
 
-
 benue	B-LOC
-
 
 taraba	B-LOC
 
@@ -98387,7 +96593,6 @@ nke	O
 steeti	B-LOC
 anambra	I-LOC
 
-
 dozzy	B-ORG
 foundation	I-ORG
 
@@ -98418,7 +96623,6 @@ ya	O
 dr	O
 nkem	B-PER
 okeke	I-PER
-
 
 obiano	B-PER
 
@@ -98658,7 +96862,6 @@ nke	O
 dozzy	B-ORG
 foundation	I-ORG
 
-
 okpalaeke	B-PER
 
 kporo	O
@@ -98728,9 +96931,7 @@ association	I-ORG
 asa	O
 madrid	B-LOC
 
-
 spain	B-LOC
-
 
 obiano	B-PER
 
@@ -98761,7 +96962,6 @@ gbue	O
 ha	O
 okpalaeke	B-PER
 
-
 okpalaeke	B-PER
 
 mr	O
@@ -98776,7 +96976,6 @@ state	I-ORG
 emergency	I-ORG
 management	I-ORG
 agency	I-ORG
-
 
 sema	B-ORG
 
@@ -98868,7 +97067,6 @@ maazi	O
 ben	B-PER
 chiobi	I-PER
 
-
 chiobi	B-PER
 
 o	O
@@ -98935,7 +97133,6 @@ odimma	O
 ogbe	B-LOC
 mgbachu	I-LOC
 
-
 nkpo	B-LOC
 
 r	O
@@ -98944,7 +97141,6 @@ north	I-LOC
 local	I-LOC
 government	I-LOC
 area	I-LOC
-
 
 anambra	B-LOC
 steeti	I-LOC
@@ -98993,7 +97189,6 @@ nkpor	I-ORG
 development	I-ORG
 union	I-ORG
 
-
 ndu	B-ORG
 
 onyeisi	O
@@ -99011,7 +97206,6 @@ nche	I-ORG
 nkpor	I-ORG
 central	I-ORG
 
-
 dss	B-ORG
 
 onye	O
@@ -99025,7 +97219,6 @@ udoh	O
 rioriri	O
 ka	O
 ndu	B-ORG
-
 
 arinze	B-PER
 idemili	I-PER
@@ -99162,7 +97355,6 @@ law	I-ORG
 enforcement	I-ORG
 agency	I-ORG
 
-
 ndlea	B-ORG
 
 dr	O
@@ -99179,7 +97371,6 @@ onyeisi	O
 ohuru	O
 nke	O
 ndlea	B-ORG
-
 
 anambra	B-ORG
 state	I-ORG
@@ -99233,7 +97424,6 @@ na	O
 ministri	B-ORG
 ahuike	I-ORG
 
-
 ndlea	B-ORG
 
 anyi	O
@@ -99281,7 +97471,6 @@ enlightenment	O
 nke	O
 steeti	B-LOC
 anambra	I-LOC
-
 
 willie	B-PER
 obiano	I-PER
@@ -99590,7 +97779,6 @@ naka	O
 john	B-PER
 ndu	I-PER
 
-
 awkuzu-umunya	B-LOC
 
 oyi	O
@@ -99723,13 +97911,10 @@ na	O
 februwari	B-DATE
 19	I-DATE
 
-
 n'anedo	O
 hoolu	O
 
-
 nnewi	B-LOC
-
 
 steeti	B-LOC
 anambra	I-LOC
@@ -99772,7 +97957,6 @@ ndu	I-PER
 umunnachi	O
 dunukofia	B-LOC
 lga	I-LOC
-
 
 jenuwari	B-DATE
 24,	I-DATE
@@ -99949,7 +98133,6 @@ maazi	O
 kenneth	B-PER
 nwose	I-PER
 
-
 fredrick	B-PER
 nwabufo	I-PER
 
@@ -99957,7 +98140,6 @@ na	O
 june	B-DATE
 12,	I-DATE
 2018	I-DATE
-
 
 joshua	B-PER
 dariye	I-PER
@@ -100060,7 +98242,6 @@ dariye	B-PER
 
 na	O
 tozdee	B-DATE
-
 
 orji	B-PER
 uzor	I-PER
@@ -100173,7 +98354,6 @@ idoro	O
 ego	O
 na	O
 efcc	B-ORG
-
 
 tinubu	B-PER
 
@@ -100290,10 +98470,8 @@ na	O
 may	B-DATE
 2019	I-DATE
 
-
 fredrick	B-PER
 nwabufo	I-PER
-
 
 arsenal	B-ORG
 
@@ -100697,9 +98875,7 @@ bank	B-ORG
 of	I-ORG
 nigeria	I-ORG
 
-
 cbn	B-ORG
-
 
 adedayo	B-PER
 bakare	I-PER
@@ -100808,7 +98984,6 @@ entertainment	O
 na	O
 naijiria	B-LOC
 
-
 herbert	B-PER
 wigwe	I-PER
 
@@ -100862,7 +99037,6 @@ uba	O
 mere	O
 wizkid	B-PER
 
-
 banky	B-PER
 w	I-PER
 
@@ -100891,7 +99065,6 @@ w	I-PER
 akotoola	O
 goomenti	B-ORG
 naijiria	I-ORG
-
 
 banky	B-PER
 w	I-PER
@@ -100965,7 +99138,6 @@ maka	O
 akwukwo	O
 akuko	O
 sun	B-DATE
-
 
 khafi	B-PER
 
@@ -101048,7 +99220,6 @@ nkowasi	O
 nke	O
 sun	B-DATE
 
-
 uk	B-LOC
 
 noge	O
@@ -101070,7 +99241,6 @@ akuko	O
 mbiputa	O
 nke	O
 sun	B-DATE
-
 
 uk	B-LOC
 
@@ -101394,7 +99564,6 @@ na	O
 mr	O
 gedoni	B-PER
 
-
 otu	O
 
 edemede	O
@@ -101420,7 +99589,6 @@ dika	O
 ya	O
 na	O
 gedoni	B-PER
-
 
 gedoni	B-PER
 
@@ -101619,7 +99787,6 @@ brother	O
 naija	B-PER
 star	I-PER
 
-
 khaffy	B-ORG
 
 no	O
@@ -101635,7 +99802,6 @@ ahu	I-ORG
 na	I-ORG
 enweghi	I-ORG
 ikike	I-ORG
-
 
 onye	B-ORG
 uweojii	I-ORG
@@ -101680,7 +99846,6 @@ novemba	B-DATE
 gara	I-DATE
 aga	I-DATE
 
-
 scotland	B-ORG
 yard	I-ORG
 
@@ -101709,7 +99874,6 @@ ka	O
 uk	B-ORG
 press	I-ORG
 association	I-ORG
-
 
 onye	B-ORG
 uweojii	I-ORG
@@ -102048,7 +100212,6 @@ nke	I-ORG
 kawo	I-ORG
 sharia	I-ORG
 
-
 kaduna	B-LOC
 
 nikpe	O
@@ -102082,7 +100245,6 @@ iwu	O
 nke	O
 kaduna	B-LOC
 steeti	I-LOC
-
 
 naijiria	B-LOC
 
@@ -102176,7 +100338,6 @@ mbu	O
 tudun	B-PER
 wada	I-PER
 
-
 kaduna	B-LOC
 
 agbanyeghi	O
@@ -102204,9 +100365,7 @@ ikpe	I-ORG
 nke	I-ORG
 sharia	I-ORG
 
-
 kawo	B-LOC
-
 
 kaduna	B-LOC
 
@@ -102441,7 +100600,6 @@ onyeisi	O
 whip	O
 sabi	B-PER
 abdullahi	I-PER
-
 
 bobrisky	B-PER
 
@@ -102683,7 +100841,6 @@ bobrisky	B-PER
 na	O
 satode	B-DATE
 
-
 ndi	O
 naijiria	O
 
@@ -102739,7 +100896,6 @@ gaeji	O
 kowaa	O
 okikejenda	O
 bobrisky	B-PER
-
 
 bisi	B-PER
 alimi	I-PER
@@ -102845,7 +101001,6 @@ statistics	I-ORG
 okeala	O
 naijiria	B-LOC
 
-
 cameroon	B-LOC
 
 onuego	O
@@ -102858,7 +101013,6 @@ adaala	O
 n'onwa	B-DATE
 gara	I-DATE
 aga	I-DATE
-
 
 national	B-ORG
 bureau	I-ORG
@@ -102890,7 +101044,6 @@ pasenti	O
 1102	O
 n	O
 ogusutu	B-DATE
-
 
 nbs	B-ORG
 
@@ -103000,7 +101153,6 @@ dere	O
 na	O
 july	B-DATE
 2019	I-DATE
-
 
 boris	B-PER
 johnson	I-PER
@@ -103216,7 +101368,6 @@ nke	I-ORG
 steeti	I-ORG
 borno	I-ORG
 
-
 abdulkarim	B-PER
 lawan	I-PER
 
@@ -103306,7 +101457,6 @@ ebe	O
 obibi	O
 na	O
 lagos	B-LOC
-
 
 2	O
 
@@ -103494,7 +101644,6 @@ iwu	O
 nke	O
 naijiria	B-LOC
 
-
 n'okpuru	B-LOC
 ochichi	I-LOC
 degema	I-LOC
@@ -103637,7 +101786,6 @@ ozo	O
 na	O
 wednesde	B-DATE
 
-
 n'okpuru	B-LOC
 ochichi	I-LOC
 degema	I-LOC
@@ -103741,7 +101889,6 @@ kpebiri	O
 na	O
 theman	B-PER
 
-
 ahmadu	B-PER
 umaru	I-PER
 fintiri	I-PER
@@ -103761,7 +101908,6 @@ aka	O
 govano	O
 steeti	B-LOC
 adamawa	I-LOC
-
 
 fintiri	B-LOC
 
@@ -103787,9 +101933,7 @@ all	O
 progressive	O
 congress	O
 
-
 apc	B-ORG
-
 
 independent	B-ORG
 national	I-ORG
@@ -103848,7 +101992,6 @@ defense	I-ORG
 of	I-ORG
 democracy	I-ORG
 
-
 mrdd	B-ORG
 
 reverend	O
@@ -103903,7 +102046,6 @@ yola	B-LOC
 
 na	O
 fraide	B-DATE
-
 
 malami	B-LOC
 
@@ -104042,7 +102184,6 @@ gaeme	O
 na	O
 benin	B-LOC
 
-
 edo	B-LOC
 steeti	I-LOC
 
@@ -104174,7 +102315,6 @@ lille	B-PER
 
 nke	O
 france	B-LOC
-
 
 victor	B-PER
 osimhen	I-PER
@@ -104448,7 +102588,6 @@ nyere	O
 na	O
 satode	B-DATE
 
-
 anwar	B-PER
 
 kwuru	O
@@ -104467,9 +102606,7 @@ na	O
 nari	O
 ise	O
 
-
 anwar	B-PER
-
 
 anwar	B-PER
 
@@ -104748,7 +102885,6 @@ n	O
 ogostu	B-DATE
 2019	I-DATE
 
-
 goomenti	B-ORG
 lagos	I-ORG
 steeti	I-ORG
@@ -104849,7 +102985,6 @@ dr	O
 biodun	B-PER
 olaniran	I-PER
 
-
 lebron	B-PER
 james	I-PER
 
@@ -104882,7 +103017,6 @@ di	O
 na	O
 brentwood	B-LOC
 
-
 california	B-LOC
 
 nke	O
@@ -104895,7 +103029,6 @@ ochichi	O
 nke	O
 steeti	B-LOC
 adamawa	I-LOC
-
 
 independent	B-ORG
 national	I-ORG
@@ -104999,7 +103132,6 @@ ala	O
 muhammadu	B-PER
 buhari	I-PER
 
-
 aisha	B-PER
 buhari	I-PER
 
@@ -105045,7 +103177,6 @@ onyeisi	O
 ala	O
 yemi	B-PER
 osinbajo	I-PER
-
 
 independent	B-ORG
 national	I-ORG
@@ -105130,7 +103261,6 @@ ndi	O
 ozo	O
 nke	O
 england	B-LOC
-
 
 leicester	B-LOC
 city	I-LOC
@@ -105246,7 +103376,6 @@ spain	B-LOC
 na	O
 itali	B-LOC
 
-
 barcelona	B-LOC
 
 na	O
@@ -105343,9 +103472,7 @@ tuzdee	I-DATE
 na	I-DATE
 tozdee	I-DATE
 
-
 magu	B-PER
-
 
 magu	B-PER
 
@@ -105366,7 +103493,6 @@ and	I-ORG
 financial	I-ORG
 crimes	I-ORG
 commission	I-ORG
-
 
 ibrahim	B-PER
 magu	I-PER
@@ -105417,7 +103543,6 @@ na	O
 legoosu	O
 dolapo	B-PER
 
-
 magu	B-PER
 
 mgbe	O
@@ -105429,7 +103554,6 @@ naekwu	O
 okwu	O
 na	O
 tuzdee	B-DATE
-
 
 yusuf	B-PER
 
@@ -105480,7 +103604,6 @@ okwu	O
 na	O
 tuzdee	B-DATE
 
-
 yusuf	B-PER
 
 mana	O
@@ -105516,10 +103639,8 @@ m	O
 si	O
 ibadan	B-LOC
 
-
 mercy	B-PER
 eke	I-PER
-
 
 26	O
 
@@ -105568,16 +103689,13 @@ abụọ	O
 ịga	O
 dubai	B-LOC
 
-
 frodd	B-PER
-
 
 omatshola	B-PER
 
 na	O
 seyi	B-PER
 awolowo	I-PER
-
 
 uwa	B-PER
 suleman	I-PER
@@ -105954,7 +104072,6 @@ of	I-ORG
 south	I-ORG
 africa	I-ORG
 
-
 afo	B-DATE
 ufodu	I-DATE
 gara	I-DATE
@@ -105972,7 +104089,6 @@ daa	O
 nnukwu	O
 onye	O
 mno	B-ORG
-
 
 omobola	B-PER
 johnson	I-PER
@@ -105994,7 +104110,6 @@ si	O
 na	O
 legos	B-LOC
 
-
 uwa	B-PER
 suleman	I-PER
 
@@ -106369,7 +104484,6 @@ authority	I-ORG
 of	I-ORG
 south	I-ORG
 africa	I-ORG
-
 
 afo	B-DATE
 ufodu	I-DATE
@@ -106393,7 +104507,6 @@ nha	O
 ihe	O
 kariri	O
 n1trn	O
-
 
 omobola	B-PER
 johnson	I-PER
@@ -106683,7 +104796,6 @@ ebe	O
 onye	O
 cameroon	O
 
-
 douglas	B-PER
 pajetat	I-PER
 
@@ -106766,7 +104878,6 @@ ndi	O
 egwuregwu	O
 england	B-LOC
 
-
 teone	B-PER
 mings	I-PER
 
@@ -106778,7 +104889,6 @@ oma	O
 na	O
 real	B-ORG
 madrid	I-ORG
-
 
 chelsea	B-ORG
 
@@ -106826,7 +104936,6 @@ oma	O
 na	O
 real	B-ORG
 madrid	I-ORG
-
 
 chelsea	B-ORG
 
@@ -106948,7 +105057,6 @@ ya	O
 nonodu	O
 naijiria	B-LOC
 
-
 taa	B-DATE
 
 onye	O
@@ -106990,7 +105098,6 @@ ya	O
 nonodu	O
 naijiria	B-LOC
 
-
 taa	B-DATE
 
 ihe	O
@@ -107019,7 +105126,6 @@ enweghi	O
 nsogbu	O
 na	O
 aisha	B-PER
-
 
 aisha	B-PER
 omolola	I-PER
@@ -107053,14 +105159,12 @@ mahadum	B-ORG
 ahmadu	I-ORG
 bello	I-ORG
 
-
 zaria	B-LOC
 
 nulo	O
 ya	O
 na	O
 samaru	B-LOC
-
 
 kaduna	B-LOC
 steeti	I-LOC
@@ -107098,7 +105202,6 @@ otutu	O
 ndi	O
 naijiria	O
 
-
 aisha	B-PER
 
 ubochi	O
@@ -107129,9 +105232,7 @@ mahadum	B-ORG
 ahmadu	I-ORG
 bello	I-ORG
 
-
 samaru	B-LOC
-
 
 zaria	B-LOC
 
@@ -107173,7 +105274,6 @@ naekwu	O
 etu	O
 aisha	B-PER
 
-
 audu	B-PER
 abdulqudus	I-PER
 
@@ -107184,7 +105284,6 @@ na	O
 mahadum	B-ORG
 ahmadu	I-ORG
 bello	I-ORG
-
 
 zaria	B-LOC
 
@@ -107228,7 +105327,6 @@ uloogwu	B-ORG
 mahadum	I-ORG
 ahmadu	I-ORG
 bello	I-ORG
-
 
 maryam	B-PER
 salami	I-PER
@@ -107275,7 +105373,6 @@ lie	O
 ya	O
 na	O
 mgbede	B-DATE
-
 
 toozde	B-DATE
 
@@ -107381,7 +105478,6 @@ mgbochi	O
 netiti	O
 aisha	B-PER
 
-
 salami	B-PER
 
 ugbua	O
@@ -107420,7 +105516,6 @@ elu	I-ORG
 nke	I-ORG
 etiti	I-ORG
 
-
 abuja	B-LOC
 
 nyere	O
@@ -107456,7 +105551,6 @@ ya	O
 na	O
 legos	B-LOC
 
-
 nigerian	B-ORG
 government	I-ORG
 
@@ -107472,7 +105566,6 @@ uloikpe	B-ORG
 elu	I-ORG
 nke	I-ORG
 etiti	I-ORG
-
 
 abuja	B-LOC
 
@@ -107530,7 +105623,6 @@ u	O
 ubochi	O
 tozde	B-DATE
 
-
 femi	B-PER
 falana	I-PER
 
@@ -107562,7 +105654,6 @@ di	O
 n	O
 abeokuta	B-LOC
 
-
 steeti	B-LOC
 ogun	I-LOC
 
@@ -107588,7 +105679,6 @@ na	O
 ya	O
 na	O
 adewale	B-PER
-
 
 funaab	B-ORG
 
@@ -107798,7 +105888,6 @@ onwe	O
 nke	O
 ncc	B-ORG
 
-
 teniola	B-PER
 
 kwuru	O
@@ -108003,7 +106092,6 @@ julai	I-DATE
 afo	I-DATE
 2019	I-DATE
 
-
 umar	B-PER
 danbatta	I-PER
 
@@ -108123,9 +106211,7 @@ maachi	I-DATE
 afo	I-DATE
 2019	I-DATE
 
-
 onicha	B-LOC
-
 
 abali	B-DATE
 iri	I-DATE
@@ -108178,7 +106264,6 @@ ana	O
 eme	O
 kwa	B-DATE
 onwa	I-DATE
-
 
 alton	B-ORG
 
@@ -108309,7 +106394,6 @@ nyefee	O
 nafo	O
 2021	B-DATE
 
-
 satode	B-DATE
 abali	I-DATE
 iri	I-DATE
@@ -108321,7 +106405,6 @@ onwa	I-DATE
 mee	I-DATE
 afo	I-DATE
 2016	I-DATE
-
 
 the	O
 great	O
@@ -108463,7 +106546,6 @@ na	O
 mba	O
 dika	O
 naijiria	B-LOC
-
 
 naijiria	B-LOC
 
@@ -108619,12 +106701,10 @@ ahu	O
 n	O
 ukpo	B-LOC
 
-
 okpuru	B-LOC
 ochichi	I-LOC
 nke	I-LOC
 dunukofia	I-LOC
-
 
 n'abali	B-DATE
 isii	I-DATE
@@ -108657,7 +106737,6 @@ rev	O
 fr	O
 michael	B-PER
 adawai	I-PER
-
 
 ezeokafor	B-PER
 
@@ -108733,7 +106812,6 @@ nke	O
 ugwu	B-LOC
 idemili	I-LOC
 
-
 7,	B-DATE
 2020	I-DATE
 
@@ -108745,7 +106823,6 @@ uka	I-ORG
 katolik	I-ORG
 nke	I-ORG
 okigwe	I-ORG
-
 
 steeti	B-LOC
 imo	I-LOC
@@ -108898,9 +106975,7 @@ ndida	O
 orumba	B-LOC
 sautu	I-LOC
 
-
 ezeokafor	B-PER
-
 
 solomon	B-PER
 amatu	I-PER
@@ -108960,7 +107035,6 @@ ahu	O
 kasiri	O
 ezinaulo	O
 amatu	B-PER
-
 
 obiano	B-PER
 
@@ -109036,7 +107110,6 @@ naka	O
 john	B-PER
 ndu	I-PER
 
-
 okwuosa	B-PER
 
 kowara	O
@@ -109053,7 +107126,6 @@ otutu	B-DATE
 afo	I-DATE
 gara	I-DATE
 aga	I-DATE
-
 
 6,	B-DATE
 2020	I-DATE
@@ -109174,7 +107246,6 @@ malitere	O
 nafo	O
 2018	B-DATE
 
-
 obiano	B-PER
 
 guzobere	O
@@ -109191,7 +107262,6 @@ nke	O
 dr	O
 onyechi	B-PER
 ikpeazu	I-PER
-
 
 okwuosa	B-PER
 
@@ -109219,19 +107289,15 @@ tumadi	O
 na	O
 nise	B-LOC
 
-
 okpuno	B-LOC
 
 na	O
 umuawulu	B-LOC
 
-
 ulooru	B-ORG
 ahuike	I-ORG
 
-
 okwuosa	B-PER
-
 
 6,	B-DATE
 2020	I-DATE
@@ -109251,7 +107317,6 @@ primary	I-ORG
 healthcare	I-ORG
 development	I-ORG
 agency	I-ORG
-
 
 asphcda	B-ORG
 
@@ -109349,7 +107414,6 @@ nta	O
 di	O
 n	O
 akpo	B-LOC
-
 
 okpuru	B-LOC
 ochichi	I-LOC
