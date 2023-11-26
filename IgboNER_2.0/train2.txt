@@ -1043,8 +1043,8 @@ n'afọ I-DATE
 naekwuru O
 ụlọọrụ O
 ahụ O
-wilson O
-uwujaren O
+wilson B-PER
+uwujaren I-PER
 ịka O
 akara O
 nye O
@@ -1054,8 +1054,8 @@ site O
 niwu O
 nke O
 ọkaikpe O
-mohammed O
-idris O
+mohammed B-PER
+idris I-PER
 nabalị O
 nke O
 ise O
@@ -1080,8 +1080,8 @@ ikoyi I-ORG
 uru O
 ụlọọrụ O
 ahụ O
-wilson O
-uwujaren O
+wilson B-PER
+uwujaren I-PER
 ịka O
 akara O
 nye O
@@ -1091,8 +1091,8 @@ site O
 niwu O
 nke O
 ọkaikpe O
-mohammed O
-idris O
+mohammed B-PER
+idris I-PER
 nabalị O
 nke O
 ise O
@@ -1114,18 +1114,18 @@ ndị O
 naagba O
 mpụ O
 mgba O
-economic O
-financial O
-crimes O
-commission O
+economic B-ORG
+financial I-ORG
+crimes I-ORG
+commission I-ORG
 akaala O
 ihe O
 onwunwe O
 dịịrị O
 aka O
 chịburu O
-steeti O
-abịa B-LOC
+steeti B-LOC
+abịa I-LOC
 orji O
 uzor O
 kalu O
@@ -1298,9 +1298,9 @@ ahụ O
 . O
 
 ka O
-orji O
-uzor O
-kalu O
+orji B-PER
+uzor I-PER
+kalu I-PER
 jere O
 mkpọrọ O
 ffk B-PER
@@ -1514,8 +1514,8 @@ patience B-PER
 jonathan I-PER
 olisa B-PER
 metu I-PER
-femi O
-fanikayode O
+femi B-PER
+fanikayode I-PER
 na O
 ndị O
 ọzọ O
@@ -1560,8 +1560,8 @@ nke O
 anọ O
 nonye O
 bụ O
-theodore O
-orji O
+theodore B-PER
+orji I-PER
 . O
 
 ihe O
