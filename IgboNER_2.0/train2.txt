@@ -16196,11 +16196,11 @@ mtn B-ORG
 
 ọ O
 gwara O
-bloomberg B-FAC
-nke I-FAC
-ọdịda I-FAC
-anyanwụ I-FAC
-afịrịka I-FAC
+bloomberg O
+nke O
+ọdịda O
+anyanwụ O
+afịrịka O
 na O
 site O
 na O
