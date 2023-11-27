@@ -12826,8 +12826,8 @@ nke O
 ukwuu O
 na O
 mgbe O
-awa B-TIME
-24 I-TIME
+awa B-DATE
+24 I-DATE
 nke O
 ịgbachi O
 nkịtị O
