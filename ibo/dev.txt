@@ -26085,8 +26085,8 @@ maka O
 mkpesa I-ORG
 nke O
 dr O
-onyechi B-PER)
-ikpeazụ I-PER)
+onyechi B-PER
+ikpeazụ I-PER
 san O
 bụ O
 onyeisi O
