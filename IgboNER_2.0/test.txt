@@ -551,7 +551,7 @@ ahụ O
 nwetere O
 njọ O
 ahịa O
-afọ  B-DATE
+afọ B-DATE
 ndị O
 nwe O
 ya O
@@ -1570,7 +1570,7 @@ grammy O
 ekele O
 ninwe O
 ọmalịcha O
-afọ  B-DATE
+afọ B-DATE
 ọma O
 . O
 
